@@ -1,0 +1,293 @@
+subcounty_id,county_id,subcounty_name
+1,1,Baringo central
+2,1,Baringo north
+3,1,Baringo south
+4,1,Eldama ravine
+5,1,Mogotio
+6,1,Tiaty
+7,2,Bomet central
+8,2,Bomet east
+9,2,Chepalungu
+10,2,Konoin
+11,2,Sotik
+12,3,Bumula
+13,3,Kabuchai
+14,3,Kanduyi
+15,3,Kimilil
+16,3,Mt Elgon
+17,3,Sirisia
+18,3,Tongaren
+19,3,Webuye east
+20,3,Webuye west
+21,4,Budalangi
+22,4,Butula
+23,4,Funyula
+24,4,Nambele
+25,4,Teso North
+26,4,Teso South
+27,5,Keiyo north
+28,5,Keiyo south
+29,5,Marakwet east
+30,5,Marakwet west
+31,6,Manyatta
+32,6,Mbeere north
+33,6,Mbeere south
+34,6,Runyenjes
+35,7,Daadab
+36,7,Fafi
+37,7,Garissa
+38,7,Hulugho
+39,7,Ijara
+40,7,Lagdera balambala
+41,8,Homabay town
+42,8,Kabondo
+43,8,Karachwonyo
+44,8,Kasipul
+45,8,Mbita
+46,8,Ndhiwa
+47,8,Rangwe
+48,8,Suba
+49,9,Isiolo
+50,9,Garba tula
+51,9,Merit
+52,10,Isinya
+53,10,Kajiado Central
+54,10,Kajiado North
+55,10,Loitokitok
+56,10,Mashuuru
+57,11,Butere
+58,11,Kakamega central
+59,11,Kakamega east
+60,11,Kakamega north
+61,11,Kakamega south
+62,11,Khwisero
+63,11,Lugari
+64,11,Lukuyani
+65,11,Lurambi
+66,11,Matete
+67,11,Mumias
+68,11,Mutungu
+69,11,Navakholo
+70,12,Ainamoi
+71,12,Belgut
+72,12,Bureti
+73,12,Kipkelion east
+74,12,Kipkelion west
+75,12,Soin sigowet
+76,13,Gatundu north
+77,13,Gatundu south
+78,13,Githunguri
+79,13,Juja
+80,13,Kabete
+81,13,Kiambaa
+82,13,Kiambu
+83,13,Kikuyu
+84,13,Limuru
+85,13,Ruiru
+86,13,Thika town
+87,13,Lari
+88,14,Ganze
+89,14,Kaloleni
+90,14,Kilifi north
+91,14,Kilifi south
+92,14,Magarini
+93,14,Malindi
+94,14,Rabai
+95,15,Kirinyaga central
+96,15,Kirinyaga east
+97,15,Kirinyaga west
+98,15,Mwea east
+99,15,Mwea west
+100,16,Bobasi
+101,16,Bomachoge borabu
+102,16,Bomachoge chache
+103,16,Boreti
+104,16,Nyaribari chache
+105,16,Nyaribari masaba
+106,16,Gucha west
+107,16,Gucha south
+108,17,Kisumu central
+109,17,Kisumu east
+110,17,Kisumu west
+111,17,Mohoroni
+112,17,Nyakach
+113,17,Nyando
+114,17,Seme
+115,18,Ikutha
+116,18,Katulani
+117,18,Kisasi
+118,18,Kitui central
+119,18,Kitui west
+120,18,Lower yatta
+121,18,Matiyani
+122,18,Migwani
+123,18,Mutitu
+124,18,Mutomo
+125,18,Muumonikyusu
+126,18,Mwingi central
+127,18,Mwingi east
+128,18,Nzambani
+129,18,Tseikuru
+130,19,Kinango
+131,19,Lungalunga
+132,19,Msambweni
+133,19,Mutuga
+134,20,Laikipia central
+135,20,Laikipia east
+136,20,Laikipia north
+137,20,Laikipia west
+138,20,Nyahururu
+139,21,Lamu East
+140,21,Lamu West
+141,22,Kathiani
+142,22,Machakos town
+143,22,Masinga
+144,22,Matungulu
+145,22,Mavoko
+146,22,Mwala
+147,22,Yatta
+148,23,Kaiti
+149,23,Kibwezi west
+150,23,Kibwezi east
+151,23,Kilome
+152,23,Makueni
+153,23,Mbooni
+154,24,Banissa
+155,24,Lafey
+156,24,Mandera East
+157,24,Mandera North
+158,24,Mandera South
+159,24,Mandera West
+160,25,Laisamis
+161,25,Moyale
+162,25,North hor
+163,25,Saku
+164,26,Buuri
+165,26,Igembe central
+166,26,Igembe north
+167,26,Igembe south
+168,26,Imenti central
+169,26,Imenti north
+170,26,Imenti south
+171,26,Tigania east
+172,26,Tigania west
+173,27,Awendo
+174,27,Kuria east
+175,27,Kuria west
+176,27,Nyatike
+177,27,Rongo
+178,27,Suna east
+179,27,Suna west
+180,28,Jomvu
+181,28,Kisauni
+182,28,Likoni
+183,28,Mvita
+184,28,Nyali
+185,29,Gatanga
+186,29,Kandara
+187,29,Kiharu
+188,29,Kigumo
+189,29,Kandara
+190,30,Dagoretti North
+191,30,Dagoretti South
+192,30,Embakasi Central
+193,30,Embakasi East
+194,30,Embakasi North
+195,30,Embakasi South
+196,30,Embakasi West
+197,30,Lang'ata
+198,30,Roysambu
+199,30,Ruaraka
+200,30,Starehe
+201,30,Westlands
+202,30,Kibra
+203,30,Kamukunji
+204,30,Makadara
+205,30,Mathare
+206,30,Kasarani
+207,30,Njiru
+208,31,Bahati
+209,31,Gilgil
+210,31,Kuresoi north
+211,31,Kuresoi south
+212,31,Molo
+213,31,Nakuru east
+214,31,Nakuru north
+215,31,Nakuru west
+216,31,Subukia
+217,31,Rongai
+218,32,Aldai
+219,32,Chesumei
+220,32,Emgwen
+221,32,Tinderet
+222,32,Nandi hills
+223,33,Kilgoris
+224,33,Narok east
+225,33,Narok north
+226,33,Narok south
+227,33,Narok west
+228,33,Emurua Dikirr
+229,34,Borabu
+230,34,Nyamira North
+231,34,Nyamira South
+232,34,West Mugirango
+233,35,Kinangop
+234,35,Kipipiri
+235,35,Mihariga
+236,35,Ol Kalou
+237,35,Ol Jorok
+238,36,Kieni east
+239,36,Kieni west
+240,36,Mathira
+241,36,Othaya
+242,36,Tetu
+243,37,Samburu east
+244,37,Samburu north
+245,37,Samburu west
+246,38,Alego Usonga
+247,38,Bondo
+248,38,Rarieda
+249,38,Ugunja
+250,38,Ugenya
+251,38,Gem
+252,39,Taveta
+253,39,Taita
+254,39,Voi
+255,40,Bura
+256,40,Garsen
+257,40,Galole
+258,40,Hulugho
+259,41,Chuka
+260,41,Maara
+261,41,Tharaka
+262,42,Kwanza
+263,42,Kiminini
+264,42,Saboti
+265,42,Endebess
+266,42,Cherangany
+267,43,Loima
+268,43,Turkana central
+269,43,Turkana north
+270,43,Turkana south
+271,43,Turkana west
+272,43,Turkana east
+273,44,Soy
+274,44,Turbo
+275,44,Kapseret
+276,44,Kesses
+277,45,Emuhaya
+278,45,Luanda
+279,45,Vihiga
+280,45,Hamisi
+281,45,Sabatia
+282,46,Wajir east
+283,46,Wajir north
+284,46,Wajir south
+285,46,Wajir west
+286,46,Wajir central
+287,47,Kacheliba
+288,47,Kapenguria
+289,47,Soi
+290,47,Sigor
+291,47,Selupwa
+292,47,Pokot south

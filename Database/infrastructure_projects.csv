@@ -1,0 +1,3001 @@
+project_id,county_id,project_name,project_type,start_year,completion_status
+1,38,Infra_0ATUJS,Hospital upgrade,2014,Planned
+2,30,Infra_J0193Y,Bridge,2014,Completed
+3,15,Infra_5D9Y0F,Road,2006,Planned
+4,32,Infra_2XZT9O,School construction,2010,Ongoing
+5,33,Infra_9WUVFX,School construction,2023,Planned
+6,27,Infra_DVX45H,Bridge,2013,Completed
+7,2,Infra_VBA4RL,Electricity,2021,Planned
+8,13,Infra_ZYZL13,School construction,2021,Completed
+9,10,Infra_P1MLVB,Water supply,2009,Ongoing
+10,47,Infra_XZXUW4,Electricity,2023,Completed
+11,30,Infra_YZ9U8L,Water supply,2020,Ongoing
+12,35,Infra_NF7PW5,Hospital upgrade,2005,Completed
+13,36,Infra_LVJWNU,School construction,2020,Planned
+14,20,Infra_YVORM8,Water supply,2021,Planned
+15,46,Infra_MKE3JC,Bridge,2007,Completed
+16,22,Infra_287VJ3,Water supply,2011,Planned
+17,24,Infra_980SPX,Hospital upgrade,2010,Completed
+18,29,Infra_D59P2J,Road,2007,Planned
+19,3,Infra_EN2CKE,Electricity,2013,Planned
+20,28,Infra_7WRJ4D,Water supply,2013,Ongoing
+21,42,Infra_A0BS51,Road,2019,Completed
+22,23,Infra_QU4T4J,Hospital upgrade,2017,Ongoing
+23,22,Infra_O91DX6,Electricity,2022,Planned
+24,14,Infra_UOWVM6,Bridge,2020,Ongoing
+25,19,Infra_XKWLKF,Water supply,2015,Completed
+26,32,Infra_FA8SRD,School construction,2008,Planned
+27,31,Infra_6VEXDK,Road,2008,Ongoing
+28,9,Infra_S9FSYB,Hospital upgrade,2009,Ongoing
+29,25,Infra_PMZJT6,School construction,2024,Completed
+30,19,Infra_P0U3SP,Water supply,2021,Ongoing
+31,8,Infra_SM04ZF,Bridge,2008,Planned
+32,30,Infra_OSED0G,Water supply,2020,Ongoing
+33,17,Infra_W9T90H,Electricity,2020,Ongoing
+34,18,Infra_QBIRXS,Hospital upgrade,2019,Ongoing
+35,30,Infra_J8G15U,Bridge,2013,Completed
+36,43,Infra_COHV4U,Electricity,2015,Ongoing
+37,47,Infra_THRONZ,Water supply,2016,Ongoing
+38,1,Infra_NT9YPA,Road,2020,Completed
+39,22,Infra_NOUDTR,School construction,2013,Ongoing
+40,4,Infra_8F0S8D,Hospital upgrade,2009,Completed
+41,14,Infra_X4T3JY,Water supply,2006,Planned
+42,24,Infra_YF24E5,Bridge,2012,Ongoing
+43,30,Infra_26J39M,Road,2023,Completed
+44,4,Infra_F747LT,Bridge,2013,Completed
+45,8,Infra_O71KFV,Bridge,2008,Completed
+46,18,Infra_1WSC0A,Electricity,2015,Ongoing
+47,2,Infra_5SHZI8,Electricity,2019,Planned
+48,5,Infra_RZ162Y,School construction,2007,Ongoing
+49,22,Infra_H29MZI,Bridge,2019,Ongoing
+50,38,Infra_DVBZ4V,School construction,2017,Completed
+51,17,Infra_507OWY,School construction,2005,Completed
+52,45,Infra_D2A7DO,School construction,2015,Completed
+53,10,Infra_WLWXF1,Water supply,2007,Planned
+54,24,Infra_7MW5QE,Electricity,2008,Completed
+55,35,Infra_9MQW5V,School construction,2009,Ongoing
+56,2,Infra_K046GN,Electricity,2022,Ongoing
+57,3,Infra_DBQE55,Hospital upgrade,2011,Ongoing
+58,19,Infra_3AWZ6Z,Water supply,2012,Completed
+59,13,Infra_BNMDBH,Road,2013,Completed
+60,44,Infra_U5L57D,Hospital upgrade,2012,Ongoing
+61,16,Infra_G2M190,Water supply,2016,Completed
+62,41,Infra_9ZMQVW,Bridge,2005,Ongoing
+63,9,Infra_CP1ZBT,Water supply,2006,Planned
+64,16,Infra_GMOU8G,Water supply,2009,Planned
+65,36,Infra_XPZ8ET,School construction,2010,Completed
+66,18,Infra_E4DC86,Bridge,2021,Ongoing
+67,47,Infra_DQ8IJJ,School construction,2011,Planned
+68,11,Infra_9OH66Z,School construction,2005,Completed
+69,41,Infra_J9GUG8,Road,2014,Completed
+70,2,Infra_HQCATT,Hospital upgrade,2007,Ongoing
+71,35,Infra_KSSPD9,School construction,2019,Ongoing
+72,30,Infra_7TXZNB,Bridge,2009,Ongoing
+73,19,Infra_I7O4L7,Bridge,2018,Planned
+74,32,Infra_CE6A8R,Electricity,2024,Planned
+75,28,Infra_JZZHOP,Bridge,2014,Completed
+76,31,Infra_WHFYQP,Hospital upgrade,2007,Planned
+77,30,Infra_K7J8DQ,Hospital upgrade,2007,Completed
+78,32,Infra_3FLRIZ,Water supply,2018,Planned
+79,11,Infra_SKQMM4,School construction,2017,Ongoing
+80,11,Infra_PPBN7C,Road,2019,Ongoing
+81,22,Infra_DK6HVA,Hospital upgrade,2006,Ongoing
+82,11,Infra_1F2Q40,Bridge,2010,Planned
+83,8,Infra_N8JMIT,Electricity,2011,Ongoing
+84,11,Infra_D1GH6D,Bridge,2011,Planned
+85,30,Infra_WMZUZD,Road,2017,Planned
+86,18,Infra_RW7GJZ,School construction,2010,Completed
+87,42,Infra_BW3K8M,Electricity,2009,Ongoing
+88,3,Infra_I1NB9S,Electricity,2011,Completed
+89,22,Infra_Y4A1Z9,Hospital upgrade,2017,Ongoing
+90,20,Infra_X8V3KU,Road,2013,Completed
+91,44,Infra_FWWVF3,Water supply,2023,Completed
+92,47,Infra_8E0SVG,Water supply,2011,Ongoing
+93,16,Infra_6FKUP3,Electricity,2015,Planned
+94,29,Infra_F4THMU,Water supply,2017,Planned
+95,8,Infra_VF3GVE,Electricity,2018,Planned
+96,18,Infra_5KON1S,Water supply,2010,Ongoing
+97,15,Infra_CPX5BC,Hospital upgrade,2010,Planned
+98,34,Infra_IZX8FU,Hospital upgrade,2011,Ongoing
+99,20,Infra_2O7WR1,Bridge,2022,Ongoing
+100,4,Infra_CIXFQO,Electricity,2024,Ongoing
+101,31,Infra_SB1OU3,Bridge,2018,Ongoing
+102,33,Infra_OC3M1V,Bridge,2010,Planned
+103,11,Infra_MTZB88,Bridge,2021,Ongoing
+104,11,Infra_CPPVNO,Water supply,2005,Ongoing
+105,22,Infra_FILWRH,Electricity,2010,Completed
+106,32,Infra_UP6991,Road,2010,Ongoing
+107,28,Infra_88ZUKL,Electricity,2016,Ongoing
+108,6,Infra_0G067Z,Electricity,2013,Ongoing
+109,11,Infra_AOB9RW,Hospital upgrade,2010,Completed
+110,4,Infra_R8QT3F,Road,2015,Completed
+111,43,Infra_7FF5SG,School construction,2007,Completed
+112,17,Infra_FSIOIL,Road,2024,Ongoing
+113,18,Infra_EYR5DE,School construction,2007,Ongoing
+114,7,Infra_92J0N4,Water supply,2013,Completed
+115,12,Infra_9D188E,Bridge,2022,Ongoing
+116,13,Infra_1DOYUW,School construction,2006,Planned
+117,43,Infra_J4S8LV,Road,2008,Planned
+118,28,Infra_3SY5MN,Bridge,2017,Planned
+119,36,Infra_DO8GHQ,Road,2014,Ongoing
+120,18,Infra_WER3Q7,School construction,2013,Completed
+121,26,Infra_F18LIY,Hospital upgrade,2008,Ongoing
+122,3,Infra_D9H36R,Electricity,2014,Planned
+123,45,Infra_64IQVG,Hospital upgrade,2006,Planned
+124,46,Infra_F3MB68,Electricity,2005,Ongoing
+125,39,Infra_FV8LF0,Hospital upgrade,2020,Completed
+126,3,Infra_OD8FNP,School construction,2015,Completed
+127,45,Infra_5HNNRZ,Road,2020,Ongoing
+128,42,Infra_XRL77K,Bridge,2024,Completed
+129,30,Infra_FQ5QQS,Road,2007,Planned
+130,18,Infra_YXN26W,Hospital upgrade,2006,Completed
+131,42,Infra_PMFBG2,Bridge,2015,Planned
+132,29,Infra_1V2HEZ,Electricity,2018,Planned
+133,16,Infra_IB3XJ8,School construction,2010,Planned
+134,28,Infra_8R6IG3,Hospital upgrade,2021,Ongoing
+135,18,Infra_HQ3OVW,Road,2019,Ongoing
+136,18,Infra_GL5JJ4,Road,2016,Completed
+137,13,Infra_LHS4WF,School construction,2016,Completed
+138,38,Infra_7PKXEF,Water supply,2007,Ongoing
+139,26,Infra_7QTWOP,Hospital upgrade,2015,Ongoing
+140,39,Infra_Q4BX9C,Hospital upgrade,2005,Planned
+141,30,Infra_81G7OQ,School construction,2019,Completed
+142,18,Infra_8XR9HE,School construction,2008,Planned
+143,42,Infra_KU8LUI,Electricity,2006,Completed
+144,2,Infra_KK0XFW,School construction,2019,Ongoing
+145,20,Infra_1H5M56,Electricity,2009,Completed
+146,3,Infra_MR47HM,Water supply,2010,Completed
+147,30,Infra_8BLEBX,Bridge,2008,Completed
+148,3,Infra_2ZJBWF,School construction,2023,Completed
+149,27,Infra_T0S6DO,Water supply,2014,Completed
+150,17,Infra_TILUB9,Bridge,2023,Ongoing
+151,18,Infra_RL3VMU,Water supply,2023,Completed
+152,6,Infra_6MPZEV,School construction,2014,Completed
+153,32,Infra_JAQ229,School construction,2023,Completed
+154,14,Infra_WD6NLA,Electricity,2014,Ongoing
+155,42,Infra_8DZ4AA,Water supply,2009,Completed
+156,11,Infra_13E8Q3,Hospital upgrade,2010,Completed
+157,30,Infra_SCQMO1,School construction,2010,Planned
+158,42,Infra_X6MQI8,Bridge,2018,Ongoing
+159,22,Infra_3QE27M,Road,2020,Completed
+160,10,Infra_T7UUG1,School construction,2015,Ongoing
+161,10,Infra_VYQ1D9,Hospital upgrade,2022,Completed
+162,16,Infra_47W363,Road,2014,Planned
+163,31,Infra_10V0ZP,Hospital upgrade,2016,Completed
+164,18,Infra_ABJDMQ,Bridge,2021,Completed
+165,18,Infra_RHTR05,Hospital upgrade,2022,Planned
+166,19,Infra_GSVR3S,Water supply,2021,Planned
+167,11,Infra_C22N25,Electricity,2023,Ongoing
+168,23,Infra_7MD1HC,Electricity,2021,Completed
+169,24,Infra_P0DVXV,Bridge,2019,Completed
+170,29,Infra_NZXVFV,Bridge,2011,Planned
+171,11,Infra_A6A053,Hospital upgrade,2007,Ongoing
+172,42,Infra_LWA89L,Electricity,2009,Completed
+173,30,Infra_WU6O1H,Bridge,2021,Ongoing
+174,30,Infra_348ETH,Electricity,2006,Completed
+175,11,Infra_0FY91Q,Road,2008,Completed
+176,10,Infra_Q7OWI5,School construction,2017,Completed
+177,12,Infra_F0OGUF,School construction,2024,Planned
+178,13,Infra_PYQ2VY,Water supply,2006,Ongoing
+179,26,Infra_U5GI9I,Electricity,2012,Planned
+180,43,Infra_KV9VQ5,Electricity,2011,Planned
+181,30,Infra_TDLAD6,Road,2019,Ongoing
+182,18,Infra_0NKTFY,Electricity,2013,Planned
+183,29,Infra_VQ1MHQ,Hospital upgrade,2012,Ongoing
+184,3,Infra_48XJ7P,School construction,2005,Planned
+185,35,Infra_ZZ6K0M,Hospital upgrade,2015,Planned
+186,25,Infra_AF6Z27,Electricity,2018,Completed
+187,31,Infra_H2AFFB,Electricity,2005,Completed
+188,11,Infra_VPFUQO,Water supply,2017,Completed
+189,35,Infra_RFFZT5,Road,2014,Planned
+190,41,Infra_0WM1FH,School construction,2009,Completed
+191,1,Infra_M7YWJR,Water supply,2013,Ongoing
+192,40,Infra_VJDS8C,Road,2014,Ongoing
+193,43,Infra_CPHW72,School construction,2021,Ongoing
+194,2,Infra_EZ3SBL,Road,2014,Completed
+195,12,Infra_DRVVQW,School construction,2010,Ongoing
+196,30,Infra_6GWY8K,Road,2018,Planned
+197,34,Infra_UMJQX0,Bridge,2010,Completed
+198,45,Infra_7O9OFJ,Water supply,2019,Planned
+199,35,Infra_WB81P2,Water supply,2015,Completed
+200,8,Infra_NJ5M2X,School construction,2008,Completed
+201,37,Infra_9AAMZS,Hospital upgrade,2018,Ongoing
+202,31,Infra_N8D3G6,Bridge,2021,Completed
+203,18,Infra_2FJ3RQ,Road,2018,Completed
+204,25,Infra_OB9BV6,Bridge,2020,Ongoing
+205,16,Infra_RJFEH1,School construction,2015,Completed
+206,4,Infra_3CKPFP,Road,2007,Ongoing
+207,46,Infra_3N5IIA,Water supply,2024,Completed
+208,5,Infra_334DZY,Road,2016,Completed
+209,39,Infra_F64QBM,School construction,2021,Planned
+210,7,Infra_U7TQKD,Bridge,2012,Completed
+211,32,Infra_12I06L,Bridge,2009,Ongoing
+212,18,Infra_G9SMNA,Road,2019,Completed
+213,5,Infra_GOCUWN,Water supply,2007,Ongoing
+214,30,Infra_85P691,Hospital upgrade,2010,Completed
+215,13,Infra_UN04GW,Road,2023,Ongoing
+216,38,Infra_RUWQ24,Hospital upgrade,2015,Ongoing
+217,31,Infra_VN60BL,Road,2006,Completed
+218,8,Infra_YPXKDR,Water supply,2009,Planned
+219,29,Infra_TEXIHU,Electricity,2021,Completed
+220,11,Infra_OM6VTH,School construction,2022,Planned
+221,30,Infra_Q80TH0,Hospital upgrade,2015,Completed
+222,29,Infra_OYZROT,Road,2009,Completed
+223,25,Infra_IJ6TKB,Water supply,2013,Planned
+224,21,Infra_TNJV5K,School construction,2012,Planned
+225,7,Infra_7ARMUM,Road,2016,Ongoing
+226,26,Infra_QKEYNI,Bridge,2009,Ongoing
+227,21,Infra_UCZ2HO,Water supply,2021,Ongoing
+228,3,Infra_CO68QF,School construction,2012,Completed
+229,12,Infra_NYSZW6,Water supply,2018,Completed
+230,27,Infra_GB2C9Z,Electricity,2007,Planned
+231,5,Infra_WT7M4P,Water supply,2012,Planned
+232,18,Infra_8JESPT,Hospital upgrade,2013,Planned
+233,23,Infra_VQG7OG,Water supply,2012,Planned
+234,29,Infra_JQNNXQ,Road,2018,Planned
+235,35,Infra_XC1H88,Hospital upgrade,2005,Completed
+236,33,Infra_9ML748,Electricity,2010,Ongoing
+237,18,Infra_9XKSKX,School construction,2006,Completed
+238,25,Infra_H7P0BI,School construction,2016,Completed
+239,31,Infra_BL9FY3,Water supply,2017,Ongoing
+240,18,Infra_FWB6W1,Hospital upgrade,2023,Planned
+241,30,Infra_AKCDXC,Electricity,2017,Ongoing
+242,22,Infra_20HP6Q,Water supply,2006,Planned
+243,13,Infra_1TZHEE,Bridge,2017,Ongoing
+244,8,Infra_WSOKRX,Hospital upgrade,2022,Planned
+245,7,Infra_UCMJFP,School construction,2008,Planned
+246,47,Infra_L697OF,Road,2023,Planned
+247,27,Infra_0R72CZ,Bridge,2024,Ongoing
+248,14,Infra_OCFZ0I,Hospital upgrade,2024,Ongoing
+249,42,Infra_SO7XEG,Road,2015,Ongoing
+250,32,Infra_R3FGJV,Road,2015,Ongoing
+251,30,Infra_LEKUM0,School construction,2005,Completed
+252,35,Infra_36M8AU,Water supply,2016,Completed
+253,17,Infra_36NGG6,Water supply,2018,Planned
+254,11,Infra_IPWML4,Water supply,2008,Ongoing
+255,13,Infra_2PZKHL,Road,2024,Completed
+256,30,Infra_OBU41W,Hospital upgrade,2010,Ongoing
+257,26,Infra_0RAMUX,Bridge,2005,Ongoing
+258,24,Infra_HOUOU9,Road,2019,Planned
+259,22,Infra_CX9SP8,Water supply,2010,Ongoing
+260,41,Infra_7RM2KB,School construction,2007,Ongoing
+261,26,Infra_XNDIJU,Water supply,2013,Completed
+262,13,Infra_OP07DX,Hospital upgrade,2022,Planned
+263,38,Infra_A03VAZ,Hospital upgrade,2010,Ongoing
+264,23,Infra_TC2UYL,Water supply,2023,Ongoing
+265,4,Infra_1HGJV2,School construction,2019,Completed
+266,26,Infra_QGURPA,School construction,2007,Ongoing
+267,26,Infra_3LA680,Bridge,2006,Ongoing
+268,2,Infra_3F28GX,School construction,2012,Planned
+269,30,Infra_LOHB88,Bridge,2015,Planned
+270,30,Infra_QFYK1J,Road,2023,Planned
+271,18,Infra_Z2GGEN,Hospital upgrade,2021,Ongoing
+272,25,Infra_XDOJ8P,Water supply,2015,Planned
+273,26,Infra_RSUTNZ,Road,2021,Completed
+274,29,Infra_Q28UU5,Road,2019,Completed
+275,17,Infra_G2UWRC,School construction,2007,Completed
+276,14,Infra_2VJYC4,Bridge,2013,Completed
+277,3,Infra_H05BD4,Hospital upgrade,2005,Ongoing
+278,36,Infra_C57DX6,Hospital upgrade,2018,Ongoing
+279,36,Infra_GP11NM,Bridge,2008,Completed
+280,32,Infra_IUERVB,School construction,2015,Completed
+281,45,Infra_MG327Z,Water supply,2015,Completed
+282,1,Infra_Z4ROZT,Hospital upgrade,2009,Planned
+283,11,Infra_RT9NZG,Hospital upgrade,2022,Completed
+284,2,Infra_Z1YM2H,School construction,2010,Completed
+285,9,Infra_5ZKFJ6,Water supply,2010,Planned
+286,1,Infra_IUL0I5,School construction,2015,Ongoing
+287,25,Infra_5Z1UUA,Hospital upgrade,2010,Ongoing
+288,19,Infra_VU6Q1M,Bridge,2014,Completed
+289,36,Infra_HSJM7M,Road,2013,Ongoing
+290,33,Infra_5FO9YI,School construction,2014,Completed
+291,3,Infra_FU7J0D,Bridge,2023,Ongoing
+292,33,Infra_6Y1HXU,Bridge,2022,Completed
+293,3,Infra_7M51C5,School construction,2010,Completed
+294,45,Infra_2I6095,Electricity,2022,Planned
+295,14,Infra_JS3YL5,Road,2024,Ongoing
+296,10,Infra_OLT9OX,Bridge,2008,Completed
+297,7,Infra_31AFK2,Road,2024,Planned
+298,27,Infra_3ZTBEK,Hospital upgrade,2018,Completed
+299,5,Infra_XC66FA,School construction,2014,Planned
+300,24,Infra_X0O37R,Hospital upgrade,2023,Ongoing
+301,33,Infra_07N9SX,Electricity,2014,Planned
+302,19,Infra_SJW50E,Hospital upgrade,2005,Planned
+303,27,Infra_5W88AI,School construction,2019,Completed
+304,21,Infra_PI4514,Water supply,2019,Completed
+305,27,Infra_OPE1ML,Water supply,2021,Completed
+306,26,Infra_MOSDQX,Hospital upgrade,2005,Planned
+307,31,Infra_CFEO16,Bridge,2011,Planned
+308,31,Infra_G9SL5L,Electricity,2018,Ongoing
+309,7,Infra_BPSMPV,Road,2024,Planned
+310,11,Infra_VXC6VA,Bridge,2007,Completed
+311,18,Infra_4CQRSG,Bridge,2012,Ongoing
+312,26,Infra_IDQCEH,School construction,2015,Ongoing
+313,13,Infra_8I1U4A,Water supply,2014,Completed
+314,30,Infra_17FZPY,Water supply,2005,Completed
+315,47,Infra_VQRP4V,Bridge,2014,Completed
+316,18,Infra_BPN4J5,Electricity,2021,Ongoing
+317,12,Infra_U2RW5O,Electricity,2014,Completed
+318,34,Infra_GDCV77,Bridge,2009,Planned
+319,29,Infra_XVRKKX,Hospital upgrade,2019,Ongoing
+320,3,Infra_RZTDMZ,Road,2014,Planned
+321,38,Infra_YOUEZ4,Water supply,2018,Completed
+322,35,Infra_QHKKKA,School construction,2021,Completed
+323,7,Infra_MZ8SPS,Electricity,2008,Planned
+324,14,Infra_ZN40BW,Bridge,2024,Completed
+325,17,Infra_15FL5X,Bridge,2019,Planned
+326,18,Infra_JNGI8N,Hospital upgrade,2020,Ongoing
+327,18,Infra_IHCR1Q,Hospital upgrade,2011,Completed
+328,22,Infra_CNU34L,Hospital upgrade,2020,Planned
+329,8,Infra_X0NBXE,Electricity,2023,Ongoing
+330,15,Infra_C46D08,Hospital upgrade,2024,Completed
+331,30,Infra_CUWWAT,Hospital upgrade,2016,Planned
+332,30,Infra_ESTSDX,Electricity,2008,Completed
+333,22,Infra_SD473V,Bridge,2017,Ongoing
+334,20,Infra_44YOF8,School construction,2017,Planned
+335,42,Infra_2MJD4D,Road,2020,Completed
+336,15,Infra_YFFF2G,Road,2011,Ongoing
+337,30,Infra_W2TCU2,Electricity,2015,Ongoing
+338,3,Infra_6WVFT3,Hospital upgrade,2015,Ongoing
+339,13,Infra_D0ZHXE,Hospital upgrade,2005,Planned
+340,47,Infra_WODAT5,Water supply,2022,Planned
+341,36,Infra_2XEW0B,Water supply,2007,Ongoing
+342,30,Infra_6MUX5I,School construction,2007,Planned
+343,35,Infra_PSFG0E,Bridge,2015,Completed
+344,9,Infra_QMIPBD,Road,2016,Planned
+345,27,Infra_92FDIE,School construction,2016,Ongoing
+346,22,Infra_HLJEU8,Bridge,2006,Planned
+347,29,Infra_CR1RW2,School construction,2024,Completed
+348,8,Infra_4VNR8I,Electricity,2012,Planned
+349,30,Infra_WHXB8M,Water supply,2017,Ongoing
+350,7,Infra_77TAUZ,School construction,2014,Ongoing
+351,31,Infra_JX2A0Z,Hospital upgrade,2018,Completed
+352,6,Infra_EKIH5K,Electricity,2005,Completed
+353,2,Infra_O80U07,Bridge,2006,Ongoing
+354,15,Infra_62S564,Bridge,2016,Ongoing
+355,9,Infra_HBZ980,Hospital upgrade,2022,Ongoing
+356,11,Infra_SYJJ3E,Hospital upgrade,2007,Planned
+357,39,Infra_602J1Z,Road,2017,Ongoing
+358,23,Infra_0LT9S5,Electricity,2022,Completed
+359,26,Infra_28QIXL,Hospital upgrade,2019,Completed
+360,28,Infra_ZHVET3,Bridge,2015,Completed
+361,34,Infra_OC5DL2,Water supply,2017,Ongoing
+362,4,Infra_IWXT0M,Hospital upgrade,2008,Completed
+363,12,Infra_WGDILD,Water supply,2020,Ongoing
+364,14,Infra_GCEH67,Electricity,2011,Completed
+365,40,Infra_T5YGPM,Electricity,2020,Ongoing
+366,22,Infra_TGE7QR,Water supply,2016,Planned
+367,27,Infra_VPIF2B,Hospital upgrade,2010,Planned
+368,7,Infra_BVVJAC,Electricity,2021,Completed
+369,23,Infra_9G80VR,Water supply,2006,Completed
+370,11,Infra_F7L2HL,Bridge,2022,Planned
+371,38,Infra_5D37O2,School construction,2014,Completed
+372,14,Infra_QFUSEZ,Hospital upgrade,2008,Planned
+373,30,Infra_GQ66BG,Hospital upgrade,2009,Completed
+374,44,Infra_GP980C,Hospital upgrade,2012,Ongoing
+375,29,Infra_P4HEWP,Bridge,2008,Completed
+376,12,Infra_B8P2JI,Water supply,2013,Ongoing
+377,26,Infra_5NRSGL,Hospital upgrade,2018,Ongoing
+378,11,Infra_Z7HSCM,Bridge,2023,Ongoing
+379,20,Infra_82PSRG,Hospital upgrade,2019,Completed
+380,26,Infra_0BLCLZ,School construction,2008,Completed
+381,30,Infra_0V3FWC,Road,2020,Completed
+382,3,Infra_5RVE82,Road,2012,Completed
+383,36,Infra_RDKM98,Water supply,2011,Planned
+384,29,Infra_D99KKM,School construction,2009,Ongoing
+385,28,Infra_H39SIC,Hospital upgrade,2011,Completed
+386,42,Infra_TNGD9A,Electricity,2017,Completed
+387,36,Infra_NIUX4K,Water supply,2006,Planned
+388,38,Infra_63AIIX,Bridge,2017,Planned
+389,11,Infra_P0QN0M,Hospital upgrade,2021,Ongoing
+390,31,Infra_Y6JH62,Hospital upgrade,2011,Ongoing
+391,43,Infra_7Y2V35,Road,2006,Ongoing
+392,15,Infra_0KAOGW,School construction,2020,Ongoing
+393,46,Infra_WWRF4K,Hospital upgrade,2020,Ongoing
+394,39,Infra_K5KVIR,Bridge,2007,Completed
+395,9,Infra_00RRBT,Electricity,2011,Planned
+396,34,Infra_ZJXQ8C,School construction,2006,Completed
+397,15,Infra_N11GZQ,Road,2015,Planned
+398,40,Infra_WNS7RB,Water supply,2015,Planned
+399,19,Infra_OLGB8P,Hospital upgrade,2020,Planned
+400,13,Infra_IPW11F,Road,2016,Planned
+401,1,Infra_OPJESC,School construction,2005,Ongoing
+402,11,Infra_4VY6BY,Electricity,2022,Planned
+403,5,Infra_WLDSVU,Water supply,2005,Ongoing
+404,32,Infra_D70F6B,Electricity,2005,Ongoing
+405,27,Infra_OXML6O,Electricity,2009,Completed
+406,4,Infra_QA12FB,School construction,2016,Planned
+407,18,Infra_3VFEI2,Road,2016,Planned
+408,10,Infra_CRBSH2,Road,2014,Planned
+409,40,Infra_5LTAM8,Bridge,2016,Ongoing
+410,18,Infra_GHEXI4,Water supply,2020,Planned
+411,3,Infra_70UYZ6,Hospital upgrade,2008,Completed
+412,10,Infra_ZMURJ3,Bridge,2007,Planned
+413,6,Infra_N8ZW2K,Electricity,2021,Ongoing
+414,25,Infra_RNEF05,Road,2016,Completed
+415,34,Infra_JXHBSD,Water supply,2007,Planned
+416,43,Infra_DFUSDO,Hospital upgrade,2022,Planned
+417,21,Infra_6A64Z7,School construction,2010,Ongoing
+418,26,Infra_97MH6Y,School construction,2016,Completed
+419,8,Infra_90PWC4,Bridge,2016,Ongoing
+420,36,Infra_N7AI8X,Hospital upgrade,2006,Ongoing
+421,26,Infra_4AILXW,Bridge,2021,Planned
+422,32,Infra_655I6X,Bridge,2022,Ongoing
+423,17,Infra_M63X8O,Bridge,2010,Planned
+424,18,Infra_5F9L6C,Electricity,2017,Planned
+425,45,Infra_S0W8I3,Road,2012,Ongoing
+426,12,Infra_1H61Z9,School construction,2015,Completed
+427,10,Infra_2NDEYI,Hospital upgrade,2017,Completed
+428,3,Infra_AQ2LCX,Road,2008,Ongoing
+429,26,Infra_BIGEKU,Electricity,2006,Planned
+430,11,Infra_A8488Y,Electricity,2019,Completed
+431,17,Infra_JQ79I1,Hospital upgrade,2010,Planned
+432,31,Infra_2I0GUO,Electricity,2011,Planned
+433,31,Infra_FBHRG6,Electricity,2016,Ongoing
+434,30,Infra_EZK7L3,Water supply,2023,Completed
+435,30,Infra_VY9884,Hospital upgrade,2022,Ongoing
+436,11,Infra_HIIHMN,Water supply,2005,Completed
+437,45,Infra_5CMSD6,Hospital upgrade,2017,Planned
+438,45,Infra_ALLB4V,Hospital upgrade,2010,Completed
+439,18,Infra_AR4XG0,School construction,2016,Planned
+440,13,Infra_AKJ1NS,School construction,2011,Ongoing
+441,14,Infra_IW3WJQ,Road,2023,Planned
+442,47,Infra_BD5L5U,Hospital upgrade,2023,Planned
+443,31,Infra_AT669Y,Hospital upgrade,2015,Planned
+444,8,Infra_B0D1B5,School construction,2016,Planned
+445,8,Infra_NMXVKL,Hospital upgrade,2009,Ongoing
+446,30,Infra_NFEXMY,School construction,2013,Completed
+447,15,Infra_RPL8U7,Water supply,2023,Planned
+448,26,Infra_QN27ZB,Hospital upgrade,2012,Planned
+449,27,Infra_A4I7AJ,Water supply,2014,Ongoing
+450,6,Infra_HSAMAH,Electricity,2022,Completed
+451,18,Infra_PUZ3EJ,Bridge,2015,Planned
+452,11,Infra_BRTEKC,Bridge,2015,Ongoing
+453,26,Infra_078POZ,School construction,2014,Planned
+454,41,Infra_AH11S8,Hospital upgrade,2023,Ongoing
+455,32,Infra_ECS5YZ,School construction,2014,Planned
+456,30,Infra_Y0JNLW,Road,2020,Completed
+457,22,Infra_KBHRAW,School construction,2017,Planned
+458,2,Infra_TMUYWE,Electricity,2015,Planned
+459,8,Infra_Z7M6TB,Road,2011,Ongoing
+460,47,Infra_GVLIED,Bridge,2006,Completed
+461,47,Infra_JVOALG,Road,2013,Completed
+462,31,Infra_TOOJJE,Bridge,2008,Ongoing
+463,16,Infra_C5OY81,School construction,2021,Ongoing
+464,22,Infra_J1Z9PA,Hospital upgrade,2016,Planned
+465,32,Infra_KF7AKN,Bridge,2014,Completed
+466,24,Infra_RL5MML,Water supply,2005,Planned
+467,3,Infra_IMPO4L,Bridge,2022,Completed
+468,6,Infra_I2T5PU,Road,2021,Planned
+469,1,Infra_9RJVTB,Road,2021,Planned
+470,28,Infra_ECVITZ,Electricity,2016,Planned
+471,18,Infra_CMNMDS,Hospital upgrade,2024,Completed
+472,31,Infra_S1UH7D,Road,2009,Ongoing
+473,18,Infra_X26WBT,Road,2014,Ongoing
+474,27,Infra_321U5Q,Bridge,2012,Planned
+475,3,Infra_WYQ4VU,Bridge,2018,Completed
+476,33,Infra_Z3TAUB,Road,2012,Completed
+477,15,Infra_7C52OI,School construction,2009,Planned
+478,8,Infra_TSLVEV,Hospital upgrade,2018,Completed
+479,16,Infra_H4XSZC,Hospital upgrade,2011,Completed
+480,32,Infra_9BSM2W,School construction,2021,Completed
+481,29,Infra_OHARCN,Road,2022,Completed
+482,31,Infra_5KSNFW,Road,2019,Completed
+483,26,Infra_VV2625,Water supply,2015,Planned
+484,11,Infra_JBB6E5,School construction,2016,Ongoing
+485,34,Infra_5YSV5U,Bridge,2017,Completed
+486,3,Infra_1WXLNJ,Electricity,2016,Completed
+487,33,Infra_C3U2YH,Road,2006,Ongoing
+488,13,Infra_05PR02,Road,2021,Planned
+489,30,Infra_NFBT1N,Water supply,2005,Completed
+490,3,Infra_5O4NCG,Hospital upgrade,2023,Planned
+491,36,Infra_U2OTPR,Road,2015,Planned
+492,18,Infra_7RRIFV,Electricity,2006,Ongoing
+493,30,Infra_PZB85P,Water supply,2015,Completed
+494,30,Infra_4F0UGP,Hospital upgrade,2013,Planned
+495,1,Infra_VUV9FR,Hospital upgrade,2022,Ongoing
+496,13,Infra_8NDOZD,Hospital upgrade,2005,Planned
+497,30,Infra_3AJCQ3,School construction,2008,Completed
+498,18,Infra_5KXQZQ,Hospital upgrade,2008,Ongoing
+499,17,Infra_T4N7QG,Water supply,2007,Planned
+500,25,Infra_204WSC,Hospital upgrade,2019,Completed
+501,47,Infra_EIKPER,School construction,2013,Planned
+502,46,Infra_J30ICZ,Bridge,2019,Ongoing
+503,11,Infra_6QY3CB,Hospital upgrade,2009,Planned
+504,47,Infra_RXJUEL,Hospital upgrade,2005,Completed
+505,12,Infra_QT6X8M,Bridge,2005,Planned
+506,29,Infra_M0XR7Q,Road,2023,Planned
+507,1,Infra_7F7F92,Water supply,2022,Ongoing
+508,3,Infra_G5OVKC,Road,2016,Completed
+509,12,Infra_UB5NYA,Hospital upgrade,2016,Planned
+510,16,Infra_DWKYGP,Bridge,2012,Ongoing
+511,13,Infra_HZND62,Water supply,2007,Ongoing
+512,4,Infra_AVPAX2,Water supply,2011,Ongoing
+513,38,Infra_N9JPYU,Water supply,2023,Planned
+514,17,Infra_ZPZFYR,Electricity,2011,Ongoing
+515,32,Infra_L9DD2N,Road,2009,Planned
+516,24,Infra_ETLXPO,Electricity,2019,Ongoing
+517,11,Infra_080KZ2,Electricity,2012,Planned
+518,34,Infra_0A4SJA,Water supply,2009,Ongoing
+519,46,Infra_WGC7HG,Hospital upgrade,2020,Planned
+520,21,Infra_4B603N,Electricity,2018,Ongoing
+521,27,Infra_1HTCYE,Hospital upgrade,2006,Planned
+522,36,Infra_0SL2ON,Water supply,2024,Completed
+523,42,Infra_S8ICSH,Road,2011,Ongoing
+524,43,Infra_KPQX20,Road,2007,Completed
+525,30,Infra_H0NI7Y,Hospital upgrade,2018,Ongoing
+526,22,Infra_R8A3LR,School construction,2005,Planned
+527,18,Infra_E9SGXJ,Electricity,2020,Completed
+528,13,Infra_4N1HLK,Bridge,2020,Completed
+529,44,Infra_BNO2LF,Electricity,2005,Completed
+530,32,Infra_S9COZ9,School construction,2022,Planned
+531,8,Infra_1SZ34O,Road,2013,Planned
+532,25,Infra_2BFPXL,Bridge,2008,Ongoing
+533,13,Infra_Q6UYM1,Bridge,2017,Ongoing
+534,11,Infra_LM3UP8,Hospital upgrade,2020,Completed
+535,30,Infra_LFMH7G,School construction,2016,Ongoing
+536,3,Infra_FM8HNC,School construction,2011,Ongoing
+537,35,Infra_AU7SY0,Bridge,2005,Planned
+538,42,Infra_TOQQC6,Hospital upgrade,2022,Ongoing
+539,18,Infra_XGULGT,Bridge,2010,Completed
+540,43,Infra_K5MCY0,Road,2024,Completed
+541,37,Infra_RICQDA,Water supply,2018,Planned
+542,30,Infra_7CIRM6,Hospital upgrade,2016,Ongoing
+543,31,Infra_LQFQQY,Water supply,2007,Ongoing
+544,17,Infra_NS6TWO,School construction,2015,Planned
+545,14,Infra_24OQMS,Electricity,2018,Completed
+546,14,Infra_GOXBO3,School construction,2023,Completed
+547,40,Infra_4TDACC,School construction,2013,Ongoing
+548,1,Infra_AAMSGS,School construction,2016,Planned
+549,9,Infra_43YEXK,School construction,2015,Planned
+550,31,Infra_YOR5PB,Hospital upgrade,2020,Planned
+551,13,Infra_G17IWC,School construction,2007,Completed
+552,36,Infra_EO7CDX,Bridge,2017,Completed
+553,26,Infra_9DISFB,School construction,2005,Completed
+554,2,Infra_GBV4YI,School construction,2005,Ongoing
+555,43,Infra_LN1OM2,Road,2020,Planned
+556,26,Infra_N5VEO3,School construction,2018,Completed
+557,22,Infra_BZVKQM,Hospital upgrade,2009,Planned
+558,18,Infra_YTUOM6,Bridge,2020,Completed
+559,12,Infra_BZRLH9,Bridge,2020,Planned
+560,7,Infra_4REID3,Bridge,2015,Ongoing
+561,31,Infra_BZDVRC,Bridge,2015,Completed
+562,11,Infra_64EK18,Bridge,2018,Planned
+563,13,Infra_9IKCR0,Bridge,2015,Completed
+564,5,Infra_9UYOO4,Electricity,2013,Ongoing
+565,17,Infra_SGWA1O,School construction,2022,Ongoing
+566,2,Infra_BTL9CP,Bridge,2014,Ongoing
+567,41,Infra_YEV0AS,Bridge,2010,Ongoing
+568,1,Infra_G0YCYG,Hospital upgrade,2016,Completed
+569,25,Infra_IZCIVS,Bridge,2023,Completed
+570,42,Infra_QG3E9H,Bridge,2017,Planned
+571,7,Infra_467VNC,Hospital upgrade,2016,Ongoing
+572,14,Infra_I3RP6B,School construction,2020,Completed
+573,5,Infra_PP9C3Z,Hospital upgrade,2019,Completed
+574,6,Infra_Z8LQ0I,School construction,2022,Planned
+575,12,Infra_WFLMA8,Hospital upgrade,2018,Ongoing
+576,12,Infra_2QQCHO,Water supply,2024,Ongoing
+577,33,Infra_6IWI9R,Electricity,2019,Ongoing
+578,31,Infra_KFVSCT,Electricity,2023,Ongoing
+579,28,Infra_7XY3WY,School construction,2017,Planned
+580,24,Infra_VS1CW7,Road,2019,Completed
+581,7,Infra_Q6UOHS,Hospital upgrade,2013,Ongoing
+582,18,Infra_ZDON36,Hospital upgrade,2013,Completed
+583,16,Infra_11C7II,Hospital upgrade,2009,Planned
+584,15,Infra_ZPUKOV,Electricity,2010,Completed
+585,11,Infra_TENCY0,Bridge,2010,Ongoing
+586,11,Infra_Z67RRX,Road,2015,Planned
+587,22,Infra_99YOTQ,Road,2006,Ongoing
+588,11,Infra_6QWNDX,Hospital upgrade,2020,Completed
+589,1,Infra_VU9K1U,Bridge,2015,Completed
+590,28,Infra_AI4VHH,Hospital upgrade,2013,Planned
+591,13,Infra_86DGL8,Electricity,2023,Ongoing
+592,31,Infra_NLV0TG,School construction,2007,Ongoing
+593,30,Infra_IDGATM,Water supply,2007,Completed
+594,2,Infra_U9MMGW,Bridge,2009,Ongoing
+595,30,Infra_1ZKBOP,School construction,2007,Completed
+596,35,Infra_NVYVKB,School construction,2020,Completed
+597,13,Infra_ZCDUPG,Hospital upgrade,2006,Ongoing
+598,18,Infra_P02FD3,Hospital upgrade,2024,Planned
+599,30,Infra_NDW9YZ,Hospital upgrade,2017,Planned
+600,12,Infra_NX89TM,Bridge,2014,Planned
+601,34,Infra_78ASQA,Electricity,2008,Completed
+602,30,Infra_CRGPPL,School construction,2014,Ongoing
+603,45,Infra_EUBYZ6,Hospital upgrade,2021,Ongoing
+604,3,Infra_BAT0NJ,School construction,2010,Ongoing
+605,17,Infra_036GT9,Road,2005,Ongoing
+606,16,Infra_8ANRN6,Electricity,2020,Completed
+607,31,Infra_AYGLQG,Hospital upgrade,2017,Completed
+608,18,Infra_DEOYZQ,School construction,2016,Completed
+609,3,Infra_3TAU1U,Electricity,2020,Completed
+610,31,Infra_ATXLBS,Electricity,2021,Completed
+611,14,Infra_PQBFNO,Bridge,2008,Planned
+612,17,Infra_MZTTWU,Road,2021,Planned
+613,27,Infra_VA25SX,School construction,2024,Planned
+614,30,Infra_P91Y4H,School construction,2012,Completed
+615,11,Infra_ZI1YIF,Water supply,2008,Ongoing
+616,32,Infra_0LG7JM,Water supply,2019,Ongoing
+617,18,Infra_P5U8Z1,Road,2016,Planned
+618,31,Infra_XLA3IQ,School construction,2019,Completed
+619,17,Infra_4TC5JY,School construction,2009,Ongoing
+620,1,Infra_NG0HFW,Road,2017,Ongoing
+621,18,Infra_31SJHU,School construction,2023,Planned
+622,47,Infra_Z39D2O,School construction,2007,Completed
+623,13,Infra_CMW9EJ,Road,2012,Ongoing
+624,43,Infra_VNPULP,Road,2018,Planned
+625,40,Infra_2P7ZXZ,Road,2006,Ongoing
+626,23,Infra_SJKXCM,Water supply,2023,Ongoing
+627,6,Infra_GXFJU5,School construction,2012,Planned
+628,3,Infra_W5G2PD,Road,2016,Ongoing
+629,25,Infra_1NBY4Q,Hospital upgrade,2012,Planned
+630,26,Infra_IIV9HE,Road,2019,Planned
+631,19,Infra_A7MBBI,Bridge,2011,Ongoing
+632,15,Infra_RBIEMG,Bridge,2020,Ongoing
+633,3,Infra_5KNVDU,Bridge,2009,Planned
+634,5,Infra_BY20KE,Bridge,2019,Ongoing
+635,20,Infra_R8BJSZ,Hospital upgrade,2016,Completed
+636,35,Infra_9B45J7,Electricity,2017,Completed
+637,32,Infra_ADC38V,Hospital upgrade,2021,Completed
+638,23,Infra_U7P66K,Road,2009,Completed
+639,21,Infra_VOMYDF,Water supply,2023,Completed
+640,18,Infra_Z8512O,Bridge,2012,Completed
+641,35,Infra_8FAZEH,Bridge,2023,Completed
+642,29,Infra_6SVOJ3,Road,2006,Planned
+643,34,Infra_FNNIAY,Hospital upgrade,2024,Completed
+644,22,Infra_YAPKDH,Water supply,2019,Planned
+645,39,Infra_HR81JV,Electricity,2013,Completed
+646,34,Infra_ONOCPS,Road,2020,Planned
+647,12,Infra_JMYB6M,Bridge,2017,Planned
+648,32,Infra_PXNUNY,Hospital upgrade,2008,Completed
+649,16,Infra_IU551J,Road,2022,Ongoing
+650,28,Infra_B0OGUA,Water supply,2016,Ongoing
+651,30,Infra_SZR3SI,Hospital upgrade,2005,Planned
+652,1,Infra_CJ05GX,School construction,2023,Planned
+653,18,Infra_3JES6T,School construction,2013,Ongoing
+654,9,Infra_JXYQI5,Hospital upgrade,2017,Ongoing
+655,42,Infra_G2EII1,Hospital upgrade,2007,Completed
+656,3,Infra_B1RC3D,School construction,2010,Ongoing
+657,42,Infra_8EJG1L,School construction,2018,Planned
+658,31,Infra_SV01M4,Electricity,2024,Completed
+659,37,Infra_SAQA07,Bridge,2011,Ongoing
+660,13,Infra_IWDYI7,School construction,2015,Ongoing
+661,1,Infra_66NS1W,School construction,2009,Planned
+662,11,Infra_XS3G07,School construction,2007,Ongoing
+663,32,Infra_YMZY7R,Road,2013,Completed
+664,19,Infra_G0CM1Z,Hospital upgrade,2011,Completed
+665,35,Infra_MUDZPX,Electricity,2006,Ongoing
+666,44,Infra_N925WD,Water supply,2013,Ongoing
+667,35,Infra_WCZHJX,Water supply,2011,Completed
+668,26,Infra_GQLJ6H,Bridge,2008,Planned
+669,4,Infra_1645BS,Electricity,2014,Ongoing
+670,30,Infra_Z7ZRZH,Hospital upgrade,2012,Planned
+671,8,Infra_DPHMUJ,Hospital upgrade,2018,Ongoing
+672,7,Infra_BI8G3I,Road,2015,Planned
+673,29,Infra_Y8380V,Water supply,2014,Ongoing
+674,18,Infra_ZNKHQY,Hospital upgrade,2009,Ongoing
+675,20,Infra_P5H0OV,Bridge,2014,Ongoing
+676,18,Infra_MO4VAL,Bridge,2011,Planned
+677,30,Infra_YRE6AS,Road,2023,Ongoing
+678,18,Infra_B3GRX0,Hospital upgrade,2011,Planned
+679,26,Infra_7FN82Q,Electricity,2006,Ongoing
+680,13,Infra_Q7G18X,Bridge,2023,Ongoing
+681,27,Infra_DH4YRV,School construction,2006,Planned
+682,37,Infra_Q7ORIS,Electricity,2018,Completed
+683,16,Infra_N545SL,Electricity,2017,Ongoing
+684,43,Infra_S7VSZK,Bridge,2010,Ongoing
+685,35,Infra_TDAP5A,Hospital upgrade,2007,Ongoing
+686,33,Infra_0NB9AC,School construction,2023,Ongoing
+687,33,Infra_N1QBLJ,School construction,2005,Completed
+688,32,Infra_E0GUMJ,Bridge,2011,Planned
+689,22,Infra_Y251ZE,School construction,2006,Ongoing
+690,17,Infra_6HF06Q,Water supply,2009,Planned
+691,2,Infra_QMECUY,Bridge,2022,Planned
+692,18,Infra_QLA9TS,Electricity,2018,Planned
+693,46,Infra_ZHSFOT,Water supply,2007,Ongoing
+694,12,Infra_M3S88R,Water supply,2011,Ongoing
+695,45,Infra_ZOA08I,Bridge,2006,Planned
+696,16,Infra_1UMK25,Electricity,2022,Ongoing
+697,23,Infra_RJ3YLG,Road,2021,Ongoing
+698,30,Infra_OZMORD,School construction,2013,Completed
+699,14,Infra_BF922A,Bridge,2012,Planned
+700,19,Infra_00VZJ1,Road,2016,Completed
+701,8,Infra_CUV0N3,Electricity,2010,Completed
+702,43,Infra_4BLY4W,Bridge,2005,Completed
+703,17,Infra_PQW1W8,Hospital upgrade,2015,Completed
+704,33,Infra_74CXAL,Road,2011,Planned
+705,3,Infra_6WUOE9,Water supply,2014,Completed
+706,30,Infra_2ZW0YH,Water supply,2014,Completed
+707,4,Infra_CQZUO5,Electricity,2012,Completed
+708,33,Infra_XJLVSH,Road,2018,Planned
+709,23,Infra_12N44D,Bridge,2014,Ongoing
+710,7,Infra_CJH0MF,Bridge,2020,Planned
+711,12,Infra_EAIPCZ,Road,2019,Ongoing
+712,11,Infra_FBKSLV,Road,2005,Planned
+713,24,Infra_T7WDPM,Road,2023,Ongoing
+714,8,Infra_I7VJZM,School construction,2020,Ongoing
+715,18,Infra_WXMRGB,Bridge,2018,Ongoing
+716,16,Infra_FJTIE7,Hospital upgrade,2013,Ongoing
+717,24,Infra_R6EXP3,Road,2020,Planned
+718,23,Infra_AMYG1G,Bridge,2014,Ongoing
+719,34,Infra_7CQVZ5,Road,2016,Ongoing
+720,15,Infra_GBZUEX,Road,2007,Ongoing
+721,31,Infra_YT1PSG,School construction,2017,Planned
+722,14,Infra_5NJ4SX,Electricity,2017,Completed
+723,11,Infra_ONSCQU,School construction,2011,Planned
+724,47,Infra_05K7Y3,Water supply,2015,Completed
+725,2,Infra_DMS8D9,Water supply,2005,Ongoing
+726,28,Infra_S19WNV,Road,2017,Ongoing
+727,18,Infra_ZBLT7X,Bridge,2014,Ongoing
+728,28,Infra_MT1IRQ,Electricity,2020,Completed
+729,7,Infra_2IVMHO,School construction,2020,Planned
+730,31,Infra_6BH4V8,School construction,2017,Completed
+731,7,Infra_GY9YP2,Bridge,2017,Ongoing
+732,28,Infra_C7SQFT,Electricity,2007,Planned
+733,13,Infra_7I0BWO,Bridge,2008,Ongoing
+734,12,Infra_0281PL,Road,2017,Ongoing
+735,22,Infra_QSOZV6,Electricity,2014,Planned
+736,1,Infra_RUEWX0,School construction,2022,Ongoing
+737,12,Infra_RM4WEG,Bridge,2012,Completed
+738,2,Infra_LFQT3D,Road,2010,Planned
+739,24,Infra_TS0DGF,School construction,2010,Completed
+740,31,Infra_ERBEWQ,Bridge,2007,Completed
+741,33,Infra_7BZKC5,Road,2010,Completed
+742,18,Infra_T2UYLJ,School construction,2011,Ongoing
+743,8,Infra_ZN723J,Water supply,2022,Ongoing
+744,3,Infra_NJ2ZFJ,Electricity,2024,Planned
+745,11,Infra_CQUH2D,Water supply,2023,Completed
+746,10,Infra_5G7G7P,Water supply,2006,Ongoing
+747,35,Infra_XE7U4W,Water supply,2022,Planned
+748,13,Infra_9EF1Y3,Water supply,2023,Ongoing
+749,28,Infra_8MCPD8,Electricity,2023,Planned
+750,22,Infra_0BV9G0,Hospital upgrade,2012,Planned
+751,3,Infra_SYXDP9,Water supply,2013,Ongoing
+752,34,Infra_3WBQDV,School construction,2014,Completed
+753,8,Infra_DUIV73,School construction,2014,Completed
+754,24,Infra_4T7Q8G,Water supply,2018,Completed
+755,18,Infra_FGKK7H,School construction,2023,Completed
+756,34,Infra_LYH52D,Hospital upgrade,2012,Completed
+757,8,Infra_KL5OUZ,Hospital upgrade,2023,Planned
+758,3,Infra_368E5J,Road,2015,Planned
+759,18,Infra_GS8A1B,Water supply,2010,Planned
+760,36,Infra_30F0AO,Road,2010,Ongoing
+761,1,Infra_GPJXP2,Road,2021,Ongoing
+762,30,Infra_Z4R4JW,Hospital upgrade,2007,Planned
+763,14,Infra_CWPXJX,Hospital upgrade,2019,Completed
+764,10,Infra_S9I5FL,Hospital upgrade,2008,Completed
+765,1,Infra_T99Z1I,School construction,2013,Ongoing
+766,15,Infra_DZZ765,Water supply,2005,Planned
+767,3,Infra_RCN6GR,Bridge,2008,Ongoing
+768,12,Infra_61ZMJG,Water supply,2010,Planned
+769,42,Infra_G1SFCX,Electricity,2011,Completed
+770,17,Infra_UWTVAR,School construction,2020,Planned
+771,2,Infra_LHBLDD,Bridge,2011,Ongoing
+772,35,Infra_PORF30,School construction,2016,Planned
+773,10,Infra_3W6Z2Y,Electricity,2010,Ongoing
+774,22,Infra_SOZN79,Water supply,2014,Completed
+775,1,Infra_LMZO4J,School construction,2018,Planned
+776,1,Infra_B4I8HO,Road,2006,Completed
+777,12,Infra_ZWWOTB,Bridge,2005,Ongoing
+778,17,Infra_FPHT5X,Bridge,2024,Completed
+779,16,Infra_7IAVH5,Hospital upgrade,2020,Ongoing
+780,41,Infra_5MZ8G6,Bridge,2013,Ongoing
+781,13,Infra_I8DY27,Bridge,2014,Completed
+782,23,Infra_PMF66I,Water supply,2013,Planned
+783,9,Infra_KCKF46,Electricity,2006,Completed
+784,35,Infra_JJ8FAR,Road,2023,Planned
+785,46,Infra_MUMGL8,Electricity,2013,Ongoing
+786,36,Infra_QYBNEK,Electricity,2023,Ongoing
+787,25,Infra_F692D5,Electricity,2021,Ongoing
+788,31,Infra_IFWJD1,Water supply,2013,Ongoing
+789,36,Infra_TY2FUH,Road,2024,Completed
+790,32,Infra_LE2IAB,Electricity,2021,Planned
+791,35,Infra_00BMUF,Road,2021,Ongoing
+792,17,Infra_6TETMP,Electricity,2022,Completed
+793,8,Infra_3PTFC4,Water supply,2018,Completed
+794,32,Infra_0QRBT0,Hospital upgrade,2022,Completed
+795,20,Infra_AOT879,Hospital upgrade,2006,Completed
+796,46,Infra_68TE1H,Road,2021,Ongoing
+797,23,Infra_WGWR4N,School construction,2014,Completed
+798,47,Infra_4AWNTU,Bridge,2024,Ongoing
+799,10,Infra_ZUILPG,Road,2022,Completed
+800,20,Infra_ELC2UZ,Road,2010,Ongoing
+801,10,Infra_B74RBI,Water supply,2012,Completed
+802,40,Infra_1BSCBF,School construction,2019,Completed
+803,17,Infra_6QXCRU,Bridge,2012,Completed
+804,29,Infra_NHCP4M,Bridge,2009,Ongoing
+805,13,Infra_Y21FOU,Road,2012,Planned
+806,30,Infra_LOTPE2,Water supply,2010,Ongoing
+807,17,Infra_JO29AA,Road,2013,Completed
+808,26,Infra_75BSPD,Road,2008,Ongoing
+809,32,Infra_MEOSP6,School construction,2011,Planned
+810,11,Infra_S63U4M,School construction,2016,Ongoing
+811,27,Infra_SBTKPL,Bridge,2012,Completed
+812,28,Infra_29VLU0,Bridge,2023,Completed
+813,26,Infra_HLVDL4,Bridge,2014,Ongoing
+814,14,Infra_K1HD27,Electricity,2022,Ongoing
+815,31,Infra_J0KH1E,Hospital upgrade,2014,Completed
+816,26,Infra_8Y4RQE,Hospital upgrade,2008,Ongoing
+817,45,Infra_BTU62B,Water supply,2017,Ongoing
+818,20,Infra_0L842N,Road,2008,Completed
+819,18,Infra_4G3USD,Road,2012,Planned
+820,30,Infra_AHGE4E,Road,2015,Planned
+821,47,Infra_SXKPXD,Water supply,2011,Planned
+822,12,Infra_YT4TJ6,Hospital upgrade,2012,Planned
+823,37,Infra_5H7LVO,School construction,2021,Completed
+824,22,Infra_2L2IJ7,Road,2009,Ongoing
+825,31,Infra_4KAGFM,Water supply,2013,Ongoing
+826,33,Infra_3W0C4U,Electricity,2018,Completed
+827,38,Infra_LIR0YI,Road,2009,Ongoing
+828,27,Infra_7T36DW,Bridge,2011,Planned
+829,11,Infra_RG8SF1,Electricity,2005,Ongoing
+830,31,Infra_PW5D2G,Water supply,2014,Planned
+831,40,Infra_PRF7Y8,Hospital upgrade,2019,Completed
+832,11,Infra_D198L7,Water supply,2020,Planned
+833,13,Infra_ZRY5YX,Electricity,2011,Ongoing
+834,32,Infra_UQM3ER,Electricity,2018,Ongoing
+835,26,Infra_0TJO8D,Hospital upgrade,2015,Completed
+836,47,Infra_ZJQJVJ,School construction,2010,Ongoing
+837,11,Infra_GPRO9Z,School construction,2015,Ongoing
+838,10,Infra_N8QFPB,Water supply,2010,Planned
+839,11,Infra_IUIY8I,Hospital upgrade,2015,Completed
+840,9,Infra_VKA548,Electricity,2011,Ongoing
+841,6,Infra_TLG78R,Electricity,2023,Planned
+842,17,Infra_UR9TU3,Road,2011,Planned
+843,14,Infra_ART1G7,Water supply,2023,Completed
+844,12,Infra_KQETOU,Hospital upgrade,2006,Ongoing
+845,3,Infra_80OW7F,Electricity,2007,Completed
+846,12,Infra_XEXECU,Road,2007,Planned
+847,13,Infra_AR7EM8,Electricity,2012,Ongoing
+848,20,Infra_VKJDYI,School construction,2007,Completed
+849,35,Infra_0QIADJ,School construction,2015,Ongoing
+850,12,Infra_3MWCGB,School construction,2016,Ongoing
+851,33,Infra_MCUM8T,Water supply,2023,Ongoing
+852,22,Infra_Y5TJRQ,Hospital upgrade,2012,Completed
+853,8,Infra_I9IPDR,Road,2021,Planned
+854,41,Infra_OST0ND,Electricity,2021,Completed
+855,3,Infra_B3NQOP,School construction,2012,Completed
+856,3,Infra_7IFVP1,School construction,2010,Completed
+857,13,Infra_UX0YQQ,School construction,2011,Ongoing
+858,31,Infra_E438VR,Hospital upgrade,2017,Ongoing
+859,40,Infra_K77W8H,School construction,2014,Planned
+860,6,Infra_MGUQVA,Bridge,2017,Completed
+861,40,Infra_IOIIRE,Water supply,2006,Ongoing
+862,30,Infra_17SWUM,School construction,2024,Planned
+863,19,Infra_39N6OU,School construction,2012,Planned
+864,24,Infra_MEKILW,Bridge,2020,Planned
+865,13,Infra_26J45U,School construction,2007,Planned
+866,38,Infra_UF96BJ,Water supply,2008,Planned
+867,24,Infra_9BYZ9J,Electricity,2020,Planned
+868,3,Infra_1MSI2B,Road,2008,Ongoing
+869,13,Infra_J8ZMBM,Bridge,2006,Ongoing
+870,26,Infra_FG6H0T,Electricity,2011,Completed
+871,32,Infra_PTKTDS,School construction,2022,Planned
+872,23,Infra_SXQCEM,School construction,2005,Planned
+873,20,Infra_MJ1F9E,Water supply,2014,Ongoing
+874,42,Infra_YXMIV4,Hospital upgrade,2020,Completed
+875,12,Infra_XOLJA9,Hospital upgrade,2023,Planned
+876,13,Infra_4FO6EF,Road,2005,Planned
+877,18,Infra_ATVL40,Hospital upgrade,2016,Completed
+878,2,Infra_XY20JZ,Road,2023,Completed
+879,12,Infra_7X1XJB,Hospital upgrade,2019,Planned
+880,45,Infra_L701CR,School construction,2024,Completed
+881,28,Infra_FY1SRL,Hospital upgrade,2009,Planned
+882,18,Infra_LGW1XC,Road,2014,Ongoing
+883,8,Infra_O52WSA,Electricity,2010,Completed
+884,40,Infra_219CIU,Bridge,2023,Planned
+885,42,Infra_OYM33B,Electricity,2005,Ongoing
+886,22,Infra_2VODI4,Road,2012,Ongoing
+887,23,Infra_6EL5P0,Electricity,2017,Planned
+888,28,Infra_FJ4DPZ,Electricity,2014,Ongoing
+889,11,Infra_SO70OT,Water supply,2012,Completed
+890,44,Infra_BV9F2S,Hospital upgrade,2018,Completed
+891,9,Infra_277FRY,Water supply,2012,Ongoing
+892,32,Infra_5M45PU,Bridge,2021,Ongoing
+893,13,Infra_LOJBT3,Water supply,2011,Ongoing
+894,11,Infra_OL3EDE,Water supply,2009,Completed
+895,33,Infra_7Y5LL9,Road,2021,Completed
+896,42,Infra_GA2VHR,Water supply,2007,Completed
+897,8,Infra_EOPGCC,Road,2013,Completed
+898,27,Infra_RCGSR9,Road,2014,Ongoing
+899,17,Infra_T0H5OA,Water supply,2013,Completed
+900,38,Infra_ITENQO,Electricity,2016,Planned
+901,7,Infra_7P5HBF,Water supply,2016,Ongoing
+902,31,Infra_8PKWWO,Electricity,2024,Ongoing
+903,16,Infra_3Z6JJY,Bridge,2018,Planned
+904,27,Infra_TIGQ0J,School construction,2023,Completed
+905,14,Infra_XSG3ZO,Bridge,2015,Ongoing
+906,7,Infra_YHFGX4,Hospital upgrade,2024,Completed
+907,36,Infra_W01YHM,Hospital upgrade,2006,Ongoing
+908,3,Infra_2B5GU9,Electricity,2017,Completed
+909,30,Infra_HERAO0,School construction,2011,Completed
+910,11,Infra_84CCNI,Water supply,2010,Planned
+911,30,Infra_UAJXK7,Electricity,2014,Planned
+912,10,Infra_JZ0R4J,Hospital upgrade,2023,Planned
+913,31,Infra_MERHKW,Hospital upgrade,2023,Planned
+914,40,Infra_7L6GBF,Electricity,2018,Ongoing
+915,7,Infra_2DFFET,Bridge,2023,Planned
+916,28,Infra_NPWFBZ,Water supply,2024,Ongoing
+917,22,Infra_OCORKG,Road,2019,Completed
+918,14,Infra_5SBWZZ,Hospital upgrade,2014,Completed
+919,30,Infra_53CRKR,Hospital upgrade,2007,Ongoing
+920,2,Infra_PF96VJ,Electricity,2011,Planned
+921,32,Infra_J6POV1,School construction,2012,Planned
+922,4,Infra_13MA6G,Water supply,2018,Completed
+923,15,Infra_CUTMHP,Hospital upgrade,2021,Ongoing
+924,42,Infra_9A9MNR,Hospital upgrade,2021,Ongoing
+925,24,Infra_S4L55T,Electricity,2013,Ongoing
+926,8,Infra_FOIG88,Road,2017,Planned
+927,25,Infra_WCX3J6,Bridge,2014,Ongoing
+928,32,Infra_U6S4E1,Electricity,2009,Completed
+929,30,Infra_XVNXB6,Water supply,2016,Planned
+930,9,Infra_64K1VI,Road,2009,Completed
+931,11,Infra_JQX3ES,Road,2006,Completed
+932,42,Infra_DVXYU0,Bridge,2007,Planned
+933,23,Infra_SJY448,Road,2007,Ongoing
+934,46,Infra_XO8DBX,Water supply,2018,Planned
+935,26,Infra_89LHJX,School construction,2016,Planned
+936,4,Infra_T5RT50,Electricity,2008,Ongoing
+937,14,Infra_PZONF9,Bridge,2013,Ongoing
+938,20,Infra_YVZV92,Bridge,2016,Completed
+939,26,Infra_YKQ9ON,Hospital upgrade,2019,Planned
+940,7,Infra_21AS07,Road,2006,Completed
+941,39,Infra_X1E1FW,Bridge,2024,Completed
+942,31,Infra_D1OWGW,School construction,2011,Ongoing
+943,11,Infra_X5IO05,Bridge,2019,Planned
+944,19,Infra_GGT9P7,Electricity,2007,Planned
+945,46,Infra_FR7LTX,Hospital upgrade,2012,Planned
+946,18,Infra_K2QFWO,Bridge,2022,Ongoing
+947,10,Infra_35EH7X,Road,2024,Ongoing
+948,8,Infra_CHRFXF,Bridge,2024,Ongoing
+949,2,Infra_CVF2ZS,Water supply,2005,Planned
+950,8,Infra_03XVPL,Road,2005,Planned
+951,1,Infra_3SG62T,Electricity,2006,Planned
+952,24,Infra_EC5441,Road,2006,Planned
+953,18,Infra_U2KE8L,School construction,2008,Planned
+954,30,Infra_82PKVA,Water supply,2016,Planned
+955,30,Infra_CNWA9L,Bridge,2006,Ongoing
+956,45,Infra_6OJ74K,Road,2007,Ongoing
+957,17,Infra_P37O62,Hospital upgrade,2018,Ongoing
+958,16,Infra_0OCBZA,Bridge,2011,Planned
+959,30,Infra_3TRUMT,Hospital upgrade,2021,Planned
+960,11,Infra_OI1KCM,Road,2010,Planned
+961,15,Infra_UY6REF,Hospital upgrade,2023,Planned
+962,18,Infra_QGUVMS,Electricity,2021,Ongoing
+963,42,Infra_1KVRX0,School construction,2022,Completed
+964,32,Infra_XD4OEN,Bridge,2021,Planned
+965,1,Infra_NED3S6,Electricity,2009,Ongoing
+966,45,Infra_2AEUMZ,Water supply,2021,Planned
+967,13,Infra_879H0X,Electricity,2010,Completed
+968,47,Infra_TSYOTY,Electricity,2005,Completed
+969,17,Infra_K13ITJ,Road,2006,Planned
+970,18,Infra_0MWKM0,Road,2020,Planned
+971,3,Infra_IDLEUH,Bridge,2021,Ongoing
+972,23,Infra_JC87Z1,School construction,2013,Completed
+973,34,Infra_J4D87F,Water supply,2014,Planned
+974,3,Infra_9V15YO,School construction,2020,Ongoing
+975,9,Infra_M507II,Bridge,2022,Ongoing
+976,45,Infra_U8SSWF,Electricity,2020,Completed
+977,28,Infra_LAZ3LV,Road,2023,Planned
+978,36,Infra_WOD8YY,Road,2024,Completed
+979,14,Infra_PS6DFL,Hospital upgrade,2013,Completed
+980,24,Infra_30BPLT,Road,2016,Planned
+981,16,Infra_LY0O1A,Electricity,2012,Completed
+982,17,Infra_ZTTDY9,Electricity,2010,Completed
+983,26,Infra_AYDPNM,Water supply,2012,Planned
+984,24,Infra_FUZZYH,Bridge,2019,Planned
+985,45,Infra_7AG3NE,Water supply,2016,Ongoing
+986,35,Infra_Z60NZ5,Road,2024,Planned
+987,45,Infra_URY45C,Bridge,2007,Planned
+988,30,Infra_YV0RUK,Hospital upgrade,2014,Ongoing
+989,9,Infra_H0F0VG,Water supply,2007,Ongoing
+990,25,Infra_WULPLU,Bridge,2009,Ongoing
+991,24,Infra_9HFT16,Electricity,2021,Ongoing
+992,15,Infra_1WYL8G,Bridge,2018,Completed
+993,13,Infra_7DSF8Q,Road,2020,Planned
+994,11,Infra_TCZ556,Hospital upgrade,2013,Ongoing
+995,8,Infra_8YLFD5,Road,2020,Completed
+996,23,Infra_1G4WW8,School construction,2006,Planned
+997,28,Infra_CZS4FV,Bridge,2019,Ongoing
+998,2,Infra_7OR3VH,Road,2014,Ongoing
+999,7,Infra_OWRO72,Road,2024,Planned
+1000,22,Infra_A8VPSU,Road,2021,Planned
+1001,6,Infra_0BPEP5,Bridge,2015,Completed
+1002,16,Infra_LHBBDS,Road,2023,Ongoing
+1003,2,Infra_HJ6NU9,Hospital upgrade,2023,Planned
+1004,24,Infra_VQRCEE,Electricity,2014,Planned
+1005,5,Infra_ED3ZTT,School construction,2019,Planned
+1006,12,Infra_3FQT4F,Hospital upgrade,2017,Planned
+1007,45,Infra_WFWOL1,Electricity,2011,Ongoing
+1008,45,Infra_42U9JP,Bridge,2007,Completed
+1009,16,Infra_OK8MTX,Bridge,2013,Completed
+1010,15,Infra_PHHCVC,Hospital upgrade,2022,Ongoing
+1011,24,Infra_KC8I9I,Water supply,2009,Completed
+1012,31,Infra_NQ9402,Electricity,2013,Ongoing
+1013,46,Infra_S0BPFD,Road,2009,Ongoing
+1014,30,Infra_C0QABS,Hospital upgrade,2021,Ongoing
+1015,18,Infra_6ZNTA1,Bridge,2016,Ongoing
+1016,18,Infra_8OJ4E2,Electricity,2024,Planned
+1017,3,Infra_C6XHO5,Electricity,2024,Planned
+1018,21,Infra_COUDNC,Water supply,2009,Planned
+1019,18,Infra_K2OVN2,School construction,2018,Completed
+1020,11,Infra_E5XH5Q,Bridge,2012,Completed
+1021,26,Infra_ZMNHFL,Bridge,2013,Ongoing
+1022,3,Infra_IE6YNC,Water supply,2019,Ongoing
+1023,33,Infra_7EOR9D,Water supply,2016,Planned
+1024,31,Infra_GH5KT6,Bridge,2014,Completed
+1025,31,Infra_NLFREM,School construction,2024,Ongoing
+1026,32,Infra_QCSAGG,Hospital upgrade,2015,Planned
+1027,35,Infra_JZVA5N,Electricity,2021,Ongoing
+1028,40,Infra_30CWG9,Water supply,2024,Planned
+1029,2,Infra_LVZTZW,Road,2013,Ongoing
+1030,28,Infra_FW9PTM,Electricity,2024,Planned
+1031,13,Infra_RX8VVX,Bridge,2021,Planned
+1032,15,Infra_EFD0SF,Hospital upgrade,2021,Completed
+1033,1,Infra_P0FA77,School construction,2007,Planned
+1034,43,Infra_I9Q3O9,Hospital upgrade,2010,Completed
+1035,25,Infra_WMZ22F,Road,2023,Ongoing
+1036,24,Infra_G6JI97,School construction,2015,Ongoing
+1037,44,Infra_FYTWJ1,Electricity,2005,Planned
+1038,26,Infra_MO9XXB,Electricity,2017,Planned
+1039,8,Infra_K529TM,Road,2017,Ongoing
+1040,44,Infra_X4N9RG,School construction,2011,Completed
+1041,19,Infra_15K7Y0,Bridge,2015,Completed
+1042,3,Infra_WZ4UDI,Bridge,2021,Ongoing
+1043,11,Infra_TZRULA,Electricity,2009,Completed
+1044,26,Infra_S6OGOI,Water supply,2018,Planned
+1045,8,Infra_QQ94KP,Road,2015,Planned
+1046,44,Infra_GS6T0Y,Electricity,2007,Planned
+1047,14,Infra_ZPSNJ3,Road,2008,Planned
+1048,42,Infra_OSJM6P,Water supply,2021,Ongoing
+1049,11,Infra_QEQ5H0,Hospital upgrade,2019,Ongoing
+1050,19,Infra_IDNS0G,School construction,2013,Completed
+1051,28,Infra_GIPWY4,Electricity,2022,Completed
+1052,18,Infra_05L28I,Water supply,2019,Planned
+1053,31,Infra_VWES08,Road,2013,Planned
+1054,46,Infra_I7QMFE,Hospital upgrade,2021,Ongoing
+1055,42,Infra_1UVCTJ,School construction,2022,Ongoing
+1056,42,Infra_EFX5OW,Road,2005,Planned
+1057,25,Infra_W3TMBW,School construction,2015,Planned
+1058,16,Infra_9N22O9,Road,2008,Planned
+1059,2,Infra_UU3EOG,Bridge,2021,Planned
+1060,20,Infra_Q9R2ZO,Water supply,2024,Completed
+1061,18,Infra_CKVCFK,Road,2022,Ongoing
+1062,20,Infra_NVUI6D,School construction,2008,Completed
+1063,30,Infra_WYCRZQ,School construction,2023,Completed
+1064,1,Infra_4MT6JD,Road,2008,Completed
+1065,10,Infra_D5VYCS,Road,2022,Ongoing
+1066,10,Infra_IG5IPL,Hospital upgrade,2005,Planned
+1067,12,Infra_PO08DM,Electricity,2019,Planned
+1068,29,Infra_R67BJ7,Hospital upgrade,2021,Planned
+1069,13,Infra_V93RB1,Electricity,2010,Ongoing
+1070,30,Infra_QN2RM3,Bridge,2009,Ongoing
+1071,27,Infra_9UNM4W,Water supply,2019,Ongoing
+1072,12,Infra_1DZO3P,Hospital upgrade,2022,Ongoing
+1073,29,Infra_WTVNXZ,Road,2019,Completed
+1074,2,Infra_C54SUH,School construction,2010,Completed
+1075,17,Infra_4BWNSZ,Electricity,2016,Ongoing
+1076,25,Infra_GPQSDZ,School construction,2017,Planned
+1077,12,Infra_TDPF6Z,Road,2023,Ongoing
+1078,20,Infra_87M43I,Water supply,2014,Planned
+1079,18,Infra_CQQCQS,Road,2014,Completed
+1080,18,Infra_GM7TI5,School construction,2018,Planned
+1081,13,Infra_UF83OO,Water supply,2005,Ongoing
+1082,17,Infra_CKWBTS,Road,2014,Completed
+1083,2,Infra_JK8TLO,Bridge,2008,Completed
+1084,27,Infra_5M8HOF,Bridge,2022,Ongoing
+1085,24,Infra_Z0ZF9T,Electricity,2020,Ongoing
+1086,24,Infra_B3HSAE,Electricity,2009,Ongoing
+1087,3,Infra_3V5A1W,School construction,2010,Planned
+1088,36,Infra_IGANTN,School construction,2012,Ongoing
+1089,32,Infra_Z9TG1O,Road,2010,Planned
+1090,26,Infra_L7A5VM,Road,2011,Ongoing
+1091,11,Infra_AUEFYB,Water supply,2009,Completed
+1092,31,Infra_BBMKFU,School construction,2014,Planned
+1093,12,Infra_WG86HL,Road,2007,Ongoing
+1094,20,Infra_RNY5LF,Electricity,2014,Completed
+1095,1,Infra_0ZDPV3,Road,2008,Planned
+1096,17,Infra_WPZG8L,Hospital upgrade,2011,Completed
+1097,13,Infra_HVG2VB,Electricity,2023,Planned
+1098,22,Infra_5SIVEP,School construction,2018,Completed
+1099,15,Infra_8OOU9Z,Electricity,2021,Ongoing
+1100,15,Infra_MOCS8P,Water supply,2005,Planned
+1101,44,Infra_P5AD2H,School construction,2024,Planned
+1102,40,Infra_CWBTM4,School construction,2012,Planned
+1103,45,Infra_T1N1PB,School construction,2008,Planned
+1104,13,Infra_NEAEPO,Hospital upgrade,2006,Completed
+1105,17,Infra_D1KC0L,Bridge,2007,Completed
+1106,28,Infra_UVRB3V,Road,2024,Ongoing
+1107,13,Infra_NF6X3T,Electricity,2009,Planned
+1108,26,Infra_XO4277,Bridge,2008,Ongoing
+1109,42,Infra_5WPZPE,Electricity,2017,Ongoing
+1110,8,Infra_PB7KKC,Water supply,2014,Completed
+1111,47,Infra_LQ6L5Q,Bridge,2016,Ongoing
+1112,3,Infra_4L2SY3,School construction,2022,Completed
+1113,47,Infra_JIYCS2,Water supply,2023,Ongoing
+1114,41,Infra_QX2KTY,Water supply,2015,Completed
+1115,6,Infra_LZK3M3,Hospital upgrade,2008,Completed
+1116,46,Infra_0M7ES1,Bridge,2010,Planned
+1117,13,Infra_0S2L7Q,Road,2013,Planned
+1118,9,Infra_BQKV1D,Road,2014,Planned
+1119,4,Infra_QIJ781,Water supply,2010,Ongoing
+1120,17,Infra_UUAYR5,Bridge,2019,Completed
+1121,31,Infra_Y7IN0Y,Road,2005,Completed
+1122,35,Infra_EKTHYD,School construction,2022,Completed
+1123,42,Infra_59G1LO,Bridge,2020,Completed
+1124,22,Infra_COS65T,Bridge,2008,Planned
+1125,33,Infra_03HSB8,Bridge,2018,Ongoing
+1126,22,Infra_9N5TUV,Hospital upgrade,2014,Ongoing
+1127,43,Infra_C88GSQ,Water supply,2021,Planned
+1128,12,Infra_7ZH6AS,School construction,2012,Ongoing
+1129,13,Infra_9A53O7,Water supply,2007,Completed
+1130,29,Infra_8M47BF,Bridge,2019,Planned
+1131,17,Infra_19EH7P,Bridge,2013,Ongoing
+1132,14,Infra_OVILXV,Electricity,2011,Ongoing
+1133,8,Infra_ROBDZ2,Water supply,2017,Ongoing
+1134,23,Infra_FTNYJ0,Electricity,2008,Ongoing
+1135,12,Infra_55T5IN,Electricity,2023,Completed
+1136,35,Infra_TN6RN1,Bridge,2019,Planned
+1137,28,Infra_DEO6VH,Bridge,2012,Ongoing
+1138,31,Infra_RVFYPX,Electricity,2015,Completed
+1139,14,Infra_OFPICS,Bridge,2010,Ongoing
+1140,33,Infra_64EQ8N,Bridge,2020,Planned
+1141,14,Infra_M95TC4,Electricity,2010,Ongoing
+1142,37,Infra_VXJW1C,Water supply,2008,Ongoing
+1143,9,Infra_6GRHX6,School construction,2015,Completed
+1144,8,Infra_MN2WWD,School construction,2018,Planned
+1145,3,Infra_A9D0F2,Electricity,2014,Planned
+1146,41,Infra_CG6BWP,Road,2007,Planned
+1147,22,Infra_TQ16EK,Hospital upgrade,2012,Ongoing
+1148,29,Infra_TQ0B0D,Hospital upgrade,2015,Planned
+1149,42,Infra_CN4D8S,Bridge,2010,Ongoing
+1150,1,Infra_LSVQOA,Bridge,2024,Planned
+1151,22,Infra_6Y5MPQ,School construction,2007,Ongoing
+1152,26,Infra_SD4T75,Water supply,2012,Ongoing
+1153,40,Infra_CPJPRR,School construction,2008,Ongoing
+1154,23,Infra_FPBR8W,Road,2008,Ongoing
+1155,13,Infra_QL5FHO,Bridge,2014,Planned
+1156,18,Infra_6VL00M,Road,2012,Planned
+1157,18,Infra_YYZQWU,Water supply,2016,Completed
+1158,11,Infra_JCD42Q,Bridge,2022,Ongoing
+1159,31,Infra_ARI29A,Electricity,2010,Planned
+1160,33,Infra_BVXFJV,Road,2009,Planned
+1161,19,Infra_EPJ240,Bridge,2010,Planned
+1162,18,Infra_GMAL07,School construction,2021,Ongoing
+1163,11,Infra_R5YKGK,Bridge,2014,Planned
+1164,2,Infra_O4V1LV,Hospital upgrade,2021,Ongoing
+1165,23,Infra_N3LLHD,Road,2009,Ongoing
+1166,4,Infra_FD0AJX,School construction,2013,Ongoing
+1167,47,Infra_FXYZMM,Electricity,2014,Planned
+1168,30,Infra_RPJ6HW,Bridge,2009,Planned
+1169,47,Infra_S5JWQ2,Electricity,2008,Completed
+1170,3,Infra_RUIG7H,Bridge,2013,Planned
+1171,18,Infra_VQP2QS,Hospital upgrade,2015,Completed
+1172,18,Infra_KRPPG4,Road,2019,Planned
+1173,44,Infra_TYJMJ7,Water supply,2012,Completed
+1174,25,Infra_HPRVWN,Bridge,2015,Planned
+1175,13,Infra_D9IA4I,Electricity,2005,Ongoing
+1176,43,Infra_5YBYQZ,Hospital upgrade,2018,Ongoing
+1177,4,Infra_FZ6A0E,Road,2017,Ongoing
+1178,18,Infra_98BNX0,School construction,2012,Completed
+1179,13,Infra_QLPWMJ,Bridge,2013,Planned
+1180,15,Infra_N5G5KB,Water supply,2022,Completed
+1181,30,Infra_9J0FT7,Electricity,2020,Completed
+1182,14,Infra_XM79D7,Bridge,2019,Completed
+1183,26,Infra_5GDMLA,Water supply,2017,Planned
+1184,29,Infra_VD96ZG,Road,2012,Planned
+1185,18,Infra_Q2JLEP,School construction,2017,Planned
+1186,12,Infra_Z3A0A8,Water supply,2012,Completed
+1187,44,Infra_D5JC15,Electricity,2020,Planned
+1188,41,Infra_MR8ESZ,Hospital upgrade,2006,Ongoing
+1189,30,Infra_TYT4FH,Road,2006,Completed
+1190,47,Infra_LU4JRW,Road,2010,Ongoing
+1191,18,Infra_J361VB,Road,2024,Completed
+1192,13,Infra_4GGXQI,Water supply,2011,Ongoing
+1193,14,Infra_IVS3GY,Electricity,2006,Completed
+1194,15,Infra_MJBSOP,Water supply,2005,Completed
+1195,45,Infra_NWKRCI,School construction,2024,Completed
+1196,11,Infra_45L3ZU,Electricity,2006,Ongoing
+1197,6,Infra_81N2DX,Road,2007,Planned
+1198,27,Infra_X0CM8T,Water supply,2024,Planned
+1199,8,Infra_54JPLM,School construction,2008,Ongoing
+1200,15,Infra_9R9XYQ,Water supply,2005,Planned
+1201,29,Infra_E5AMUA,Hospital upgrade,2016,Completed
+1202,36,Infra_4C2V3D,Hospital upgrade,2014,Planned
+1203,13,Infra_HLF5G2,School construction,2017,Ongoing
+1204,4,Infra_TZ02ZY,Bridge,2024,Planned
+1205,18,Infra_YLIDRO,Hospital upgrade,2019,Ongoing
+1206,7,Infra_QVD7J9,Bridge,2008,Planned
+1207,45,Infra_O7ZM0M,Electricity,2016,Ongoing
+1208,13,Infra_JQUVAE,Road,2009,Planned
+1209,24,Infra_O1CEJI,Bridge,2006,Planned
+1210,22,Infra_5KKCPW,School construction,2023,Planned
+1211,30,Infra_2EN5C6,School construction,2021,Planned
+1212,24,Infra_YECIHE,Water supply,2008,Planned
+1213,17,Infra_JG4UYH,Bridge,2013,Ongoing
+1214,30,Infra_GATXDW,Hospital upgrade,2017,Completed
+1215,14,Infra_3NN15V,School construction,2017,Ongoing
+1216,8,Infra_5KB0FM,Hospital upgrade,2017,Ongoing
+1217,30,Infra_V4ME6H,Bridge,2005,Planned
+1218,33,Infra_I7SGI1,Electricity,2014,Ongoing
+1219,1,Infra_903DWK,Road,2020,Ongoing
+1220,4,Infra_L56X7M,Electricity,2017,Completed
+1221,39,Infra_BRJGJM,Road,2013,Ongoing
+1222,47,Infra_8EYHJH,Electricity,2019,Completed
+1223,40,Infra_RSYGE3,Water supply,2020,Completed
+1224,19,Infra_4H1VV2,Hospital upgrade,2015,Planned
+1225,17,Infra_6JT0DV,Road,2013,Planned
+1226,6,Infra_GT2298,Hospital upgrade,2022,Ongoing
+1227,18,Infra_5AOQW6,Electricity,2018,Completed
+1228,12,Infra_56RKSS,Road,2016,Completed
+1229,32,Infra_C7JH0Y,Bridge,2023,Planned
+1230,31,Infra_6EP343,Electricity,2016,Completed
+1231,11,Infra_XSTY0Q,Electricity,2006,Ongoing
+1232,5,Infra_79V3PJ,Electricity,2015,Completed
+1233,17,Infra_Y9F09K,Water supply,2009,Planned
+1234,13,Infra_RJBJAK,Electricity,2023,Completed
+1235,5,Infra_3VYKON,Electricity,2018,Planned
+1236,22,Infra_T3JN7A,Bridge,2019,Planned
+1237,38,Infra_3NZ1LL,Bridge,2023,Completed
+1238,27,Infra_HV3SHV,Road,2013,Ongoing
+1239,18,Infra_HBAJ3O,School construction,2010,Ongoing
+1240,12,Infra_4LXJ37,Bridge,2016,Ongoing
+1241,35,Infra_51I5AO,Hospital upgrade,2005,Planned
+1242,7,Infra_3OH7AF,Water supply,2017,Planned
+1243,42,Infra_265MAJ,Water supply,2012,Planned
+1244,42,Infra_3RM4EU,Bridge,2021,Ongoing
+1245,8,Infra_QNXSO0,Road,2019,Completed
+1246,5,Infra_WT1PG3,Water supply,2010,Ongoing
+1247,29,Infra_Q7FC5K,Water supply,2019,Completed
+1248,13,Infra_MCBHQH,Road,2015,Completed
+1249,19,Infra_SD91S8,Hospital upgrade,2023,Ongoing
+1250,1,Infra_ONM2U3,Road,2009,Planned
+1251,31,Infra_DXS6H4,Road,2012,Completed
+1252,4,Infra_RWM0ME,Electricity,2023,Ongoing
+1253,22,Infra_C4ZHT1,Hospital upgrade,2008,Planned
+1254,13,Infra_36BNAP,Road,2007,Ongoing
+1255,31,Infra_63GEFS,School construction,2006,Ongoing
+1256,47,Infra_P3PXQE,Water supply,2006,Planned
+1257,13,Infra_TJ0I0O,Electricity,2018,Planned
+1258,45,Infra_2AT8EI,Hospital upgrade,2010,Ongoing
+1259,24,Infra_AVPU9J,Hospital upgrade,2006,Ongoing
+1260,47,Infra_KF84A3,Bridge,2008,Planned
+1261,30,Infra_XBN30B,Road,2013,Planned
+1262,16,Infra_QMZ1KE,Hospital upgrade,2017,Planned
+1263,39,Infra_KHWZTN,Road,2021,Ongoing
+1264,2,Infra_C2T2NH,Road,2020,Completed
+1265,33,Infra_NVR28G,Hospital upgrade,2022,Completed
+1266,2,Infra_OT4IS1,School construction,2017,Completed
+1267,3,Infra_JVF9C3,Hospital upgrade,2011,Planned
+1268,43,Infra_ZVTSEV,Electricity,2012,Completed
+1269,25,Infra_A108IV,School construction,2010,Ongoing
+1270,9,Infra_0GHZ6C,School construction,2008,Completed
+1271,43,Infra_Z3VA11,Bridge,2010,Ongoing
+1272,6,Infra_KDGVMX,Hospital upgrade,2017,Ongoing
+1273,29,Infra_BPEXXW,Electricity,2007,Ongoing
+1274,46,Infra_BPCRYV,Bridge,2024,Planned
+1275,38,Infra_XR8ROM,Road,2016,Completed
+1276,22,Infra_QO3X3V,Water supply,2020,Planned
+1277,7,Infra_NA4Y07,Water supply,2023,Completed
+1278,26,Infra_OH6YYJ,Bridge,2019,Ongoing
+1279,11,Infra_PZEAYJ,Road,2015,Completed
+1280,12,Infra_O2OE1I,Bridge,2016,Completed
+1281,45,Infra_AMJL7I,Road,2015,Planned
+1282,47,Infra_LQAC72,School construction,2008,Completed
+1283,41,Infra_PUREKA,Road,2006,Completed
+1284,10,Infra_P9D05G,Hospital upgrade,2005,Ongoing
+1285,22,Infra_R31PT4,Electricity,2017,Ongoing
+1286,7,Infra_5EA8RN,Hospital upgrade,2019,Planned
+1287,42,Infra_HITPSC,Water supply,2023,Completed
+1288,8,Infra_K6QG4E,Hospital upgrade,2009,Completed
+1289,17,Infra_WCE2RF,Water supply,2013,Planned
+1290,40,Infra_8TM4YY,Road,2020,Completed
+1291,25,Infra_5FL272,Electricity,2019,Planned
+1292,44,Infra_02ZDAR,Bridge,2013,Planned
+1293,28,Infra_37C0AJ,Water supply,2023,Ongoing
+1294,30,Infra_2PBC2G,Hospital upgrade,2023,Completed
+1295,11,Infra_HMIF4B,Bridge,2020,Completed
+1296,40,Infra_INRTFR,Bridge,2021,Planned
+1297,43,Infra_W67MVR,School construction,2014,Completed
+1298,4,Infra_PULNJ6,School construction,2019,Completed
+1299,11,Infra_WA31L8,School construction,2015,Completed
+1300,16,Infra_H4FB7G,Electricity,2007,Completed
+1301,4,Infra_YUUO1T,Water supply,2024,Ongoing
+1302,14,Infra_ASCTXM,School construction,2011,Completed
+1303,41,Infra_QB21UJ,School construction,2022,Completed
+1304,13,Infra_MN045W,Water supply,2005,Ongoing
+1305,23,Infra_UBUTVR,Electricity,2009,Planned
+1306,39,Infra_2PF72G,Bridge,2005,Ongoing
+1307,40,Infra_KM60UL,School construction,2015,Planned
+1308,43,Infra_7W5M2T,Electricity,2013,Completed
+1309,30,Infra_XH452O,Hospital upgrade,2024,Planned
+1310,46,Infra_G03OOQ,School construction,2013,Planned
+1311,24,Infra_NA6O9J,Hospital upgrade,2016,Ongoing
+1312,38,Infra_H8H87R,Water supply,2021,Planned
+1313,14,Infra_FVO3UV,School construction,2005,Ongoing
+1314,31,Infra_OP5LRZ,Electricity,2007,Planned
+1315,11,Infra_05BI34,Water supply,2008,Planned
+1316,40,Infra_GFXLM3,Water supply,2008,Planned
+1317,38,Infra_HFURSS,Bridge,2005,Ongoing
+1318,47,Infra_VGETRF,Road,2014,Completed
+1319,10,Infra_432VKN,Electricity,2022,Planned
+1320,26,Infra_QI2N87,Bridge,2021,Completed
+1321,30,Infra_LQ2ZRB,Electricity,2011,Ongoing
+1322,24,Infra_CKMOU7,Bridge,2020,Completed
+1323,18,Infra_X61SFB,Road,2008,Ongoing
+1324,2,Infra_T5I0EQ,Hospital upgrade,2022,Ongoing
+1325,16,Infra_XPD6G9,Road,2007,Completed
+1326,4,Infra_FF3WHM,School construction,2016,Completed
+1327,30,Infra_B3IPMU,Hospital upgrade,2019,Completed
+1328,39,Infra_2LMEOS,Electricity,2011,Planned
+1329,3,Infra_OMSMW5,Hospital upgrade,2006,Planned
+1330,13,Infra_L8WKH4,Bridge,2024,Ongoing
+1331,33,Infra_MCWHM6,Electricity,2014,Completed
+1332,15,Infra_YCU4SU,Hospital upgrade,2006,Completed
+1333,16,Infra_YK7GA6,School construction,2022,Ongoing
+1334,38,Infra_HH8V76,Hospital upgrade,2010,Completed
+1335,20,Infra_CDB896,Road,2021,Completed
+1336,11,Infra_AEN0IV,Water supply,2005,Completed
+1337,28,Infra_QINCTQ,Hospital upgrade,2005,Ongoing
+1338,18,Infra_3DMGQ2,School construction,2012,Ongoing
+1339,35,Infra_BI8I2O,School construction,2013,Ongoing
+1340,8,Infra_GAN6FH,Water supply,2015,Completed
+1341,17,Infra_603QR1,Electricity,2010,Planned
+1342,29,Infra_NZC417,Water supply,2013,Ongoing
+1343,6,Infra_YC2N05,Electricity,2011,Planned
+1344,3,Infra_JB1BJU,Road,2023,Ongoing
+1345,43,Infra_8APTH0,Hospital upgrade,2022,Completed
+1346,12,Infra_U088RO,Electricity,2022,Ongoing
+1347,31,Infra_JYSMHO,Water supply,2014,Completed
+1348,28,Infra_826PC0,Water supply,2008,Ongoing
+1349,22,Infra_SOTYB6,Electricity,2024,Ongoing
+1350,18,Infra_VIORBE,Road,2006,Ongoing
+1351,30,Infra_CFMLL8,Road,2022,Completed
+1352,46,Infra_0KPAOW,Road,2006,Ongoing
+1353,41,Infra_TR9FJ2,Electricity,2009,Completed
+1354,4,Infra_CSDTFQ,Road,2021,Ongoing
+1355,12,Infra_BTDH6T,Electricity,2013,Planned
+1356,27,Infra_XGJXHM,School construction,2022,Planned
+1357,38,Infra_585KFG,Bridge,2010,Ongoing
+1358,3,Infra_6DOIKE,Hospital upgrade,2022,Ongoing
+1359,22,Infra_19899U,Road,2016,Planned
+1360,16,Infra_K0XZ5A,Road,2008,Planned
+1361,37,Infra_8XL8FY,Electricity,2016,Ongoing
+1362,46,Infra_5EC1J5,Electricity,2005,Completed
+1363,13,Infra_5UU6LF,School construction,2016,Completed
+1364,16,Infra_FBFX4I,Bridge,2017,Completed
+1365,24,Infra_9IPW3R,Electricity,2019,Completed
+1366,26,Infra_ASYFGC,Bridge,2018,Ongoing
+1367,15,Infra_M87MY2,Water supply,2016,Planned
+1368,33,Infra_FIZNA8,School construction,2008,Completed
+1369,31,Infra_LQYQQ6,Electricity,2011,Ongoing
+1370,33,Infra_WTH8SO,Road,2015,Ongoing
+1371,30,Infra_ZO48ZL,Electricity,2023,Planned
+1372,23,Infra_ESDU0C,Road,2020,Planned
+1373,32,Infra_5FMZCX,Hospital upgrade,2016,Ongoing
+1374,19,Infra_683IUL,Water supply,2014,Completed
+1375,43,Infra_1M2PPP,School construction,2017,Planned
+1376,11,Infra_WY9POV,Electricity,2016,Completed
+1377,40,Infra_IH52BV,Road,2018,Ongoing
+1378,35,Infra_Y01JGM,School construction,2020,Completed
+1379,41,Infra_51U9J8,Hospital upgrade,2006,Planned
+1380,10,Infra_0TQRQ3,School construction,2020,Planned
+1381,29,Infra_48TUZX,Electricity,2016,Ongoing
+1382,39,Infra_V7KT4T,Electricity,2010,Completed
+1383,24,Infra_DZG6RS,Hospital upgrade,2024,Ongoing
+1384,40,Infra_4P2DC0,Bridge,2011,Completed
+1385,28,Infra_LHFTA2,Electricity,2009,Ongoing
+1386,24,Infra_U8T49E,School construction,2017,Ongoing
+1387,35,Infra_ZRP05R,School construction,2021,Ongoing
+1388,41,Infra_JNLTRD,Water supply,2013,Completed
+1389,31,Infra_74QZGJ,Water supply,2020,Planned
+1390,3,Infra_P9YLV5,Water supply,2014,Planned
+1391,17,Infra_L0XYOE,Road,2008,Completed
+1392,25,Infra_DKLEK4,School construction,2012,Completed
+1393,1,Infra_H8NTOL,School construction,2007,Planned
+1394,40,Infra_JULQ4E,Hospital upgrade,2013,Planned
+1395,13,Infra_IFX4A6,Bridge,2017,Completed
+1396,28,Infra_2TLV4O,Water supply,2013,Planned
+1397,26,Infra_YEC3NK,Water supply,2009,Completed
+1398,23,Infra_IQ9LQ6,Water supply,2019,Completed
+1399,22,Infra_9EMU5Z,Electricity,2019,Ongoing
+1400,17,Infra_5GRMXC,Electricity,2007,Completed
+1401,41,Infra_JEBD6G,Road,2005,Completed
+1402,18,Infra_I3YDLI,Electricity,2022,Ongoing
+1403,10,Infra_ZCYQ9I,School construction,2016,Planned
+1404,13,Infra_8S6EXG,Electricity,2005,Planned
+1405,47,Infra_VZHBVV,Road,2009,Completed
+1406,14,Infra_NTA2A5,Electricity,2006,Ongoing
+1407,18,Infra_8GY94S,Water supply,2015,Ongoing
+1408,30,Infra_8VH0LP,Hospital upgrade,2016,Planned
+1409,31,Infra_YHOVBO,School construction,2016,Ongoing
+1410,13,Infra_YFBK71,School construction,2024,Ongoing
+1411,36,Infra_85M4QW,Bridge,2022,Ongoing
+1412,26,Infra_485SK6,Water supply,2015,Ongoing
+1413,18,Infra_43LZMX,Bridge,2007,Planned
+1414,42,Infra_WMW6SF,Bridge,2014,Ongoing
+1415,16,Infra_MNNYSJ,School construction,2019,Completed
+1416,16,Infra_Y6J1BC,School construction,2010,Completed
+1417,33,Infra_RDROGS,Water supply,2014,Completed
+1418,11,Infra_10TWFM,School construction,2021,Completed
+1419,30,Infra_TW3MEX,Water supply,2022,Ongoing
+1420,8,Infra_ZNATE5,School construction,2024,Ongoing
+1421,11,Infra_2A7RI6,Water supply,2009,Planned
+1422,12,Infra_7CPNIV,Hospital upgrade,2006,Completed
+1423,36,Infra_SA805H,School construction,2011,Ongoing
+1424,35,Infra_3625XB,Road,2015,Ongoing
+1425,26,Infra_L2BF4H,Road,2023,Ongoing
+1426,31,Infra_KY2Y53,Water supply,2006,Ongoing
+1427,32,Infra_TNWU70,Electricity,2018,Planned
+1428,24,Infra_LM38LS,Water supply,2012,Planned
+1429,32,Infra_AMQOOG,Road,2011,Completed
+1430,39,Infra_MNK9LF,Road,2022,Completed
+1431,19,Infra_FFL5UH,Bridge,2005,Planned
+1432,30,Infra_J75Z7M,Road,2022,Ongoing
+1433,42,Infra_O48BCJ,School construction,2023,Planned
+1434,18,Infra_HA06RR,Water supply,2018,Completed
+1435,41,Infra_JX50WD,Bridge,2007,Completed
+1436,30,Infra_9SSQBW,School construction,2017,Planned
+1437,23,Infra_UCZVN9,Road,2019,Ongoing
+1438,19,Infra_F21H2N,Electricity,2005,Planned
+1439,4,Infra_PVLYPJ,School construction,2020,Completed
+1440,22,Infra_3VAOXW,Water supply,2009,Completed
+1441,46,Infra_YH3O77,Electricity,2006,Ongoing
+1442,2,Infra_NNY4HK,Bridge,2017,Completed
+1443,45,Infra_SHIRGC,Water supply,2005,Completed
+1444,29,Infra_S0BR0O,Hospital upgrade,2010,Ongoing
+1445,31,Infra_Z305XY,Hospital upgrade,2024,Planned
+1446,45,Infra_KYG62H,School construction,2014,Ongoing
+1447,26,Infra_SQPDLU,School construction,2012,Ongoing
+1448,32,Infra_H7G8QI,Road,2005,Ongoing
+1449,34,Infra_22ZGQV,Bridge,2018,Completed
+1450,30,Infra_KAQPTW,Road,2006,Planned
+1451,44,Infra_YQ6X1B,Water supply,2017,Ongoing
+1452,30,Infra_VNFDQ3,Hospital upgrade,2011,Completed
+1453,30,Infra_PLAOSZ,Bridge,2023,Completed
+1454,18,Infra_KMEOHD,Bridge,2008,Ongoing
+1455,27,Infra_4G15QF,Bridge,2022,Planned
+1456,18,Infra_P4XP8B,Bridge,2005,Ongoing
+1457,27,Infra_H18VLM,Electricity,2013,Completed
+1458,6,Infra_F3XWBU,Road,2021,Completed
+1459,30,Infra_MUQART,Electricity,2014,Ongoing
+1460,40,Infra_HOKPJ7,Electricity,2015,Completed
+1461,31,Infra_Q8OTMI,Electricity,2009,Completed
+1462,44,Infra_I9G59V,Electricity,2009,Ongoing
+1463,30,Infra_XMDD2G,School construction,2014,Ongoing
+1464,4,Infra_OO2F4X,Road,2018,Ongoing
+1465,38,Infra_IACOF0,School construction,2011,Planned
+1466,46,Infra_YYNKU0,Bridge,2016,Planned
+1467,30,Infra_E3QXU8,Bridge,2008,Planned
+1468,43,Infra_44755L,Road,2024,Completed
+1469,38,Infra_A6RMD9,Hospital upgrade,2011,Planned
+1470,14,Infra_EW0WP2,School construction,2023,Ongoing
+1471,13,Infra_KP0O2R,School construction,2005,Planned
+1472,8,Infra_RDOCU4,School construction,2007,Planned
+1473,36,Infra_MDOO03,Electricity,2005,Planned
+1474,6,Infra_02GABL,Road,2013,Planned
+1475,37,Infra_8GM3F7,School construction,2019,Planned
+1476,3,Infra_XR4WK6,Bridge,2013,Completed
+1477,13,Infra_9H4P4F,Bridge,2012,Planned
+1478,10,Infra_NBH5G6,Water supply,2021,Completed
+1479,13,Infra_OCB92J,Bridge,2014,Completed
+1480,47,Infra_BUA0L8,Bridge,2021,Planned
+1481,4,Infra_HOH5C3,Water supply,2009,Completed
+1482,5,Infra_F6TA6S,Electricity,2014,Planned
+1483,25,Infra_JX7FDP,Electricity,2017,Ongoing
+1484,30,Infra_MKXUD9,School construction,2010,Completed
+1485,7,Infra_0Z3I9E,Hospital upgrade,2022,Planned
+1486,22,Infra_GM1BG2,Bridge,2023,Ongoing
+1487,36,Infra_357V2Z,Water supply,2011,Completed
+1488,26,Infra_MJMWJ6,Hospital upgrade,2020,Ongoing
+1489,3,Infra_57VQAB,Hospital upgrade,2023,Ongoing
+1490,16,Infra_HXFGW9,Electricity,2022,Planned
+1491,47,Infra_KLHFWK,Electricity,2014,Planned
+1492,5,Infra_HWH5FA,Electricity,2010,Planned
+1493,18,Infra_CA6QC3,School construction,2023,Completed
+1494,21,Infra_YKTKTM,Bridge,2019,Planned
+1495,18,Infra_RULEPR,School construction,2019,Planned
+1496,16,Infra_IF6C1U,Hospital upgrade,2024,Ongoing
+1497,15,Infra_VJMIIB,Road,2017,Ongoing
+1498,34,Infra_3A5ZBY,School construction,2023,Planned
+1499,6,Infra_JIFPS4,Bridge,2005,Planned
+1500,46,Infra_XNAYBZ,Road,2006,Completed
+1501,13,Infra_ZRHWCI,Road,2017,Planned
+1502,11,Infra_DD8CVL,Bridge,2010,Ongoing
+1503,21,Infra_Z03S9I,Water supply,2010,Ongoing
+1504,3,Infra_NJ2LVW,Hospital upgrade,2014,Completed
+1505,30,Infra_7A4T55,Electricity,2014,Planned
+1506,11,Infra_IVLCQ2,Electricity,2022,Completed
+1507,27,Infra_17KGTT,Bridge,2021,Ongoing
+1508,24,Infra_0VS3E9,Electricity,2008,Completed
+1509,26,Infra_FTF9YP,Electricity,2018,Planned
+1510,18,Infra_HKKNUS,Road,2010,Completed
+1511,42,Infra_X64NU8,School construction,2012,Planned
+1512,18,Infra_7SDQAW,Water supply,2020,Completed
+1513,30,Infra_5JYSEL,Road,2020,Planned
+1514,31,Infra_9A15CV,Water supply,2019,Completed
+1515,17,Infra_7I65DV,Bridge,2022,Completed
+1516,46,Infra_J2WRTA,Road,2022,Ongoing
+1517,8,Infra_52GMJN,Bridge,2018,Ongoing
+1518,31,Infra_FYX8PX,Electricity,2006,Ongoing
+1519,45,Infra_F50D3N,Bridge,2014,Planned
+1520,10,Infra_3DWTHH,Road,2023,Planned
+1521,19,Infra_68IE6Q,School construction,2005,Completed
+1522,9,Infra_X9RUCV,Road,2023,Planned
+1523,27,Infra_IEFOA1,Hospital upgrade,2010,Completed
+1524,27,Infra_HPMQ10,Bridge,2014,Ongoing
+1525,2,Infra_HFMWUE,Hospital upgrade,2012,Completed
+1526,20,Infra_BTIZYK,School construction,2008,Completed
+1527,46,Infra_45M82O,Hospital upgrade,2015,Ongoing
+1528,3,Infra_OVF7HE,Hospital upgrade,2005,Planned
+1529,3,Infra_W3HR2L,Bridge,2019,Ongoing
+1530,36,Infra_E6PGEE,School construction,2010,Ongoing
+1531,15,Infra_M4TBG7,Road,2017,Ongoing
+1532,24,Infra_DEM1YR,Road,2006,Ongoing
+1533,22,Infra_LUHCC9,Water supply,2006,Completed
+1534,35,Infra_HVBOWF,Road,2016,Ongoing
+1535,11,Infra_URORA0,School construction,2011,Completed
+1536,18,Infra_P3PCKY,Water supply,2007,Planned
+1537,21,Infra_JCCSQE,Electricity,2005,Completed
+1538,30,Infra_YHWW0Z,Road,2020,Completed
+1539,42,Infra_YDH20Q,Bridge,2016,Planned
+1540,12,Infra_1S64U1,Bridge,2010,Completed
+1541,18,Infra_CSQ2A7,School construction,2009,Completed
+1542,18,Infra_BFV1TY,Electricity,2010,Ongoing
+1543,44,Infra_NADCJU,Hospital upgrade,2016,Planned
+1544,41,Infra_CVIG8D,School construction,2011,Completed
+1545,35,Infra_P5LALC,Hospital upgrade,2023,Ongoing
+1546,39,Infra_M1BEED,Water supply,2022,Ongoing
+1547,31,Infra_S6PHQZ,Hospital upgrade,2016,Completed
+1548,18,Infra_DD7DQA,School construction,2019,Planned
+1549,45,Infra_CFHA45,School construction,2006,Completed
+1550,8,Infra_4WM1DA,Electricity,2005,Planned
+1551,20,Infra_IHXZYQ,Hospital upgrade,2017,Completed
+1552,13,Infra_MIERSU,Road,2009,Ongoing
+1553,25,Infra_RK2ANZ,Water supply,2019,Ongoing
+1554,13,Infra_S0YMXP,Road,2023,Ongoing
+1555,41,Infra_IYH2RC,Bridge,2019,Completed
+1556,3,Infra_G18DSY,School construction,2006,Planned
+1557,27,Infra_9AL16V,Bridge,2009,Ongoing
+1558,30,Infra_GQU74F,School construction,2018,Ongoing
+1559,47,Infra_1CWIJF,Road,2012,Ongoing
+1560,30,Infra_5IYVCC,Hospital upgrade,2009,Completed
+1561,37,Infra_YQXT92,Electricity,2014,Completed
+1562,42,Infra_CNGRB7,School construction,2014,Planned
+1563,17,Infra_TVTW7W,Electricity,2024,Completed
+1564,18,Infra_AL3Z00,Road,2009,Ongoing
+1565,35,Infra_3H3EH1,Water supply,2010,Completed
+1566,31,Infra_S003K2,School construction,2020,Completed
+1567,45,Infra_ADAG68,Road,2024,Completed
+1568,30,Infra_I22058,Water supply,2005,Completed
+1569,13,Infra_ZWQ78A,Bridge,2006,Completed
+1570,45,Infra_133P0I,Hospital upgrade,2016,Planned
+1571,36,Infra_J1TY37,School construction,2010,Completed
+1572,33,Infra_JZIYPC,Road,2019,Planned
+1573,11,Infra_9B5ZM9,Water supply,2011,Ongoing
+1574,26,Infra_8398E8,Electricity,2006,Completed
+1575,35,Infra_6ZJL3F,Bridge,2016,Planned
+1576,2,Infra_MV26C0,School construction,2023,Ongoing
+1577,31,Infra_SCEIGF,School construction,2016,Planned
+1578,19,Infra_2HPG5W,Hospital upgrade,2024,Planned
+1579,13,Infra_EDG51K,Bridge,2019,Ongoing
+1580,45,Infra_ZO1C65,Hospital upgrade,2022,Ongoing
+1581,31,Infra_45MR2Z,Bridge,2009,Planned
+1582,5,Infra_IIR204,Electricity,2010,Ongoing
+1583,5,Infra_EBG4P9,Bridge,2007,Planned
+1584,15,Infra_RQMW0Q,Road,2016,Ongoing
+1585,29,Infra_0Q9HJ3,School construction,2023,Completed
+1586,4,Infra_30APTW,School construction,2020,Completed
+1587,43,Infra_H8N70N,Road,2018,Planned
+1588,12,Infra_92LGWU,Road,2008,Planned
+1589,23,Infra_D22TOT,Electricity,2019,Ongoing
+1590,3,Infra_Y3U2H6,Hospital upgrade,2010,Completed
+1591,44,Infra_RV1U3F,Water supply,2024,Completed
+1592,28,Infra_TO3OFS,Road,2015,Ongoing
+1593,5,Infra_R8Q4IK,School construction,2008,Planned
+1594,36,Infra_6OT5AW,Water supply,2023,Completed
+1595,13,Infra_O2UP4I,Electricity,2008,Completed
+1596,3,Infra_D5DOUZ,Electricity,2016,Planned
+1597,2,Infra_98UO8T,Water supply,2016,Planned
+1598,13,Infra_1B8M7D,Water supply,2016,Planned
+1599,18,Infra_QK922Z,Water supply,2012,Planned
+1600,9,Infra_BYSMEG,Bridge,2024,Completed
+1601,17,Infra_TKTGZM,Bridge,2013,Planned
+1602,43,Infra_ENEAZL,Electricity,2009,Completed
+1603,10,Infra_1QM970,Electricity,2009,Completed
+1604,3,Infra_ZCBZ8Z,Hospital upgrade,2022,Planned
+1605,44,Infra_B2DFDR,Bridge,2021,Ongoing
+1606,23,Infra_PRKOMQ,School construction,2016,Ongoing
+1607,30,Infra_5WWOW2,School construction,2020,Completed
+1608,24,Infra_29IRL8,Electricity,2023,Planned
+1609,11,Infra_85KUFS,Electricity,2008,Completed
+1610,35,Infra_ECBGC0,Road,2015,Completed
+1611,17,Infra_I7Z5L0,Water supply,2008,Planned
+1612,36,Infra_5C5YZC,Electricity,2024,Planned
+1613,1,Infra_TC656J,Road,2005,Planned
+1614,15,Infra_JH9IXB,School construction,2022,Completed
+1615,27,Infra_CLHXB1,Water supply,2014,Planned
+1616,42,Infra_3B5BT9,Water supply,2009,Planned
+1617,4,Infra_03IR9Y,Water supply,2015,Completed
+1618,39,Infra_CO66KW,Water supply,2024,Planned
+1619,11,Infra_CWF2UL,School construction,2015,Planned
+1620,37,Infra_SGUUVU,Bridge,2013,Completed
+1621,23,Infra_TN3RX9,Bridge,2009,Planned
+1622,27,Infra_HFZBG3,Bridge,2016,Planned
+1623,30,Infra_7F9VPA,Bridge,2012,Ongoing
+1624,35,Infra_X0IB8M,Hospital upgrade,2018,Planned
+1625,24,Infra_7ZH2KL,Bridge,2023,Planned
+1626,30,Infra_Z8MB9O,Hospital upgrade,2020,Completed
+1627,34,Infra_46VS7X,Water supply,2024,Completed
+1628,20,Infra_SPGQLQ,Hospital upgrade,2018,Ongoing
+1629,11,Infra_2AOWF0,Road,2007,Planned
+1630,16,Infra_YDTAAH,School construction,2012,Ongoing
+1631,30,Infra_8ZHKOJ,Electricity,2011,Completed
+1632,30,Infra_XTQ5B0,Electricity,2022,Planned
+1633,1,Infra_W5NI9C,Road,2017,Completed
+1634,6,Infra_MYODVH,Electricity,2023,Completed
+1635,12,Infra_QE81H8,Electricity,2006,Completed
+1636,12,Infra_SG5UHL,Electricity,2015,Planned
+1637,32,Infra_3Q1IZW,Electricity,2022,Completed
+1638,30,Infra_2JVV3R,School construction,2023,Completed
+1639,10,Infra_BY3NNT,Bridge,2018,Ongoing
+1640,18,Infra_244P7O,Water supply,2024,Ongoing
+1641,3,Infra_I1VS4U,Bridge,2022,Completed
+1642,11,Infra_W75U8V,Water supply,2020,Ongoing
+1643,37,Infra_Q1N5M6,Bridge,2016,Planned
+1644,26,Infra_QW9H4X,Bridge,2009,Planned
+1645,30,Infra_TW9O76,School construction,2012,Ongoing
+1646,24,Infra_R5NJN9,Bridge,2016,Planned
+1647,32,Infra_WUZO6N,Road,2014,Planned
+1648,26,Infra_AQ95ST,Water supply,2015,Ongoing
+1649,27,Infra_V7UGQ2,Bridge,2019,Ongoing
+1650,26,Infra_NOTE9G,Electricity,2017,Ongoing
+1651,8,Infra_P6UZPK,Electricity,2020,Completed
+1652,44,Infra_YDZ9PB,School construction,2010,Planned
+1653,17,Infra_D48H1K,Hospital upgrade,2009,Completed
+1654,5,Infra_UO5EAL,School construction,2021,Ongoing
+1655,9,Infra_IXECFO,Hospital upgrade,2011,Ongoing
+1656,27,Infra_0XUD6P,Water supply,2008,Ongoing
+1657,32,Infra_PEUS8M,School construction,2012,Completed
+1658,17,Infra_K5S2H7,Water supply,2021,Completed
+1659,29,Infra_X6Y445,Road,2013,Completed
+1660,3,Infra_P01MTD,Hospital upgrade,2024,Planned
+1661,20,Infra_OT11XY,Road,2023,Completed
+1662,10,Infra_SRC4I7,Bridge,2010,Completed
+1663,36,Infra_QQUOP3,Road,2012,Completed
+1664,22,Infra_6HBUQE,Water supply,2012,Ongoing
+1665,44,Infra_1ENCUN,Bridge,2010,Planned
+1666,3,Infra_C2LWLW,Electricity,2024,Planned
+1667,14,Infra_S9TM0V,School construction,2013,Ongoing
+1668,1,Infra_GQJ42C,School construction,2021,Completed
+1669,25,Infra_3Q8KTG,Water supply,2011,Planned
+1670,30,Infra_LHPDYN,Water supply,2023,Ongoing
+1671,30,Infra_4OYTGO,School construction,2016,Completed
+1672,11,Infra_UFYSGG,Bridge,2022,Completed
+1673,12,Infra_1NCSOL,Water supply,2015,Completed
+1674,11,Infra_99Q138,Electricity,2007,Ongoing
+1675,47,Infra_G31Y3W,Bridge,2005,Planned
+1676,32,Infra_KBGZSX,School construction,2024,Planned
+1677,1,Infra_7RP6D9,Bridge,2007,Planned
+1678,11,Infra_5SOAR4,School construction,2014,Ongoing
+1679,36,Infra_ENRVGG,School construction,2015,Completed
+1680,1,Infra_KXGQTN,Electricity,2013,Completed
+1681,43,Infra_N365BG,Bridge,2015,Ongoing
+1682,17,Infra_L74IL1,Road,2024,Ongoing
+1683,5,Infra_1EF0V6,Hospital upgrade,2013,Completed
+1684,17,Infra_6OMPPK,Water supply,2023,Completed
+1685,2,Infra_SK9JO3,Bridge,2006,Completed
+1686,46,Infra_5LQWQE,School construction,2016,Planned
+1687,30,Infra_3FV32H,Road,2024,Completed
+1688,10,Infra_3Y1JAG,School construction,2017,Completed
+1689,13,Infra_8VGK45,Water supply,2015,Ongoing
+1690,25,Infra_P186OF,Road,2022,Completed
+1691,24,Infra_5EDI35,School construction,2007,Completed
+1692,7,Infra_12WSIA,Road,2008,Completed
+1693,36,Infra_ZROD8E,Road,2011,Planned
+1694,43,Infra_4C3O44,Bridge,2011,Ongoing
+1695,3,Infra_25N7KS,Road,2024,Ongoing
+1696,12,Infra_XNX8VV,Road,2015,Planned
+1697,42,Infra_ZPR3IM,Electricity,2005,Planned
+1698,36,Infra_GCNFQZ,Road,2005,Completed
+1699,36,Infra_2D3VPH,Water supply,2018,Ongoing
+1700,45,Infra_L7SCZ0,Hospital upgrade,2011,Planned
+1701,8,Infra_PCR6SI,Electricity,2013,Completed
+1702,28,Infra_X3S9U3,Hospital upgrade,2021,Planned
+1703,19,Infra_B58JEZ,Water supply,2019,Ongoing
+1704,25,Infra_FQD2GJ,Electricity,2008,Ongoing
+1705,16,Infra_L0IZC2,Bridge,2016,Ongoing
+1706,2,Infra_VMNG53,Bridge,2012,Completed
+1707,18,Infra_H4USWN,Bridge,2019,Completed
+1708,20,Infra_X1V01R,Electricity,2013,Planned
+1709,18,Infra_LGBBMF,Road,2015,Completed
+1710,24,Infra_63FI9L,Bridge,2017,Completed
+1711,22,Infra_Z1P108,Electricity,2008,Planned
+1712,15,Infra_4ZSJ1D,Road,2020,Planned
+1713,15,Infra_YOGFAT,Electricity,2022,Completed
+1714,16,Infra_TLJRXK,Hospital upgrade,2021,Ongoing
+1715,17,Infra_R6B28Z,Road,2022,Planned
+1716,47,Infra_L912W9,Bridge,2023,Completed
+1717,11,Infra_CDVT2E,Water supply,2015,Planned
+1718,3,Infra_IXRNEP,Electricity,2023,Completed
+1719,7,Infra_VX5KD8,Bridge,2024,Planned
+1720,35,Infra_1LSMTN,Electricity,2016,Planned
+1721,3,Infra_6IRUH4,Hospital upgrade,2013,Completed
+1722,12,Infra_TAGAZQ,Electricity,2022,Completed
+1723,24,Infra_ZZSQRC,Bridge,2008,Planned
+1724,3,Infra_YERE6Q,Electricity,2018,Completed
+1725,3,Infra_615B2U,Water supply,2011,Planned
+1726,40,Infra_OS4QC1,Water supply,2014,Completed
+1727,45,Infra_CICYFE,Road,2011,Planned
+1728,15,Infra_114TDD,Electricity,2020,Planned
+1729,28,Infra_3Q7TG3,Electricity,2023,Planned
+1730,12,Infra_5GJ4RW,School construction,2006,Planned
+1731,25,Infra_KZ1ESM,Bridge,2012,Ongoing
+1732,17,Infra_VGG2H4,School construction,2015,Completed
+1733,28,Infra_KVZSFO,Electricity,2015,Completed
+1734,13,Infra_55XNLW,Hospital upgrade,2014,Ongoing
+1735,3,Infra_GGN8I4,Electricity,2006,Planned
+1736,46,Infra_MRS6LK,Bridge,2008,Planned
+1737,12,Infra_J72N4U,Electricity,2014,Completed
+1738,30,Infra_D94X76,Electricity,2014,Completed
+1739,6,Infra_0YX2FZ,Bridge,2007,Planned
+1740,22,Infra_VMFIAR,Hospital upgrade,2008,Completed
+1741,17,Infra_OEOG0F,Electricity,2015,Completed
+1742,17,Infra_BTMQJS,Bridge,2017,Planned
+1743,20,Infra_9JHY8R,Road,2011,Completed
+1744,18,Infra_AVGU2F,Road,2012,Completed
+1745,30,Infra_WAUO0K,Hospital upgrade,2011,Ongoing
+1746,23,Infra_S7DLOY,Road,2016,Ongoing
+1747,33,Infra_51DZS9,Hospital upgrade,2006,Completed
+1748,1,Infra_YSQL0U,Bridge,2008,Planned
+1749,22,Infra_6BRS2E,School construction,2011,Planned
+1750,15,Infra_V6CJZD,Bridge,2010,Completed
+1751,47,Infra_N0L9A3,Bridge,2005,Completed
+1752,17,Infra_U1WYQ0,Bridge,2017,Ongoing
+1753,19,Infra_NAEX7Q,Road,2007,Completed
+1754,45,Infra_6JBUIW,Electricity,2005,Ongoing
+1755,2,Infra_UPRGKD,Road,2013,Completed
+1756,45,Infra_T3B676,Hospital upgrade,2024,Ongoing
+1757,31,Infra_1W4JS4,Road,2021,Ongoing
+1758,47,Infra_OCG3I5,Bridge,2017,Ongoing
+1759,17,Infra_CDY96L,Road,2022,Completed
+1760,21,Infra_A2B1O5,Electricity,2015,Ongoing
+1761,32,Infra_OJHBER,Electricity,2011,Planned
+1762,35,Infra_GQMTTE,Electricity,2019,Ongoing
+1763,35,Infra_VLPKR1,School construction,2008,Planned
+1764,30,Infra_1HCHVK,Electricity,2005,Ongoing
+1765,37,Infra_OZQBPK,Electricity,2012,Planned
+1766,11,Infra_D6H5C8,Bridge,2017,Completed
+1767,33,Infra_S3IQ5U,Bridge,2011,Ongoing
+1768,45,Infra_OI4NKZ,Road,2022,Ongoing
+1769,5,Infra_88WTF7,Bridge,2022,Ongoing
+1770,30,Infra_5SW4I1,Road,2010,Ongoing
+1771,10,Infra_2HOFPR,Hospital upgrade,2009,Ongoing
+1772,27,Infra_S52DGK,Water supply,2006,Ongoing
+1773,42,Infra_YHWQIC,Water supply,2009,Completed
+1774,4,Infra_Z4VED3,Hospital upgrade,2013,Ongoing
+1775,25,Infra_3N9UFZ,School construction,2015,Planned
+1776,11,Infra_TRLCQG,School construction,2023,Ongoing
+1777,11,Infra_3FES4B,Road,2019,Planned
+1778,19,Infra_8YS78B,Electricity,2011,Planned
+1779,16,Infra_JTSLZM,Bridge,2020,Completed
+1780,33,Infra_INR8QE,Bridge,2015,Planned
+1781,23,Infra_QAXICA,Hospital upgrade,2020,Completed
+1782,31,Infra_0E22IC,Electricity,2005,Ongoing
+1783,47,Infra_07I0YE,Bridge,2009,Completed
+1784,27,Infra_I0CJUG,Bridge,2021,Ongoing
+1785,5,Infra_08349G,Hospital upgrade,2014,Planned
+1786,45,Infra_KZDCKV,Electricity,2014,Ongoing
+1787,2,Infra_FS43RL,Hospital upgrade,2005,Ongoing
+1788,16,Infra_DVQONO,Bridge,2014,Planned
+1789,10,Infra_Q8CXU3,School construction,2019,Completed
+1790,22,Infra_2C3MGB,Hospital upgrade,2022,Ongoing
+1791,38,Infra_GFIJCK,Water supply,2014,Completed
+1792,32,Infra_JECRQV,Bridge,2011,Ongoing
+1793,43,Infra_AKU80G,Water supply,2005,Planned
+1794,39,Infra_657V73,Hospital upgrade,2024,Completed
+1795,31,Infra_7J6QRC,Hospital upgrade,2016,Ongoing
+1796,47,Infra_N4IFGW,Water supply,2023,Ongoing
+1797,23,Infra_1BL912,School construction,2023,Planned
+1798,13,Infra_B0WL0D,Road,2008,Planned
+1799,43,Infra_5W1R1P,School construction,2024,Ongoing
+1800,7,Infra_W9N9H4,Electricity,2009,Planned
+1801,24,Infra_J05CJ7,School construction,2005,Ongoing
+1802,1,Infra_E7EPY2,Water supply,2013,Ongoing
+1803,31,Infra_QRE1DI,Water supply,2022,Completed
+1804,4,Infra_CWHIT5,Water supply,2016,Planned
+1805,13,Infra_7S2WEC,Water supply,2018,Completed
+1806,13,Infra_WD8ZFB,Water supply,2022,Planned
+1807,19,Infra_ST7YIR,Water supply,2016,Completed
+1808,7,Infra_RJCN2O,Bridge,2012,Completed
+1809,11,Infra_IBGYJN,Water supply,2011,Ongoing
+1810,33,Infra_ADC0PI,Hospital upgrade,2008,Completed
+1811,19,Infra_I7A745,Electricity,2015,Planned
+1812,29,Infra_UQFYRM,Water supply,2018,Completed
+1813,35,Infra_MV3ISL,Road,2013,Completed
+1814,12,Infra_6FQ6FA,Hospital upgrade,2019,Completed
+1815,43,Infra_8RP0SV,Electricity,2016,Ongoing
+1816,44,Infra_SYBH5Q,Electricity,2020,Planned
+1817,26,Infra_QYMZVU,Bridge,2023,Ongoing
+1818,46,Infra_E6MK2I,Hospital upgrade,2012,Ongoing
+1819,8,Infra_GABSBQ,Water supply,2009,Planned
+1820,30,Infra_QFLMEB,Road,2016,Ongoing
+1821,11,Infra_1IOOV7,Bridge,2015,Planned
+1822,11,Infra_4SKI8V,Electricity,2019,Ongoing
+1823,18,Infra_MFPOTA,Hospital upgrade,2005,Ongoing
+1824,42,Infra_SC7K28,School construction,2010,Ongoing
+1825,17,Infra_LHP3R2,Water supply,2017,Planned
+1826,46,Infra_B0LXKR,Water supply,2019,Completed
+1827,3,Infra_5E2U86,Electricity,2011,Ongoing
+1828,14,Infra_44BXKY,School construction,2014,Planned
+1829,13,Infra_3B9PCB,Hospital upgrade,2011,Completed
+1830,1,Infra_LBK8DM,Hospital upgrade,2023,Planned
+1831,34,Infra_26LIR9,School construction,2016,Planned
+1832,26,Infra_LSW4JO,Electricity,2021,Completed
+1833,27,Infra_M51IVG,Bridge,2017,Ongoing
+1834,24,Infra_W9N1LL,Electricity,2007,Completed
+1835,18,Infra_N45M6K,Bridge,2008,Planned
+1836,6,Infra_3VDR05,Bridge,2009,Ongoing
+1837,17,Infra_7J4DIE,Bridge,2024,Planned
+1838,8,Infra_2MOD9T,Bridge,2021,Ongoing
+1839,22,Infra_EEK4N7,School construction,2008,Completed
+1840,30,Infra_IKDOPH,Water supply,2024,Ongoing
+1841,8,Infra_1XKWF7,Hospital upgrade,2020,Completed
+1842,3,Infra_JIFMNL,Bridge,2011,Planned
+1843,28,Infra_ICM5B9,Hospital upgrade,2023,Ongoing
+1844,18,Infra_J8KQB6,Bridge,2013,Ongoing
+1845,17,Infra_XHJB9F,Water supply,2010,Completed
+1846,39,Infra_5YGGFM,Electricity,2008,Completed
+1847,38,Infra_425Y0L,Bridge,2008,Ongoing
+1848,26,Infra_LQKBSH,Bridge,2019,Completed
+1849,16,Infra_VQGQNS,Water supply,2021,Ongoing
+1850,26,Infra_JHF8VI,Electricity,2007,Completed
+1851,28,Infra_52D56M,Road,2022,Planned
+1852,38,Infra_XFHFBZ,Electricity,2018,Completed
+1853,4,Infra_XP81T7,Water supply,2012,Ongoing
+1854,18,Infra_ASRB5P,Road,2013,Completed
+1855,47,Infra_Z0UHJ5,Bridge,2013,Planned
+1856,12,Infra_G048UA,Hospital upgrade,2023,Ongoing
+1857,34,Infra_YHWIY9,Electricity,2019,Completed
+1858,18,Infra_O3R3EO,Water supply,2014,Planned
+1859,29,Infra_9XQCZ5,Bridge,2013,Completed
+1860,15,Infra_ZN305Z,Bridge,2020,Completed
+1861,30,Infra_ZHEILU,Water supply,2018,Planned
+1862,6,Infra_KH445Q,Road,2010,Planned
+1863,2,Infra_CL0GWI,Electricity,2015,Completed
+1864,14,Infra_ALGLY4,Water supply,2020,Planned
+1865,30,Infra_25KCGY,Road,2018,Ongoing
+1866,18,Infra_62F1B3,Road,2022,Ongoing
+1867,42,Infra_UEP3AV,Water supply,2014,Planned
+1868,25,Infra_UF5BRN,Water supply,2013,Planned
+1869,4,Infra_K2OPPT,Bridge,2012,Completed
+1870,31,Infra_G0LU1R,Hospital upgrade,2016,Ongoing
+1871,47,Infra_B749B8,Bridge,2019,Completed
+1872,40,Infra_1LW4FK,Water supply,2015,Planned
+1873,46,Infra_25V1N2,Bridge,2009,Completed
+1874,31,Infra_HW4RXX,Electricity,2007,Completed
+1875,22,Infra_4ZZCLM,Electricity,2013,Ongoing
+1876,30,Infra_91F74N,Road,2016,Completed
+1877,26,Infra_5TKQ8S,School construction,2005,Planned
+1878,32,Infra_P22W60,Water supply,2012,Completed
+1879,3,Infra_TLGW69,School construction,2006,Ongoing
+1880,16,Infra_50L3I8,Hospital upgrade,2024,Planned
+1881,47,Infra_505WOH,Bridge,2023,Ongoing
+1882,8,Infra_9B7OOH,Hospital upgrade,2008,Ongoing
+1883,47,Infra_8FY77J,Bridge,2012,Ongoing
+1884,2,Infra_L1RBUK,Water supply,2006,Ongoing
+1885,38,Infra_B4QRXI,Water supply,2011,Completed
+1886,31,Infra_KUO892,School construction,2006,Completed
+1887,30,Infra_5U7S41,Water supply,2006,Planned
+1888,11,Infra_PLT6NG,Water supply,2012,Ongoing
+1889,8,Infra_LX5LKA,Hospital upgrade,2011,Completed
+1890,18,Infra_W2DHVZ,Hospital upgrade,2014,Ongoing
+1891,37,Infra_BCMK7A,Bridge,2018,Ongoing
+1892,28,Infra_LPIBT9,Hospital upgrade,2015,Planned
+1893,31,Infra_7LCLV4,Bridge,2016,Ongoing
+1894,39,Infra_HM5W7I,School construction,2010,Completed
+1895,43,Infra_MUR5TA,School construction,2021,Completed
+1896,18,Infra_ICTNWR,Water supply,2022,Ongoing
+1897,22,Infra_A9P9FA,School construction,2020,Completed
+1898,11,Infra_EMHA2J,Bridge,2018,Ongoing
+1899,24,Infra_08UW3K,Bridge,2018,Ongoing
+1900,16,Infra_9ANQIW,Bridge,2016,Planned
+1901,30,Infra_9J5HS9,Water supply,2005,Ongoing
+1902,14,Infra_YFKRHY,Hospital upgrade,2023,Completed
+1903,47,Infra_OVOD1M,Road,2020,Completed
+1904,12,Infra_D8HLA5,Road,2022,Ongoing
+1905,12,Infra_2ORMLD,Water supply,2018,Ongoing
+1906,33,Infra_RV1NMJ,Electricity,2020,Ongoing
+1907,46,Infra_CRB5F8,Water supply,2007,Planned
+1908,11,Infra_2GWB91,Road,2007,Completed
+1909,46,Infra_G4TST2,Bridge,2022,Planned
+1910,42,Infra_LQ0YY9,Electricity,2016,Completed
+1911,12,Infra_H8Z7NF,Road,2007,Ongoing
+1912,3,Infra_UKU7A3,Water supply,2013,Planned
+1913,47,Infra_GD4RQL,Water supply,2022,Planned
+1914,4,Infra_8PE8CQ,School construction,2023,Planned
+1915,23,Infra_M7CPQX,Road,2009,Planned
+1916,24,Infra_2ECYG0,Road,2006,Ongoing
+1917,45,Infra_XNACKC,Water supply,2012,Completed
+1918,11,Infra_XR32OJ,Water supply,2013,Ongoing
+1919,2,Infra_11VSZU,Water supply,2022,Ongoing
+1920,33,Infra_RVRCAQ,Electricity,2022,Completed
+1921,8,Infra_T4G5UW,Water supply,2012,Ongoing
+1922,13,Infra_VJRBT0,Road,2008,Completed
+1923,46,Infra_OVX7WV,Bridge,2020,Planned
+1924,2,Infra_CIUUQG,Road,2018,Ongoing
+1925,18,Infra_BIKLTA,Road,2011,Ongoing
+1926,6,Infra_S9HUSE,Hospital upgrade,2024,Planned
+1927,27,Infra_OPVE93,Electricity,2019,Planned
+1928,38,Infra_NCUMLV,Bridge,2023,Planned
+1929,5,Infra_K6T1R2,Water supply,2011,Planned
+1930,16,Infra_BQT39D,Electricity,2020,Planned
+1931,42,Infra_OCYVWS,Water supply,2021,Completed
+1932,8,Infra_JS1S3O,School construction,2011,Ongoing
+1933,43,Infra_1UB0W6,School construction,2015,Completed
+1934,14,Infra_CPH5TI,Hospital upgrade,2022,Completed
+1935,18,Infra_00KK5D,Water supply,2011,Completed
+1936,18,Infra_VDQMV1,Electricity,2024,Planned
+1937,40,Infra_2FZ2XI,Bridge,2006,Ongoing
+1938,43,Infra_9TTUQJ,Water supply,2011,Ongoing
+1939,7,Infra_R7J8J6,Electricity,2011,Ongoing
+1940,14,Infra_O2AOJN,Road,2011,Ongoing
+1941,30,Infra_ZBUIC2,Hospital upgrade,2006,Planned
+1942,13,Infra_I2MPZQ,School construction,2020,Planned
+1943,11,Infra_J2AP7O,Bridge,2020,Ongoing
+1944,11,Infra_YHE5AR,Electricity,2019,Completed
+1945,4,Infra_K1WEAY,Road,2007,Ongoing
+1946,4,Infra_988Y12,Road,2019,Completed
+1947,12,Infra_6UF2IH,School construction,2010,Planned
+1948,31,Infra_SSJNDZ,Road,2021,Planned
+1949,39,Infra_JJC062,Water supply,2024,Ongoing
+1950,29,Infra_TCSIHP,Road,2010,Ongoing
+1951,20,Infra_6UD3K6,Water supply,2021,Completed
+1952,8,Infra_RPHL4W,Hospital upgrade,2008,Ongoing
+1953,8,Infra_EGX6K0,Hospital upgrade,2010,Ongoing
+1954,11,Infra_P3PB3K,Hospital upgrade,2011,Ongoing
+1955,47,Infra_F0GD83,Road,2009,Planned
+1956,11,Infra_UTG2ST,Water supply,2015,Planned
+1957,47,Infra_UD372P,Bridge,2017,Planned
+1958,30,Infra_ZWWI4L,Road,2019,Planned
+1959,43,Infra_33BYJF,School construction,2006,Completed
+1960,45,Infra_UTJ6M8,School construction,2016,Completed
+1961,39,Infra_O8O4CW,Bridge,2017,Completed
+1962,18,Infra_7A0VHL,Bridge,2010,Completed
+1963,11,Infra_B6DK83,Hospital upgrade,2022,Planned
+1964,43,Infra_1NHIGH,Water supply,2017,Ongoing
+1965,14,Infra_6DAJT2,Road,2011,Planned
+1966,20,Infra_M8PUXC,Water supply,2019,Ongoing
+1967,28,Infra_OJ92V3,School construction,2012,Ongoing
+1968,44,Infra_MI1UDQ,Bridge,2012,Planned
+1969,3,Infra_52XB68,School construction,2021,Ongoing
+1970,9,Infra_M527ZF,School construction,2008,Planned
+1971,42,Infra_UTPC62,Bridge,2020,Completed
+1972,30,Infra_RVAW1Q,Road,2013,Completed
+1973,16,Infra_J4MACB,Water supply,2005,Ongoing
+1974,11,Infra_2U9GC3,Water supply,2014,Ongoing
+1975,8,Infra_JE09EL,Road,2009,Completed
+1976,3,Infra_ZCBYWU,Bridge,2010,Planned
+1977,30,Infra_CJK0MX,Electricity,2007,Completed
+1978,13,Infra_N2ZZLU,Water supply,2011,Ongoing
+1979,11,Infra_2MVJ96,Water supply,2024,Ongoing
+1980,40,Infra_YFEXOG,Road,2009,Completed
+1981,12,Infra_VILFPP,Hospital upgrade,2015,Completed
+1982,23,Infra_QOCPD2,Road,2018,Ongoing
+1983,30,Infra_77F3XR,School construction,2012,Completed
+1984,23,Infra_EJFV7O,Hospital upgrade,2022,Ongoing
+1985,43,Infra_N57XB0,School construction,2019,Completed
+1986,30,Infra_C56B60,Hospital upgrade,2015,Planned
+1987,11,Infra_GZEDBN,School construction,2022,Ongoing
+1988,26,Infra_6JUYON,Bridge,2021,Completed
+1989,15,Infra_PYD2U8,Electricity,2012,Planned
+1990,43,Infra_SJIDA0,Road,2013,Completed
+1991,8,Infra_A0BH2G,Road,2024,Completed
+1992,1,Infra_8ZPHXY,Water supply,2007,Completed
+1993,36,Infra_3KDWCL,School construction,2022,Planned
+1994,18,Infra_K56BAQ,Hospital upgrade,2020,Ongoing
+1995,31,Infra_YPI64Q,Road,2016,Completed
+1996,41,Infra_N1KMP1,School construction,2019,Planned
+1997,18,Infra_55AU05,Road,2013,Planned
+1998,16,Infra_AO4KHG,School construction,2022,Ongoing
+1999,7,Infra_X30AH1,School construction,2010,Ongoing
+2000,8,Infra_N88R6E,Water supply,2024,Ongoing
+2001,33,Infra_VO0GLK,Water supply,2015,Ongoing
+2002,8,Infra_3B3ISL,School construction,2018,Planned
+2003,11,Infra_B1LSK7,Electricity,2021,Completed
+2004,38,Infra_7K4Z2W,Bridge,2010,Planned
+2005,32,Infra_38582C,Water supply,2014,Ongoing
+2006,40,Infra_PMAWBO,Road,2022,Completed
+2007,11,Infra_Z47C2E,School construction,2007,Ongoing
+2008,8,Infra_3P07CH,Water supply,2011,Completed
+2009,30,Infra_4M2OG5,Electricity,2014,Completed
+2010,17,Infra_1FDD5P,Water supply,2011,Completed
+2011,4,Infra_1G9N2J,Water supply,2015,Planned
+2012,32,Infra_2BJHGN,School construction,2014,Ongoing
+2013,28,Infra_ZZ4V5N,Road,2017,Completed
+2014,8,Infra_DSR6A3,Bridge,2014,Ongoing
+2015,16,Infra_V65QE1,Hospital upgrade,2011,Planned
+2016,38,Infra_HO73H2,Hospital upgrade,2013,Planned
+2017,14,Infra_VHQMBO,Bridge,2023,Completed
+2018,4,Infra_G2SH2X,Electricity,2018,Completed
+2019,18,Infra_6MO1DL,Hospital upgrade,2022,Ongoing
+2020,14,Infra_XQYG0Y,Electricity,2021,Completed
+2021,13,Infra_2QY5ID,Electricity,2024,Ongoing
+2022,1,Infra_LPB80D,Electricity,2007,Completed
+2023,33,Infra_X3FCKW,Road,2017,Completed
+2024,5,Infra_WLUY8C,Hospital upgrade,2011,Ongoing
+2025,10,Infra_NNTWHS,Bridge,2020,Planned
+2026,17,Infra_ZMS977,Road,2005,Planned
+2027,38,Infra_X15C4Y,Electricity,2021,Ongoing
+2028,25,Infra_4FQRMP,School construction,2022,Planned
+2029,17,Infra_YI06HD,School construction,2005,Ongoing
+2030,43,Infra_EH8LH9,Hospital upgrade,2011,Ongoing
+2031,30,Infra_MI9NTX,Water supply,2009,Planned
+2032,41,Infra_SR5Z90,Bridge,2022,Planned
+2033,11,Infra_NDI259,Electricity,2023,Completed
+2034,42,Infra_8ZH5PH,Road,2014,Ongoing
+2035,45,Infra_MB3C15,Water supply,2010,Completed
+2036,22,Infra_M9VR23,Road,2010,Planned
+2037,18,Infra_D4DQ7L,Electricity,2018,Planned
+2038,16,Infra_5WV6UY,Water supply,2015,Completed
+2039,27,Infra_1V54WV,School construction,2007,Completed
+2040,3,Infra_78PL49,Water supply,2007,Planned
+2041,29,Infra_7LCPUX,Hospital upgrade,2010,Completed
+2042,4,Infra_ZHCAIZ,Bridge,2017,Planned
+2043,21,Infra_BYH8HL,Water supply,2005,Completed
+2044,2,Infra_19SELC,Road,2024,Planned
+2045,38,Infra_81BMO0,School construction,2019,Planned
+2046,18,Infra_6HWPVL,Road,2016,Completed
+2047,13,Infra_A879XD,Water supply,2023,Ongoing
+2048,10,Infra_7Y3YYQ,Road,2012,Completed
+2049,30,Infra_B70G5R,Bridge,2017,Planned
+2050,42,Infra_UPWP1Q,Water supply,2006,Planned
+2051,29,Infra_K0ROZK,Water supply,2011,Planned
+2052,35,Infra_9KMG0N,School construction,2022,Ongoing
+2053,12,Infra_EI2ZZS,Electricity,2016,Completed
+2054,26,Infra_3DRBL8,Water supply,2013,Ongoing
+2055,41,Infra_5W7CJM,School construction,2017,Ongoing
+2056,35,Infra_ZOFJNH,Hospital upgrade,2022,Planned
+2057,33,Infra_79PHA6,School construction,2005,Ongoing
+2058,38,Infra_49OFIR,Hospital upgrade,2023,Completed
+2059,1,Infra_F07YK1,Road,2010,Completed
+2060,34,Infra_UY1FB8,Electricity,2015,Completed
+2061,11,Infra_LLCWJL,Bridge,2008,Completed
+2062,12,Infra_W3M10U,Water supply,2006,Planned
+2063,17,Infra_5YK7Z8,Hospital upgrade,2010,Completed
+2064,1,Infra_XSD61Z,Hospital upgrade,2008,Planned
+2065,14,Infra_UQMAP6,Bridge,2008,Completed
+2066,13,Infra_8X4IKG,Electricity,2005,Planned
+2067,15,Infra_7G4DUS,Electricity,2007,Planned
+2068,33,Infra_A860C5,Electricity,2013,Planned
+2069,1,Infra_X0DMR3,Hospital upgrade,2006,Ongoing
+2070,18,Infra_LE0JM4,Road,2015,Planned
+2071,8,Infra_B8PSUR,Electricity,2015,Completed
+2072,31,Infra_GUU7V9,Road,2023,Planned
+2073,3,Infra_YV4JNB,School construction,2007,Completed
+2074,47,Infra_C337C4,Bridge,2024,Completed
+2075,26,Infra_B4ZPPC,Bridge,2023,Ongoing
+2076,30,Infra_NCXGKU,Water supply,2016,Completed
+2077,11,Infra_JQA905,Water supply,2021,Ongoing
+2078,8,Infra_WN84OY,Water supply,2024,Ongoing
+2079,30,Infra_C7DCV8,Road,2017,Ongoing
+2080,46,Infra_UXYMF7,Hospital upgrade,2018,Completed
+2081,38,Infra_W4951W,Electricity,2016,Ongoing
+2082,35,Infra_ROCKR0,Water supply,2014,Ongoing
+2083,27,Infra_UB94LR,Water supply,2024,Ongoing
+2084,37,Infra_KEKB0Q,Hospital upgrade,2012,Completed
+2085,37,Infra_GID8F7,Electricity,2016,Completed
+2086,37,Infra_R3ZESM,Electricity,2016,Ongoing
+2087,13,Infra_TUKLM9,School construction,2024,Ongoing
+2088,17,Infra_HO9SKV,Water supply,2020,Planned
+2089,17,Infra_JZNRVS,Electricity,2018,Ongoing
+2090,21,Infra_F3JDLI,Road,2022,Ongoing
+2091,16,Infra_88VHRM,School construction,2009,Planned
+2092,8,Infra_Q8YVPP,School construction,2009,Ongoing
+2093,9,Infra_EMRD0D,Bridge,2007,Ongoing
+2094,24,Infra_Y2M8AP,Hospital upgrade,2019,Ongoing
+2095,15,Infra_H76ZSZ,Road,2024,Completed
+2096,11,Infra_CE4KKN,Bridge,2017,Completed
+2097,23,Infra_8GUSQZ,Bridge,2018,Planned
+2098,18,Infra_NKDBZI,Bridge,2018,Planned
+2099,10,Infra_SC56DR,School construction,2015,Planned
+2100,27,Infra_3JZRY5,Hospital upgrade,2019,Ongoing
+2101,43,Infra_858UNZ,Road,2017,Ongoing
+2102,23,Infra_N4QQFB,Water supply,2007,Planned
+2103,42,Infra_KQO3KJ,Bridge,2015,Planned
+2104,11,Infra_YW4Y8S,Hospital upgrade,2014,Planned
+2105,25,Infra_1H7VFO,Water supply,2018,Planned
+2106,10,Infra_RT1KYK,Bridge,2005,Completed
+2107,5,Infra_ZN6IOU,Water supply,2016,Completed
+2108,25,Infra_27O9FY,Electricity,2016,Planned
+2109,18,Infra_41UXP1,Bridge,2007,Ongoing
+2110,8,Infra_3ZDQHZ,Electricity,2010,Planned
+2111,11,Infra_NNCEC7,Electricity,2015,Planned
+2112,19,Infra_JF7VY3,School construction,2016,Planned
+2113,6,Infra_KOOBQV,Bridge,2018,Planned
+2114,39,Infra_1OR1L7,Road,2005,Ongoing
+2115,14,Infra_HU2TOV,Road,2008,Ongoing
+2116,22,Infra_7BOC1U,Water supply,2016,Planned
+2117,43,Infra_GU709U,Water supply,2015,Planned
+2118,31,Infra_Y74F27,Water supply,2013,Ongoing
+2119,31,Infra_NSO7NJ,Electricity,2010,Ongoing
+2120,4,Infra_2PXXHI,School construction,2007,Ongoing
+2121,42,Infra_NB6IF6,Water supply,2006,Ongoing
+2122,12,Infra_5BMWB6,Bridge,2015,Planned
+2123,9,Infra_Q9INYJ,Hospital upgrade,2013,Ongoing
+2124,46,Infra_MANQLG,Electricity,2010,Ongoing
+2125,20,Infra_YEJXHQ,Bridge,2010,Completed
+2126,27,Infra_XU4GEE,Water supply,2024,Completed
+2127,24,Infra_TGSNAM,Road,2023,Ongoing
+2128,13,Infra_JCHW0E,Hospital upgrade,2019,Planned
+2129,37,Infra_KMR4JJ,School construction,2021,Completed
+2130,10,Infra_CLMBBL,School construction,2014,Ongoing
+2131,44,Infra_BPCDXO,School construction,2010,Completed
+2132,16,Infra_BJBK1B,Bridge,2024,Completed
+2133,45,Infra_MK1Q2F,Hospital upgrade,2011,Planned
+2134,4,Infra_QQBL1S,Hospital upgrade,2014,Ongoing
+2135,19,Infra_Z73YSR,Water supply,2014,Planned
+2136,12,Infra_PDDWZV,Electricity,2023,Ongoing
+2137,44,Infra_AJ4HH7,Electricity,2021,Completed
+2138,16,Infra_99TYOD,Road,2011,Planned
+2139,17,Infra_QXZXJX,Water supply,2006,Completed
+2140,11,Infra_X64YA2,Water supply,2014,Planned
+2141,30,Infra_KRA10N,School construction,2005,Completed
+2142,29,Infra_UL4MVX,Bridge,2005,Completed
+2143,46,Infra_4IJO2E,Electricity,2021,Ongoing
+2144,23,Infra_DPQ68D,Road,2018,Completed
+2145,30,Infra_69F8JO,Electricity,2023,Ongoing
+2146,26,Infra_SNQ8YS,Electricity,2021,Ongoing
+2147,1,Infra_3MIDDQ,Road,2012,Ongoing
+2148,34,Infra_I98L6E,School construction,2007,Completed
+2149,5,Infra_JA1ORZ,School construction,2021,Completed
+2150,31,Infra_4QG44N,Water supply,2006,Ongoing
+2151,31,Infra_6WEDCS,Hospital upgrade,2010,Completed
+2152,17,Infra_TMMUY2,Road,2022,Completed
+2153,18,Infra_KDPF2O,Bridge,2005,Planned
+2154,8,Infra_3N8B1B,Electricity,2018,Planned
+2155,16,Infra_8VL9B3,Hospital upgrade,2007,Completed
+2156,20,Infra_8Q33WX,Water supply,2019,Planned
+2157,19,Infra_UA48O9,Road,2019,Ongoing
+2158,39,Infra_P9JA73,Hospital upgrade,2023,Ongoing
+2159,18,Infra_ZIIXKZ,Hospital upgrade,2023,Completed
+2160,3,Infra_CUPNLZ,School construction,2011,Completed
+2161,9,Infra_794DOW,Hospital upgrade,2011,Completed
+2162,22,Infra_08BG89,Road,2007,Ongoing
+2163,46,Infra_CSUZDW,Bridge,2008,Completed
+2164,8,Infra_TN1PSB,Hospital upgrade,2022,Ongoing
+2165,30,Infra_I53A3Q,Hospital upgrade,2011,Completed
+2166,17,Infra_F2OXJE,Water supply,2011,Ongoing
+2167,3,Infra_8J8L89,Road,2018,Ongoing
+2168,11,Infra_VPYS6O,School construction,2009,Ongoing
+2169,13,Infra_F1FNTP,Water supply,2006,Completed
+2170,13,Infra_POAK89,Road,2011,Completed
+2171,30,Infra_3NM8Q0,School construction,2006,Planned
+2172,16,Infra_1CP654,Hospital upgrade,2012,Completed
+2173,31,Infra_39XY8U,Electricity,2012,Ongoing
+2174,1,Infra_IKB8F1,Water supply,2012,Ongoing
+2175,4,Infra_2ZJ9SZ,Bridge,2013,Completed
+2176,29,Infra_72BMS2,Bridge,2020,Completed
+2177,43,Infra_7ZMWD3,School construction,2007,Ongoing
+2178,1,Infra_W65JVV,Water supply,2023,Ongoing
+2179,20,Infra_RLDDAQ,Road,2011,Completed
+2180,41,Infra_1ZCOC7,Water supply,2016,Planned
+2181,8,Infra_QPA2RS,Road,2015,Completed
+2182,10,Infra_NV85HR,Hospital upgrade,2023,Planned
+2183,12,Infra_9FDUQE,Water supply,2012,Planned
+2184,11,Infra_BPQIRS,Hospital upgrade,2017,Completed
+2185,28,Infra_PZAS9O,Bridge,2019,Planned
+2186,44,Infra_RCEUFI,School construction,2014,Ongoing
+2187,35,Infra_0H1QT5,Road,2018,Ongoing
+2188,36,Infra_I0XGFU,School construction,2014,Ongoing
+2189,43,Infra_SICJJR,Road,2006,Completed
+2190,47,Infra_PBV9IA,Road,2013,Planned
+2191,39,Infra_GEX83Z,Electricity,2012,Completed
+2192,29,Infra_BOU0IZ,Bridge,2024,Completed
+2193,11,Infra_WF2MHI,Bridge,2007,Completed
+2194,14,Infra_JFKXJG,Bridge,2013,Ongoing
+2195,4,Infra_9YTS93,School construction,2019,Planned
+2196,10,Infra_OC5QHA,Road,2020,Ongoing
+2197,30,Infra_XHGCD9,School construction,2012,Completed
+2198,27,Infra_BKZ06M,Road,2008,Completed
+2199,44,Infra_I5XNQC,Electricity,2024,Planned
+2200,30,Infra_QMI4GW,Water supply,2010,Planned
+2201,7,Infra_K45NX3,Bridge,2018,Planned
+2202,47,Infra_WFRKIJ,Electricity,2012,Planned
+2203,16,Infra_HDL4HV,Bridge,2023,Completed
+2204,18,Infra_Z43WNW,Road,2024,Planned
+2205,28,Infra_1LU70P,Electricity,2013,Completed
+2206,5,Infra_9DZNAT,Bridge,2014,Planned
+2207,6,Infra_PIPBIL,Hospital upgrade,2024,Planned
+2208,8,Infra_JHGP5N,Water supply,2016,Ongoing
+2209,3,Infra_OBLOYH,Road,2010,Ongoing
+2210,11,Infra_AX8FU2,Water supply,2011,Ongoing
+2211,38,Infra_79RNIX,Road,2021,Completed
+2212,25,Infra_70S2AN,Hospital upgrade,2014,Completed
+2213,8,Infra_FFSITT,Water supply,2012,Completed
+2214,17,Infra_W7BMYT,Road,2008,Ongoing
+2215,10,Infra_F3EHYV,Water supply,2006,Ongoing
+2216,17,Infra_CJZ1KJ,Road,2011,Ongoing
+2217,32,Infra_ERO0RS,Water supply,2015,Ongoing
+2218,12,Infra_GXLY5H,School construction,2013,Planned
+2219,19,Infra_SOHGBB,Bridge,2012,Completed
+2220,40,Infra_WKEDMI,Water supply,2008,Planned
+2221,42,Infra_LP8A22,School construction,2020,Ongoing
+2222,13,Infra_8KG3A0,Electricity,2024,Completed
+2223,11,Infra_KPR16Q,Road,2023,Completed
+2224,38,Infra_LO8VNA,Road,2019,Completed
+2225,31,Infra_1NHXQ8,School construction,2005,Ongoing
+2226,29,Infra_FI550O,Hospital upgrade,2017,Completed
+2227,38,Infra_BDTWD8,Bridge,2019,Completed
+2228,11,Infra_JWVHXJ,Hospital upgrade,2020,Completed
+2229,43,Infra_BRNUY4,Hospital upgrade,2015,Completed
+2230,35,Infra_1K1OY2,School construction,2012,Completed
+2231,4,Infra_RJ2QB5,Hospital upgrade,2005,Planned
+2232,18,Infra_Z58K37,Electricity,2006,Ongoing
+2233,5,Infra_1QRWMF,Water supply,2012,Ongoing
+2234,25,Infra_YSKIDA,Bridge,2023,Planned
+2235,7,Infra_12PHLD,Road,2008,Ongoing
+2236,41,Infra_L6NC3Y,Road,2010,Planned
+2237,23,Infra_CYZ8NA,Road,2021,Completed
+2238,5,Infra_1UYDZK,Road,2009,Ongoing
+2239,8,Infra_8J9XTV,Electricity,2008,Ongoing
+2240,30,Infra_L0WH82,Bridge,2022,Ongoing
+2241,14,Infra_BO33OL,Hospital upgrade,2016,Ongoing
+2242,39,Infra_05OPDQ,Road,2021,Completed
+2243,3,Infra_AN9RKJ,School construction,2012,Ongoing
+2244,35,Infra_KKTLDE,Hospital upgrade,2013,Completed
+2245,31,Infra_VCIRDY,Road,2009,Planned
+2246,8,Infra_V1IHSJ,Water supply,2021,Completed
+2247,26,Infra_9OX89G,Hospital upgrade,2005,Planned
+2248,8,Infra_4H9SL0,School construction,2011,Ongoing
+2249,36,Infra_N41CJ7,Road,2019,Completed
+2250,14,Infra_UF5SLF,Electricity,2022,Completed
+2251,29,Infra_OM5D33,Electricity,2010,Ongoing
+2252,35,Infra_TXKGQC,Electricity,2024,Ongoing
+2253,18,Infra_ZN3BAW,Road,2007,Completed
+2254,17,Infra_UQBSP7,Water supply,2014,Completed
+2255,45,Infra_Z7QKGA,School construction,2006,Completed
+2256,33,Infra_TSDCHD,Bridge,2019,Planned
+2257,27,Infra_OPBOS7,Road,2016,Ongoing
+2258,13,Infra_5Y0GJV,School construction,2005,Completed
+2259,12,Infra_SU8WQL,Road,2018,Planned
+2260,4,Infra_HTWE9Z,Water supply,2005,Planned
+2261,18,Infra_7RSO59,Electricity,2010,Planned
+2262,1,Infra_289KH0,Road,2017,Ongoing
+2263,3,Infra_PTJFID,Bridge,2013,Completed
+2264,31,Infra_C0034T,Bridge,2020,Planned
+2265,36,Infra_MYO3CY,Bridge,2011,Ongoing
+2266,45,Infra_CIS5GT,Water supply,2024,Ongoing
+2267,14,Infra_5DQFVE,Bridge,2020,Ongoing
+2268,26,Infra_DV0BGP,School construction,2016,Ongoing
+2269,1,Infra_NUAOJ5,Road,2021,Planned
+2270,21,Infra_3MK6B1,Bridge,2009,Completed
+2271,25,Infra_3FLR53,Water supply,2020,Ongoing
+2272,43,Infra_9WLWY6,School construction,2014,Completed
+2273,23,Infra_CSSJO3,School construction,2012,Completed
+2274,11,Infra_K0R7MO,Hospital upgrade,2008,Ongoing
+2275,23,Infra_S6GMOJ,Road,2021,Planned
+2276,17,Infra_HWLAUU,Road,2024,Completed
+2277,45,Infra_6QC8OE,Road,2010,Completed
+2278,33,Infra_WFQCBL,Hospital upgrade,2019,Completed
+2279,25,Infra_PMCV0B,Hospital upgrade,2019,Planned
+2280,42,Infra_TLBE1L,Electricity,2005,Planned
+2281,19,Infra_GMAJIZ,Hospital upgrade,2008,Completed
+2282,13,Infra_PFMKGL,Water supply,2019,Completed
+2283,13,Infra_CCOPQI,Electricity,2024,Completed
+2284,34,Infra_V6A0CY,School construction,2022,Completed
+2285,12,Infra_C229PY,Hospital upgrade,2012,Planned
+2286,14,Infra_GXWMR9,School construction,2005,Planned
+2287,24,Infra_WV9KIT,Bridge,2021,Completed
+2288,13,Infra_D61K5U,Bridge,2018,Completed
+2289,18,Infra_SSG9WY,Water supply,2023,Planned
+2290,18,Infra_U2XEG9,Road,2020,Completed
+2291,33,Infra_HHGGMI,Bridge,2015,Planned
+2292,3,Infra_IJV51R,Hospital upgrade,2011,Ongoing
+2293,30,Infra_4FNFYM,School construction,2022,Planned
+2294,6,Infra_17AY51,Bridge,2016,Planned
+2295,30,Infra_ZFG9T8,Hospital upgrade,2020,Completed
+2296,11,Infra_AXF2XH,Electricity,2010,Completed
+2297,10,Infra_13TFQL,Electricity,2012,Completed
+2298,24,Infra_Y5IXWU,Water supply,2016,Ongoing
+2299,22,Infra_STUZCN,Bridge,2021,Completed
+2300,7,Infra_7H7JDL,School construction,2024,Planned
+2301,4,Infra_EKV6F1,School construction,2013,Completed
+2302,11,Infra_QEGVEH,School construction,2017,Completed
+2303,34,Infra_B3YOGP,Hospital upgrade,2005,Completed
+2304,36,Infra_4XSWUJ,Electricity,2006,Planned
+2305,30,Infra_4VEJJ3,Bridge,2015,Planned
+2306,33,Infra_HYI493,Electricity,2017,Completed
+2307,42,Infra_4BTHM6,Bridge,2021,Planned
+2308,3,Infra_ABXDP6,School construction,2014,Ongoing
+2309,30,Infra_V8MWET,Water supply,2022,Ongoing
+2310,18,Infra_FHQJXW,School construction,2010,Completed
+2311,16,Infra_NDD7I3,Hospital upgrade,2010,Completed
+2312,16,Infra_SRMV4F,Hospital upgrade,2012,Ongoing
+2313,23,Infra_RPOPQL,Hospital upgrade,2007,Ongoing
+2314,18,Infra_X0F26H,School construction,2015,Completed
+2315,44,Infra_9X6YGU,Bridge,2008,Completed
+2316,14,Infra_ZH66IP,Water supply,2022,Ongoing
+2317,20,Infra_14WQPB,Hospital upgrade,2006,Completed
+2318,27,Infra_9SCZRO,Road,2020,Completed
+2319,12,Infra_8JEMUO,Water supply,2010,Ongoing
+2320,46,Infra_NBPR4T,School construction,2021,Ongoing
+2321,31,Infra_RZ5LOI,School construction,2006,Ongoing
+2322,31,Infra_NCAF5C,Electricity,2007,Completed
+2323,10,Infra_B12A0R,Road,2008,Completed
+2324,13,Infra_B2QAVV,Water supply,2012,Completed
+2325,4,Infra_OT8F5L,Hospital upgrade,2010,Planned
+2326,15,Infra_S2EHRJ,Electricity,2010,Completed
+2327,27,Infra_69J7D1,Hospital upgrade,2007,Completed
+2328,31,Infra_KWKO8A,Bridge,2005,Ongoing
+2329,39,Infra_GPTSSN,School construction,2020,Planned
+2330,47,Infra_RVHQEG,Bridge,2011,Ongoing
+2331,13,Infra_Y6U5NC,Hospital upgrade,2019,Ongoing
+2332,23,Infra_AX8UHT,School construction,2016,Ongoing
+2333,20,Infra_AWFLP8,Bridge,2008,Planned
+2334,3,Infra_83GBF3,Water supply,2019,Planned
+2335,6,Infra_KVWRSY,Hospital upgrade,2016,Completed
+2336,24,Infra_CV9QWM,Hospital upgrade,2017,Completed
+2337,22,Infra_C196NP,Water supply,2014,Planned
+2338,31,Infra_RNDEVG,Electricity,2005,Ongoing
+2339,29,Infra_ANZF6D,Road,2007,Ongoing
+2340,24,Infra_F79M9W,School construction,2017,Completed
+2341,26,Infra_2GBWAZ,Road,2013,Planned
+2342,29,Infra_XK5TI1,Hospital upgrade,2010,Completed
+2343,34,Infra_5V3NZB,Road,2014,Completed
+2344,35,Infra_FI9U9K,Hospital upgrade,2012,Ongoing
+2345,10,Infra_AU1FKL,School construction,2019,Planned
+2346,16,Infra_05FM8Y,Electricity,2008,Planned
+2347,19,Infra_RNV61R,Hospital upgrade,2018,Ongoing
+2348,36,Infra_8IDI8J,School construction,2024,Ongoing
+2349,43,Infra_CAXLXI,Hospital upgrade,2008,Planned
+2350,44,Infra_QWKF25,Bridge,2010,Planned
+2351,22,Infra_1LEIFX,School construction,2012,Completed
+2352,46,Infra_MQA6RC,Road,2014,Completed
+2353,35,Infra_VH0U2W,Electricity,2015,Completed
+2354,36,Infra_ZLE4YA,Road,2019,Planned
+2355,38,Infra_WTBNEC,Hospital upgrade,2022,Completed
+2356,44,Infra_4LHUUH,Water supply,2016,Ongoing
+2357,46,Infra_ITO89H,Hospital upgrade,2019,Ongoing
+2358,34,Infra_LXAC4V,Bridge,2005,Ongoing
+2359,8,Infra_7VUW0B,Electricity,2017,Planned
+2360,14,Infra_Q60I3R,Road,2024,Planned
+2361,1,Infra_RK6OLK,Hospital upgrade,2014,Planned
+2362,11,Infra_I76NQL,Electricity,2005,Ongoing
+2363,31,Infra_BXAMU4,Bridge,2014,Ongoing
+2364,27,Infra_2RJ35P,Bridge,2023,Planned
+2365,29,Infra_OGOOLL,Bridge,2011,Ongoing
+2366,3,Infra_L6MKGU,School construction,2021,Planned
+2367,25,Infra_JUU4I1,School construction,2010,Planned
+2368,11,Infra_3W1UHR,Road,2019,Planned
+2369,11,Infra_DXT5PJ,Electricity,2015,Ongoing
+2370,10,Infra_KIZOG0,Bridge,2021,Planned
+2371,1,Infra_O8DPCQ,Hospital upgrade,2022,Completed
+2372,42,Infra_I1YX20,Bridge,2006,Planned
+2373,31,Infra_HXB3U4,Road,2015,Ongoing
+2374,21,Infra_0JQNUB,Bridge,2010,Ongoing
+2375,10,Infra_VO3F8S,School construction,2012,Ongoing
+2376,6,Infra_348ZIT,School construction,2018,Planned
+2377,7,Infra_8RXB00,Electricity,2014,Completed
+2378,10,Infra_L904AZ,School construction,2010,Ongoing
+2379,34,Infra_4R5SGX,Bridge,2011,Planned
+2380,36,Infra_CKMOZU,Water supply,2007,Planned
+2381,38,Infra_BAKBJI,Bridge,2005,Ongoing
+2382,24,Infra_IEO78E,School construction,2020,Planned
+2383,13,Infra_8NTP03,Electricity,2007,Completed
+2384,24,Infra_2TRW6E,Bridge,2010,Ongoing
+2385,27,Infra_FR1EXD,Road,2009,Planned
+2386,14,Infra_11WUGR,Electricity,2020,Ongoing
+2387,44,Infra_THHHB9,Hospital upgrade,2007,Planned
+2388,19,Infra_L3TWEA,Road,2018,Ongoing
+2389,15,Infra_K35LSI,Electricity,2024,Planned
+2390,13,Infra_6MR2BL,Hospital upgrade,2019,Planned
+2391,8,Infra_PB4NU4,Hospital upgrade,2007,Planned
+2392,47,Infra_A1X99E,School construction,2023,Completed
+2393,31,Infra_8K2CK3,Bridge,2022,Ongoing
+2394,15,Infra_02R0OY,Road,2019,Completed
+2395,30,Infra_HJW9NI,Water supply,2017,Planned
+2396,33,Infra_OT506J,School construction,2024,Planned
+2397,44,Infra_522421,Electricity,2007,Completed
+2398,7,Infra_A0JUYH,School construction,2009,Completed
+2399,17,Infra_8SJC78,School construction,2019,Planned
+2400,45,Infra_9L8QFN,Hospital upgrade,2020,Ongoing
+2401,17,Infra_UKELL2,Road,2014,Ongoing
+2402,24,Infra_CQTFI9,School construction,2020,Completed
+2403,37,Infra_JL6XDZ,Bridge,2008,Planned
+2404,37,Infra_R96EK1,Electricity,2016,Planned
+2405,30,Infra_HCS9JR,Bridge,2023,Ongoing
+2406,15,Infra_XKDGP5,Road,2024,Planned
+2407,39,Infra_R8DO4C,Electricity,2022,Planned
+2408,13,Infra_8M5E8H,Hospital upgrade,2023,Completed
+2409,15,Infra_SB794W,Road,2008,Ongoing
+2410,43,Infra_B9R5PI,School construction,2007,Planned
+2411,16,Infra_FS8RF2,Road,2023,Planned
+2412,10,Infra_HM6WUA,Road,2010,Completed
+2413,8,Infra_92ZYNO,Hospital upgrade,2010,Ongoing
+2414,40,Infra_N8PORW,School construction,2021,Ongoing
+2415,26,Infra_A4P9XY,Water supply,2009,Ongoing
+2416,10,Infra_JYS7IP,Road,2007,Completed
+2417,7,Infra_VYWWQW,Bridge,2023,Completed
+2418,8,Infra_DEFEVX,Water supply,2006,Ongoing
+2419,43,Infra_BGNPR6,Bridge,2005,Ongoing
+2420,4,Infra_TW94UE,Water supply,2022,Completed
+2421,32,Infra_KOLIAD,Hospital upgrade,2011,Completed
+2422,13,Infra_SIZP3U,Hospital upgrade,2011,Ongoing
+2423,41,Infra_E1QZVC,Water supply,2008,Completed
+2424,15,Infra_2WFRAD,Bridge,2021,Ongoing
+2425,44,Infra_L37P8W,Hospital upgrade,2017,Planned
+2426,24,Infra_89QSZ4,Bridge,2024,Planned
+2427,16,Infra_39JT24,Electricity,2018,Completed
+2428,38,Infra_MW2XQF,Electricity,2009,Planned
+2429,12,Infra_XML34N,School construction,2022,Ongoing
+2430,10,Infra_ADW6A5,School construction,2008,Planned
+2431,33,Infra_THCXMR,School construction,2018,Ongoing
+2432,10,Infra_O5WPYO,Hospital upgrade,2018,Ongoing
+2433,29,Infra_JFKFGY,Water supply,2019,Completed
+2434,33,Infra_61XIXK,Water supply,2015,Ongoing
+2435,26,Infra_D9WG7K,Electricity,2022,Planned
+2436,1,Infra_MC3HWT,School construction,2024,Completed
+2437,43,Infra_ISONCP,Electricity,2009,Planned
+2438,46,Infra_9WX1FD,Electricity,2011,Ongoing
+2439,17,Infra_E8N8XL,Electricity,2021,Ongoing
+2440,47,Infra_WBM9W1,Road,2013,Planned
+2441,24,Infra_0IM6DQ,Bridge,2011,Completed
+2442,7,Infra_VRBDKX,Road,2010,Planned
+2443,18,Infra_CIWZ18,School construction,2007,Planned
+2444,5,Infra_Z68WMA,Water supply,2017,Planned
+2445,22,Infra_NC6DTA,School construction,2010,Ongoing
+2446,4,Infra_BHCUDS,Water supply,2010,Planned
+2447,36,Infra_WJPKC4,School construction,2024,Completed
+2448,11,Infra_AB5BOK,School construction,2014,Completed
+2449,13,Infra_34213Q,Road,2021,Planned
+2450,7,Infra_SCM1DI,School construction,2007,Completed
+2451,10,Infra_1ZYTXN,Electricity,2015,Ongoing
+2452,26,Infra_8I3FPI,Bridge,2006,Completed
+2453,40,Infra_DFNF4P,Road,2021,Completed
+2454,6,Infra_T4VBYU,School construction,2018,Ongoing
+2455,7,Infra_4ED5YC,Water supply,2014,Ongoing
+2456,28,Infra_SX39RC,Bridge,2019,Planned
+2457,10,Infra_U091IS,Bridge,2007,Completed
+2458,6,Infra_S87O0G,Road,2005,Completed
+2459,4,Infra_VV0CB3,Hospital upgrade,2014,Planned
+2460,24,Infra_BQOEM2,Electricity,2012,Ongoing
+2461,47,Infra_JWBIBK,School construction,2023,Completed
+2462,47,Infra_OZMCK4,Electricity,2024,Ongoing
+2463,18,Infra_4BSVAH,Bridge,2021,Ongoing
+2464,18,Infra_5YNDOB,Bridge,2020,Ongoing
+2465,24,Infra_X11V47,Bridge,2013,Completed
+2466,42,Infra_4PN7MY,Hospital upgrade,2011,Completed
+2467,29,Infra_ITJZR6,School construction,2020,Ongoing
+2468,33,Infra_UL28WL,Hospital upgrade,2021,Completed
+2469,30,Infra_B3SD65,Bridge,2014,Planned
+2470,38,Infra_FJ7LPY,Electricity,2013,Completed
+2471,35,Infra_1IGRFA,Bridge,2024,Planned
+2472,19,Infra_MGBA2J,School construction,2011,Planned
+2473,11,Infra_QIJZ0C,Hospital upgrade,2005,Planned
+2474,23,Infra_LPDDV8,School construction,2024,Completed
+2475,31,Infra_UU72UJ,Bridge,2021,Ongoing
+2476,27,Infra_RUX227,Road,2016,Completed
+2477,37,Infra_HLM0R2,Water supply,2010,Planned
+2478,46,Infra_O9PCM9,Hospital upgrade,2015,Completed
+2479,40,Infra_AYTHVX,Electricity,2021,Ongoing
+2480,26,Infra_AUAAWD,Water supply,2015,Planned
+2481,40,Infra_DM8VMD,School construction,2005,Ongoing
+2482,41,Infra_H7VRUD,Hospital upgrade,2020,Ongoing
+2483,7,Infra_9D7NK9,School construction,2013,Ongoing
+2484,17,Infra_WRHF53,Bridge,2007,Completed
+2485,44,Infra_CPICX2,Electricity,2022,Planned
+2486,20,Infra_WM3R2E,Electricity,2019,Completed
+2487,32,Infra_XGVDMC,Water supply,2016,Planned
+2488,26,Infra_I86882,Hospital upgrade,2011,Planned
+2489,18,Infra_PSBFY0,Electricity,2010,Ongoing
+2490,13,Infra_8A7ZUU,School construction,2024,Planned
+2491,21,Infra_ZEL7X5,Water supply,2021,Ongoing
+2492,47,Infra_3YBS11,Hospital upgrade,2007,Ongoing
+2493,3,Infra_EWSNPH,School construction,2013,Planned
+2494,27,Infra_UDLXKV,Bridge,2017,Completed
+2495,31,Infra_AYR08J,Electricity,2022,Planned
+2496,36,Infra_ILQIFZ,Electricity,2020,Planned
+2497,40,Infra_64LZAA,Bridge,2016,Ongoing
+2498,8,Infra_PHKPC8,School construction,2006,Planned
+2499,14,Infra_I77LSU,Electricity,2016,Ongoing
+2500,12,Infra_KC5LAP,Bridge,2024,Ongoing
+2501,30,Infra_GGR7H3,Road,2008,Ongoing
+2502,22,Infra_L53FVP,Hospital upgrade,2013,Planned
+2503,35,Infra_B5QABK,Electricity,2007,Completed
+2504,30,Infra_Z6TNYG,Hospital upgrade,2011,Planned
+2505,34,Infra_OYOTK2,Water supply,2013,Ongoing
+2506,32,Infra_FGLBKE,Road,2010,Planned
+2507,10,Infra_T8XTH7,School construction,2015,Completed
+2508,31,Infra_DYLU69,Hospital upgrade,2014,Completed
+2509,3,Infra_ZW6VNR,Water supply,2012,Planned
+2510,22,Infra_RJTTBR,Bridge,2022,Completed
+2511,27,Infra_V5M2MM,Bridge,2023,Planned
+2512,18,Infra_ADI67B,Water supply,2023,Ongoing
+2513,40,Infra_9E9U48,Road,2011,Ongoing
+2514,18,Infra_JX1YCJ,Road,2018,Planned
+2515,35,Infra_AH8HJ7,Water supply,2019,Ongoing
+2516,33,Infra_Z3WECS,Bridge,2022,Ongoing
+2517,45,Infra_TVHE68,Water supply,2016,Completed
+2518,20,Infra_GGLCVU,Hospital upgrade,2007,Completed
+2519,18,Infra_4P75U9,School construction,2005,Completed
+2520,24,Infra_ZUG99V,School construction,2015,Ongoing
+2521,43,Infra_7HHN08,Water supply,2005,Completed
+2522,9,Infra_6HEEXA,School construction,2008,Planned
+2523,10,Infra_Z9UI9H,Road,2006,Completed
+2524,11,Infra_DURI2A,School construction,2013,Ongoing
+2525,21,Infra_5E3VD1,Electricity,2010,Ongoing
+2526,18,Infra_3XUYRZ,Road,2020,Completed
+2527,45,Infra_WTBVD0,Hospital upgrade,2015,Ongoing
+2528,38,Infra_B1ZUQW,Water supply,2011,Planned
+2529,28,Infra_FPUZ0R,Electricity,2010,Completed
+2530,28,Infra_5YOOTY,Hospital upgrade,2014,Planned
+2531,24,Infra_3B96PD,Water supply,2015,Planned
+2532,17,Infra_BVEZ8W,Water supply,2015,Planned
+2533,27,Infra_E69K1D,Hospital upgrade,2020,Planned
+2534,22,Infra_T8H41R,Electricity,2018,Ongoing
+2535,17,Infra_LJZNSN,Water supply,2008,Completed
+2536,29,Infra_IDB9WV,School construction,2024,Planned
+2537,40,Infra_CE828X,Electricity,2021,Planned
+2538,28,Infra_RXPDZX,Water supply,2024,Ongoing
+2539,39,Infra_5Q7LLD,Hospital upgrade,2010,Ongoing
+2540,8,Infra_K0GTUG,Water supply,2023,Completed
+2541,38,Infra_9VDMMW,School construction,2018,Completed
+2542,1,Infra_LFBPAV,Water supply,2022,Ongoing
+2543,32,Infra_RS1UNY,School construction,2017,Planned
+2544,15,Infra_S113LG,School construction,2009,Completed
+2545,30,Infra_TUXD0D,School construction,2011,Planned
+2546,26,Infra_6WGX65,Water supply,2023,Completed
+2547,33,Infra_F2XG6W,Hospital upgrade,2009,Completed
+2548,31,Infra_OLIFHW,Water supply,2016,Completed
+2549,20,Infra_XKY93L,School construction,2008,Ongoing
+2550,5,Infra_4BLO2Q,School construction,2010,Completed
+2551,12,Infra_5PXV5K,Road,2022,Planned
+2552,39,Infra_XQ2X7W,Road,2011,Ongoing
+2553,27,Infra_E0QC5T,Electricity,2010,Planned
+2554,13,Infra_4T3BAN,Road,2013,Ongoing
+2555,18,Infra_9SIHYG,Bridge,2020,Ongoing
+2556,38,Infra_1FAY3Y,Road,2008,Ongoing
+2557,10,Infra_FUZ5FK,Hospital upgrade,2011,Completed
+2558,31,Infra_CJK6Z6,Water supply,2015,Ongoing
+2559,46,Infra_T92UJ3,Electricity,2012,Planned
+2560,26,Infra_NJR0Y8,Bridge,2005,Completed
+2561,28,Infra_AY3INQ,Water supply,2010,Planned
+2562,47,Infra_MGJFJG,Water supply,2010,Ongoing
+2563,17,Infra_B5T48Z,Road,2012,Planned
+2564,37,Infra_B0FWD6,School construction,2007,Completed
+2565,47,Infra_NBIEE4,Bridge,2015,Planned
+2566,20,Infra_VKD1SA,Road,2017,Planned
+2567,11,Infra_UZON5O,Road,2014,Planned
+2568,27,Infra_GL7VZP,Water supply,2019,Completed
+2569,43,Infra_8779TW,Hospital upgrade,2024,Ongoing
+2570,42,Infra_FMC1OK,Bridge,2019,Planned
+2571,18,Infra_CRW697,Road,2009,Ongoing
+2572,16,Infra_3XE001,Bridge,2005,Ongoing
+2573,33,Infra_8SBORP,Bridge,2012,Planned
+2574,30,Infra_L4K4J3,Hospital upgrade,2020,Completed
+2575,37,Infra_7DKFZF,Electricity,2006,Completed
+2576,11,Infra_6ZKOTM,Electricity,2015,Ongoing
+2577,8,Infra_KRZST1,Water supply,2018,Completed
+2578,22,Infra_5Y4KV7,Hospital upgrade,2011,Completed
+2579,3,Infra_JWMVE4,Road,2006,Completed
+2580,2,Infra_LFNFGB,Road,2006,Planned
+2581,13,Infra_M2AUDL,Electricity,2019,Planned
+2582,22,Infra_814LY5,Hospital upgrade,2005,Ongoing
+2583,27,Infra_6UJAGJ,Electricity,2024,Planned
+2584,33,Infra_0Y5EP1,Bridge,2007,Completed
+2585,17,Infra_8JE9YY,Water supply,2015,Ongoing
+2586,12,Infra_Q281R7,Water supply,2024,Completed
+2587,8,Infra_AGDPQP,Electricity,2006,Ongoing
+2588,13,Infra_LMCZQ8,Electricity,2010,Completed
+2589,16,Infra_7UVU5H,School construction,2007,Planned
+2590,1,Infra_SD2DU1,School construction,2010,Completed
+2591,18,Infra_B5VOS6,Electricity,2006,Ongoing
+2592,36,Infra_HXQUTJ,Electricity,2015,Ongoing
+2593,47,Infra_PF8AOY,Water supply,2021,Planned
+2594,30,Infra_Q8UB4A,School construction,2018,Planned
+2595,17,Infra_TX20MJ,School construction,2020,Planned
+2596,28,Infra_RUYXQK,Bridge,2006,Ongoing
+2597,9,Infra_QYRBDU,Bridge,2006,Planned
+2598,24,Infra_9NXNIA,School construction,2022,Completed
+2599,12,Infra_BOEHSR,Bridge,2005,Completed
+2600,22,Infra_35FOGU,Bridge,2013,Completed
+2601,22,Infra_FYP45O,Road,2024,Completed
+2602,31,Infra_L2RPBN,Road,2006,Ongoing
+2603,18,Infra_TJ38SP,School construction,2008,Planned
+2604,3,Infra_XMJG38,Road,2008,Completed
+2605,3,Infra_LFK2W3,Bridge,2010,Planned
+2606,26,Infra_Q5ZE89,Bridge,2005,Ongoing
+2607,10,Infra_0R7Z52,Road,2015,Ongoing
+2608,20,Infra_B8GX7S,Hospital upgrade,2020,Ongoing
+2609,37,Infra_BQX76M,Bridge,2005,Planned
+2610,31,Infra_P51RQ1,Water supply,2012,Planned
+2611,18,Infra_5OT0J2,Water supply,2012,Completed
+2612,30,Infra_6T5AZ8,Water supply,2020,Ongoing
+2613,1,Infra_US7TBB,School construction,2017,Completed
+2614,7,Infra_8XWRY7,Bridge,2007,Ongoing
+2615,40,Infra_5PLEJB,School construction,2021,Completed
+2616,47,Infra_BLWJOB,School construction,2007,Completed
+2617,26,Infra_OAQOSF,Bridge,2019,Ongoing
+2618,6,Infra_ZEU8NV,Bridge,2016,Ongoing
+2619,6,Infra_6HOGPU,Road,2024,Ongoing
+2620,13,Infra_QQTLSH,Bridge,2011,Planned
+2621,24,Infra_2M78E2,Bridge,2021,Planned
+2622,37,Infra_CYSGKQ,Water supply,2013,Ongoing
+2623,43,Infra_ALA06G,Road,2024,Completed
+2624,10,Infra_8MVIBR,Water supply,2019,Ongoing
+2625,13,Infra_KDL95H,Hospital upgrade,2013,Planned
+2626,17,Infra_MQDQS4,Road,2023,Completed
+2627,43,Infra_554EWG,Hospital upgrade,2008,Ongoing
+2628,26,Infra_KC1DDE,Road,2008,Completed
+2629,39,Infra_DZIRYN,Hospital upgrade,2010,Planned
+2630,11,Infra_1F7PP3,Road,2007,Planned
+2631,29,Infra_1PUFZS,Electricity,2014,Ongoing
+2632,8,Infra_PLYA4G,Bridge,2008,Ongoing
+2633,7,Infra_KE2CVR,Bridge,2008,Ongoing
+2634,35,Infra_TMDIS3,School construction,2022,Completed
+2635,26,Infra_U47VI1,Road,2011,Planned
+2636,42,Infra_PYHFVH,Hospital upgrade,2020,Completed
+2637,4,Infra_5KGJDM,Hospital upgrade,2014,Planned
+2638,27,Infra_R03TPZ,Water supply,2012,Completed
+2639,8,Infra_M62ITS,School construction,2009,Ongoing
+2640,36,Infra_7U16E3,Electricity,2021,Planned
+2641,3,Infra_22A08Y,Water supply,2012,Completed
+2642,30,Infra_3BXP3J,Water supply,2009,Ongoing
+2643,31,Infra_MGUL79,Road,2016,Ongoing
+2644,13,Infra_IJ8BRX,Hospital upgrade,2005,Planned
+2645,16,Infra_51U4EY,Hospital upgrade,2012,Planned
+2646,18,Infra_7Z1VD1,Water supply,2014,Completed
+2647,7,Infra_2EZI74,Electricity,2012,Planned
+2648,6,Infra_PMRJ50,Water supply,2012,Ongoing
+2649,12,Infra_YRTNXG,Water supply,2006,Ongoing
+2650,18,Infra_66PNGE,Electricity,2009,Planned
+2651,22,Infra_IKG8WQ,Bridge,2019,Ongoing
+2652,2,Infra_X3AHN9,Road,2018,Ongoing
+2653,28,Infra_PQC9QN,Hospital upgrade,2014,Planned
+2654,29,Infra_TIEPGR,School construction,2012,Planned
+2655,29,Infra_1U5VVN,Bridge,2011,Ongoing
+2656,18,Infra_XH7M85,Hospital upgrade,2011,Planned
+2657,30,Infra_YARNF2,Bridge,2008,Planned
+2658,17,Infra_Y260Y4,School construction,2012,Ongoing
+2659,5,Infra_9Z7WZ8,Water supply,2024,Planned
+2660,43,Infra_7P6FVM,Hospital upgrade,2005,Planned
+2661,45,Infra_KM1IHR,Electricity,2012,Ongoing
+2662,38,Infra_UBASCC,School construction,2008,Ongoing
+2663,14,Infra_2FAF7Y,School construction,2019,Planned
+2664,44,Infra_X1A6GJ,School construction,2007,Ongoing
+2665,4,Infra_X3GCNE,School construction,2006,Planned
+2666,43,Infra_M6MSO1,Electricity,2007,Planned
+2667,36,Infra_BCYZC5,Water supply,2018,Ongoing
+2668,23,Infra_9NG20N,Electricity,2018,Ongoing
+2669,35,Infra_BT6W7F,Electricity,2016,Ongoing
+2670,18,Infra_D0LPY9,Road,2010,Ongoing
+2671,18,Infra_XPJ60J,School construction,2012,Planned
+2672,43,Infra_IN8SDA,Road,2022,Planned
+2673,18,Infra_00O543,Electricity,2017,Planned
+2674,42,Infra_G7HLW8,Bridge,2021,Planned
+2675,30,Infra_6SND21,School construction,2009,Ongoing
+2676,27,Infra_GFMO1B,Bridge,2014,Completed
+2677,34,Infra_U15FMA,Road,2024,Ongoing
+2678,33,Infra_J8165R,Bridge,2012,Planned
+2679,12,Infra_9VKUY5,Road,2013,Planned
+2680,16,Infra_QI1XO3,Road,2013,Completed
+2681,25,Infra_Q24T59,Road,2007,Completed
+2682,34,Infra_ZS4DMQ,Electricity,2021,Planned
+2683,43,Infra_B8E1DM,Electricity,2005,Planned
+2684,44,Infra_1V0MRS,School construction,2006,Ongoing
+2685,6,Infra_FID7NZ,Bridge,2012,Completed
+2686,30,Infra_ZUNMSF,Bridge,2021,Ongoing
+2687,14,Infra_AG790E,School construction,2018,Ongoing
+2688,43,Infra_028UXS,Hospital upgrade,2011,Planned
+2689,10,Infra_OWXE5T,Road,2020,Completed
+2690,47,Infra_6UAC6E,Road,2010,Planned
+2691,4,Infra_FYBMW3,School construction,2022,Planned
+2692,16,Infra_OVOQX1,Electricity,2024,Planned
+2693,30,Infra_90HOUG,Hospital upgrade,2011,Ongoing
+2694,14,Infra_HKXJX2,Hospital upgrade,2009,Ongoing
+2695,31,Infra_NT7XJW,School construction,2012,Planned
+2696,28,Infra_THCNV6,School construction,2016,Ongoing
+2697,18,Infra_3QVUCX,Hospital upgrade,2019,Ongoing
+2698,8,Infra_Q3LO0O,Water supply,2005,Ongoing
+2699,18,Infra_GEI6A1,Hospital upgrade,2016,Ongoing
+2700,11,Infra_11J5F7,Water supply,2005,Planned
+2701,34,Infra_VBBN2V,School construction,2023,Ongoing
+2702,31,Infra_GOFR5W,Electricity,2010,Ongoing
+2703,3,Infra_IBLV7V,School construction,2020,Ongoing
+2704,41,Infra_HSWU7W,Water supply,2023,Planned
+2705,39,Infra_DMWQY4,Electricity,2023,Planned
+2706,30,Infra_4FE0IV,Hospital upgrade,2009,Ongoing
+2707,23,Infra_2Q1JUJ,Road,2020,Planned
+2708,13,Infra_YB3ODE,Water supply,2013,Completed
+2709,12,Infra_MN7B5T,Water supply,2014,Planned
+2710,43,Infra_67VPP4,Electricity,2015,Ongoing
+2711,3,Infra_417UCU,Bridge,2008,Ongoing
+2712,26,Infra_02QHSG,Bridge,2013,Ongoing
+2713,1,Infra_ODRWRH,Water supply,2010,Planned
+2714,18,Infra_8FQO07,Road,2017,Completed
+2715,3,Infra_Z2G3PH,Water supply,2021,Ongoing
+2716,37,Infra_GBM73D,Hospital upgrade,2021,Planned
+2717,4,Infra_60L3B9,Electricity,2014,Ongoing
+2718,46,Infra_UA7HH5,Hospital upgrade,2007,Ongoing
+2719,7,Infra_2GH6QQ,Hospital upgrade,2014,Ongoing
+2720,46,Infra_YDZAY2,Road,2019,Ongoing
+2721,13,Infra_TDFA2Y,Hospital upgrade,2015,Planned
+2722,34,Infra_74608B,Hospital upgrade,2010,Planned
+2723,46,Infra_4D21BT,Electricity,2005,Planned
+2724,33,Infra_024CQS,Water supply,2010,Ongoing
+2725,36,Infra_DZJ0SM,Hospital upgrade,2021,Ongoing
+2726,10,Infra_8DGKZC,Electricity,2019,Completed
+2727,45,Infra_8P53CO,Hospital upgrade,2012,Planned
+2728,28,Infra_GLULBD,Water supply,2009,Planned
+2729,25,Infra_IGDA6C,Road,2006,Completed
+2730,42,Infra_3P8LFX,Hospital upgrade,2016,Completed
+2731,11,Infra_5X7SJ2,Hospital upgrade,2024,Completed
+2732,40,Infra_GWAQLH,Road,2019,Planned
+2733,9,Infra_ZZ6F6G,Hospital upgrade,2008,Planned
+2734,39,Infra_4IEWUF,School construction,2016,Completed
+2735,2,Infra_O5I3XH,Bridge,2012,Completed
+2736,11,Infra_AU9CEH,Bridge,2016,Planned
+2737,36,Infra_Z407D2,Electricity,2013,Planned
+2738,29,Infra_2BAY6Z,Road,2010,Planned
+2739,5,Infra_DH2V5F,Road,2014,Planned
+2740,33,Infra_LHNZRF,School construction,2019,Completed
+2741,18,Infra_JVSZ9E,Water supply,2018,Planned
+2742,38,Infra_TU5PUS,Electricity,2015,Completed
+2743,43,Infra_NAIFCS,School construction,2015,Planned
+2744,6,Infra_TSZUIC,Road,2024,Planned
+2745,30,Infra_8LAOLH,Water supply,2006,Completed
+2746,45,Infra_ISLRFA,Road,2008,Ongoing
+2747,35,Infra_0YWXZY,Water supply,2016,Ongoing
+2748,8,Infra_UWN72J,Hospital upgrade,2016,Ongoing
+2749,22,Infra_WO8D1C,Road,2011,Ongoing
+2750,42,Infra_X2512W,Hospital upgrade,2006,Completed
+2751,11,Infra_YJMJCS,Water supply,2018,Completed
+2752,14,Infra_YRZEJ0,Electricity,2012,Completed
+2753,18,Infra_P4ROW7,School construction,2023,Completed
+2754,34,Infra_F43MAB,Water supply,2018,Completed
+2755,44,Infra_QF5RB6,School construction,2011,Ongoing
+2756,35,Infra_PGD2RY,Water supply,2008,Ongoing
+2757,47,Infra_E62XJV,Water supply,2019,Ongoing
+2758,24,Infra_WCRCR1,Hospital upgrade,2019,Ongoing
+2759,16,Infra_KBU7UY,School construction,2016,Completed
+2760,31,Infra_H022NC,Electricity,2013,Completed
+2761,24,Infra_P4HG1R,Road,2012,Planned
+2762,47,Infra_WRS2C1,Bridge,2005,Ongoing
+2763,1,Infra_O7EH2E,School construction,2009,Completed
+2764,15,Infra_W0H6BQ,Water supply,2017,Planned
+2765,22,Infra_6P5DG6,Hospital upgrade,2006,Ongoing
+2766,22,Infra_1W793W,Electricity,2010,Completed
+2767,8,Infra_OMNASQ,Hospital upgrade,2007,Ongoing
+2768,18,Infra_84IB3V,School construction,2016,Completed
+2769,11,Infra_GJE1C7,Road,2005,Planned
+2770,8,Infra_LKHCBG,Electricity,2019,Planned
+2771,45,Infra_MPBFXC,School construction,2022,Planned
+2772,40,Infra_IULBGZ,Bridge,2021,Ongoing
+2773,15,Infra_YIT0V9,Water supply,2006,Completed
+2774,28,Infra_YRGNI2,Road,2008,Completed
+2775,45,Infra_G4CQXX,School construction,2019,Ongoing
+2776,1,Infra_HSD1QQ,Water supply,2014,Completed
+2777,3,Infra_WH062F,Water supply,2011,Planned
+2778,43,Infra_LRJ48B,Water supply,2013,Planned
+2779,18,Infra_UTUD3L,Bridge,2019,Planned
+2780,25,Infra_GGPMB0,Bridge,2014,Completed
+2781,26,Infra_M0DROS,School construction,2020,Completed
+2782,33,Infra_LSDZWS,School construction,2024,Planned
+2783,39,Infra_GBMCHG,Bridge,2009,Completed
+2784,39,Infra_2RRCX0,School construction,2012,Planned
+2785,20,Infra_FCBMI1,Hospital upgrade,2010,Ongoing
+2786,1,Infra_BTJY1C,School construction,2006,Planned
+2787,30,Infra_5C4SCF,Water supply,2019,Completed
+2788,21,Infra_IXH2ZJ,Bridge,2018,Completed
+2789,22,Infra_BRPJWQ,Bridge,2020,Ongoing
+2790,44,Infra_SJ73N5,School construction,2015,Ongoing
+2791,30,Infra_V5QJ6M,Electricity,2009,Planned
+2792,7,Infra_L73J0Q,Road,2006,Ongoing
+2793,38,Infra_M9M1N8,Electricity,2022,Ongoing
+2794,36,Infra_CAEIV8,Bridge,2005,Planned
+2795,27,Infra_N18EOV,Road,2020,Ongoing
+2796,15,Infra_WV53CU,School construction,2018,Completed
+2797,7,Infra_W49VUB,School construction,2006,Completed
+2798,13,Infra_TU24Y5,School construction,2011,Ongoing
+2799,31,Infra_GUN2AI,Hospital upgrade,2011,Completed
+2800,36,Infra_4ZQUPY,Water supply,2014,Planned
+2801,41,Infra_KAVKWE,Hospital upgrade,2019,Ongoing
+2802,15,Infra_TATAOY,Electricity,2020,Completed
+2803,35,Infra_QPKY3P,Road,2007,Ongoing
+2804,31,Infra_ADJM3F,Road,2018,Completed
+2805,30,Infra_T79Q54,Hospital upgrade,2019,Planned
+2806,32,Infra_2R7V1C,Bridge,2012,Ongoing
+2807,31,Infra_FWEVB1,Hospital upgrade,2017,Completed
+2808,30,Infra_YRGCA7,Water supply,2013,Ongoing
+2809,16,Infra_0QHWL7,School construction,2009,Completed
+2810,36,Infra_DJ8ACU,Hospital upgrade,2023,Ongoing
+2811,40,Infra_0SLQYR,Road,2023,Ongoing
+2812,6,Infra_MAPUF3,Road,2015,Planned
+2813,37,Infra_ME29Q4,Hospital upgrade,2013,Planned
+2814,6,Infra_ZHOYX1,Road,2016,Planned
+2815,14,Infra_37S6KY,Road,2007,Completed
+2816,35,Infra_F9RW0A,Road,2022,Ongoing
+2817,15,Infra_GXJ8GL,Bridge,2022,Planned
+2818,3,Infra_AUMR2X,Hospital upgrade,2019,Planned
+2819,33,Infra_CF7JME,Electricity,2022,Ongoing
+2820,32,Infra_CPEAPO,Road,2012,Planned
+2821,38,Infra_MXI8RX,School construction,2017,Planned
+2822,11,Infra_HL3754,School construction,2010,Completed
+2823,27,Infra_G2NR5Q,School construction,2016,Planned
+2824,7,Infra_RD7CG4,Electricity,2007,Ongoing
+2825,31,Infra_UBC0C5,Electricity,2015,Completed
+2826,22,Infra_5EK0SI,School construction,2019,Completed
+2827,25,Infra_KLB8GT,Water supply,2024,Completed
+2828,34,Infra_96I9HP,Water supply,2014,Ongoing
+2829,11,Infra_B7MKXT,Water supply,2023,Planned
+2830,16,Infra_7XUPGO,Road,2023,Ongoing
+2831,25,Infra_OXBH3A,School construction,2021,Ongoing
+2832,15,Infra_ZHBW4D,School construction,2016,Ongoing
+2833,10,Infra_WA36AP,Water supply,2018,Completed
+2834,11,Infra_EHJODO,Road,2007,Ongoing
+2835,38,Infra_V701Z6,Bridge,2007,Planned
+2836,42,Infra_ALM3CI,School construction,2021,Planned
+2837,30,Infra_STN7KT,School construction,2014,Completed
+2838,30,Infra_79HUOK,Bridge,2014,Completed
+2839,29,Infra_RJQ170,Road,2009,Planned
+2840,41,Infra_UXFDR2,Water supply,2023,Ongoing
+2841,45,Infra_Q04R84,Hospital upgrade,2009,Completed
+2842,16,Infra_0YP6WY,Bridge,2013,Planned
+2843,45,Infra_E218ZY,Water supply,2008,Completed
+2844,8,Infra_R9FDGM,Bridge,2020,Completed
+2845,2,Infra_RPUNYD,Hospital upgrade,2009,Completed
+2846,39,Infra_ZVJDXX,Electricity,2005,Ongoing
+2847,38,Infra_SOCARS,Road,2021,Planned
+2848,13,Infra_N4NBDX,Road,2013,Planned
+2849,27,Infra_DPJ56R,Water supply,2019,Completed
+2850,17,Infra_I53Z7Q,School construction,2008,Planned
+2851,23,Infra_SI4OIY,Water supply,2019,Completed
+2852,14,Infra_N0HPP0,Bridge,2012,Ongoing
+2853,1,Infra_45ZHXS,Electricity,2011,Ongoing
+2854,31,Infra_U7942V,Hospital upgrade,2020,Planned
+2855,27,Infra_AJJTLV,Hospital upgrade,2020,Completed
+2856,26,Infra_LUASJM,Water supply,2016,Planned
+2857,22,Infra_BWB9VO,Electricity,2023,Ongoing
+2858,30,Infra_VZ9XL0,School construction,2017,Planned
+2859,13,Infra_NRT6SC,School construction,2011,Completed
+2860,8,Infra_OZLJZA,Hospital upgrade,2024,Ongoing
+2861,22,Infra_00JWYN,Hospital upgrade,2021,Completed
+2862,18,Infra_5EFFRQ,Road,2012,Planned
+2863,22,Infra_RUHLUW,Bridge,2016,Planned
+2864,15,Infra_WFWWHH,Electricity,2014,Planned
+2865,30,Infra_HBJDT3,Water supply,2010,Ongoing
+2866,11,Infra_IS3QPW,Bridge,2008,Completed
+2867,46,Infra_3C3YSQ,Road,2005,Ongoing
+2868,11,Infra_D3MSXB,Water supply,2024,Completed
+2869,10,Infra_GNIQQY,Bridge,2005,Ongoing
+2870,4,Infra_S3PYJW,Water supply,2014,Ongoing
+2871,45,Infra_LW9TU2,Road,2012,Planned
+2872,17,Infra_I2SAJO,Road,2015,Planned
+2873,39,Infra_9JTRLK,School construction,2005,Completed
+2874,4,Infra_JWMWO3,School construction,2005,Planned
+2875,44,Infra_MP51OW,Road,2010,Ongoing
+2876,7,Infra_B4JS70,Water supply,2021,Completed
+2877,39,Infra_FGYMLG,Hospital upgrade,2022,Ongoing
+2878,36,Infra_10DP22,Electricity,2024,Planned
+2879,16,Infra_COSEHY,School construction,2013,Planned
+2880,16,Infra_YTVBI0,Bridge,2008,Ongoing
+2881,42,Infra_7531EH,Bridge,2007,Completed
+2882,7,Infra_7MJTHF,Road,2010,Planned
+2883,7,Infra_8N9SFK,School construction,2005,Completed
+2884,40,Infra_PE0E9K,Hospital upgrade,2017,Planned
+2885,8,Infra_QN9QCO,Road,2019,Completed
+2886,42,Infra_AGSQBG,Bridge,2010,Completed
+2887,2,Infra_RVQWZI,Water supply,2024,Planned
+2888,7,Infra_F8S60K,Electricity,2016,Planned
+2889,18,Infra_ZF9Z6S,Road,2014,Planned
+2890,18,Infra_HXGS1M,Electricity,2019,Planned
+2891,6,Infra_LQ11DN,Road,2011,Ongoing
+2892,46,Infra_8Z7BRJ,Electricity,2014,Completed
+2893,23,Infra_WCJJ6R,Bridge,2010,Completed
+2894,36,Infra_DIUVN7,School construction,2006,Completed
+2895,33,Infra_LY4V1M,School construction,2023,Planned
+2896,38,Infra_NSF7ON,Hospital upgrade,2019,Planned
+2897,5,Infra_QLQGWL,Bridge,2006,Completed
+2898,23,Infra_03WBFO,School construction,2008,Completed
+2899,27,Infra_0GYVNK,Water supply,2010,Planned
+2900,43,Infra_YFW3Q3,Road,2007,Ongoing
+2901,30,Infra_BWHU8V,School construction,2011,Planned
+2902,10,Infra_SY6QOS,Road,2013,Completed
+2903,26,Infra_IMKC25,Electricity,2019,Planned
+2904,5,Infra_KFLDS7,Bridge,2008,Ongoing
+2905,41,Infra_RTPZOF,Hospital upgrade,2017,Planned
+2906,16,Infra_4MHAVK,Electricity,2005,Ongoing
+2907,26,Infra_ZJ2A2V,Water supply,2008,Completed
+2908,35,Infra_1JJBYX,Road,2009,Planned
+2909,26,Infra_8FV44R,School construction,2021,Ongoing
+2910,24,Infra_A8XRMR,Water supply,2020,Ongoing
+2911,3,Infra_2EXWJR,School construction,2005,Ongoing
+2912,31,Infra_MNVUQ5,School construction,2020,Planned
+2913,37,Infra_Y93EWZ,School construction,2021,Ongoing
+2914,19,Infra_2575JM,Electricity,2020,Completed
+2915,31,Infra_WMN12A,Electricity,2011,Completed
+2916,26,Infra_T9TIN0,Road,2023,Ongoing
+2917,2,Infra_9UCU5N,Electricity,2010,Completed
+2918,26,Infra_82LWA6,Bridge,2013,Completed
+2919,6,Infra_D87BZY,Electricity,2021,Planned
+2920,38,Infra_RTMNIT,Bridge,2021,Completed
+2921,2,Infra_3TIS13,Road,2023,Ongoing
+2922,8,Infra_ISR555,Water supply,2008,Planned
+2923,41,Infra_3PEB5J,Road,2015,Completed
+2924,27,Infra_VHH30Q,Bridge,2020,Completed
+2925,17,Infra_YOXWOA,School construction,2005,Completed
+2926,11,Infra_L5ZKBG,School construction,2020,Planned
+2927,2,Infra_SEPSRA,Road,2015,Ongoing
+2928,35,Infra_BSKPC4,Road,2014,Ongoing
+2929,30,Infra_5M2H6P,Hospital upgrade,2019,Completed
+2930,31,Infra_JBLI32,Water supply,2008,Planned
+2931,28,Infra_FTQ3B2,Water supply,2021,Planned
+2932,7,Infra_XF2QKZ,Hospital upgrade,2021,Planned
+2933,31,Infra_CQT2JE,Water supply,2008,Ongoing
+2934,8,Infra_K486OP,Hospital upgrade,2022,Planned
+2935,14,Infra_081DPH,Bridge,2014,Completed
+2936,38,Infra_569FGH,School construction,2024,Planned
+2937,36,Infra_4GVQU0,Hospital upgrade,2007,Planned
+2938,12,Infra_9O2LRW,Road,2011,Completed
+2939,13,Infra_2ZF0AN,Water supply,2008,Completed
+2940,10,Infra_K5FQC2,Road,2007,Ongoing
+2941,27,Infra_5K3Q8T,School construction,2016,Completed
+2942,31,Infra_X0CVW3,Road,2009,Completed
+2943,20,Infra_DIT7ES,School construction,2011,Completed
+2944,4,Infra_09NCHT,Road,2010,Completed
+2945,36,Infra_U0YBLB,Bridge,2024,Planned
+2946,35,Infra_5L74C2,School construction,2009,Ongoing
+2947,23,Infra_7VI2SX,Electricity,2013,Ongoing
+2948,31,Infra_VOFXG9,Water supply,2009,Completed
+2949,15,Infra_H8AQHG,Hospital upgrade,2006,Completed
+2950,17,Infra_2GGBEK,Water supply,2010,Completed
+2951,40,Infra_OQDA3M,Road,2024,Ongoing
+2952,16,Infra_8QNLXS,Water supply,2021,Ongoing
+2953,1,Infra_LC8NAE,Bridge,2020,Completed
+2954,18,Infra_R0EVYS,Road,2008,Planned
+2955,31,Infra_7A2S0X,Hospital upgrade,2011,Ongoing
+2956,17,Infra_WSEW8K,School construction,2007,Ongoing
+2957,11,Infra_H0U147,Electricity,2007,Planned
+2958,38,Infra_WFM4HG,Hospital upgrade,2020,Completed
+2959,38,Infra_E6QQCT,Water supply,2023,Completed
+2960,3,Infra_P064VH,Road,2024,Completed
+2961,4,Infra_JIW52O,Water supply,2024,Ongoing
+2962,8,Infra_IVR2NC,School construction,2008,Completed
+2963,41,Infra_YVXE7D,Water supply,2008,Completed
+2964,39,Infra_13D4JL,Electricity,2006,Planned
+2965,40,Infra_NQS3RO,Road,2024,Completed
+2966,18,Infra_M9EAL2,Road,2018,Ongoing
+2967,7,Infra_SGZ6HF,Electricity,2020,Ongoing
+2968,29,Infra_YVSYQL,Road,2007,Ongoing
+2969,31,Infra_H9LD9R,Water supply,2011,Planned
+2970,38,Infra_AJN03O,Hospital upgrade,2013,Planned
+2971,44,Infra_906XPX,Water supply,2009,Ongoing
+2972,5,Infra_855GRD,Water supply,2018,Completed
+2973,3,Infra_FHRE5I,Water supply,2009,Planned
+2974,19,Infra_CH7WLU,School construction,2021,Completed
+2975,43,Infra_J25LG2,Hospital upgrade,2015,Completed
+2976,8,Infra_SODEEZ,Road,2014,Planned
+2977,26,Infra_6JMD6E,Electricity,2020,Ongoing
+2978,10,Infra_L977IH,Road,2017,Planned
+2979,19,Infra_BIKV3T,Hospital upgrade,2014,Ongoing
+2980,33,Infra_3TPZSU,Electricity,2024,Ongoing
+2981,11,Infra_1XDV1V,Electricity,2016,Completed
+2982,8,Infra_6V81S2,Water supply,2014,Completed
+2983,20,Infra_KPBZI5,Electricity,2018,Completed
+2984,17,Infra_FL3BKY,School construction,2013,Completed
+2985,3,Infra_9V5WG1,Electricity,2010,Ongoing
+2986,1,Infra_E4Q1LH,Bridge,2024,Completed
+2987,13,Infra_JGHPXO,Hospital upgrade,2017,Ongoing
+2988,6,Infra_5XF2GU,Water supply,2009,Completed
+2989,15,Infra_2QAHH5,School construction,2019,Ongoing
+2990,7,Infra_L9SVNM,Bridge,2022,Planned
+2991,30,Infra_GK9U9Z,Road,2023,Ongoing
+2992,35,Infra_GNOLLG,School construction,2019,Ongoing
+2993,40,Infra_DPOCRK,School construction,2014,Completed
+2994,38,Infra_XV6DJK,Bridge,2008,Ongoing
+2995,33,Infra_YHR6HL,Electricity,2010,Ongoing
+2996,27,Infra_CCCVAY,Water supply,2021,Ongoing
+2997,38,Infra_KY8UVE,Electricity,2007,Planned
+2998,11,Infra_TYQ9Q1,Water supply,2023,Completed
+2999,3,Infra_CP2JRP,Water supply,2021,Ongoing
+3000,8,Infra_09QIZU,Road,2022,Completed

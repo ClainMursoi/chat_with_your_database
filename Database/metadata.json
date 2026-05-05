@@ -1,0 +1,13 @@
+{
+  "generated_on": "2025-10-29T11:45:15.747645Z",
+  "rows": {
+    "counties.csv": 47,
+    "subcounties.csv": 292,
+    "households.csv": 120000,
+    "persons.csv": 360000,
+    "businesses.csv": 25000,
+    "schools.csv": 8000,
+    "health_facilities.csv": 6000,
+    "infrastructure_projects.csv": 3000
+  }
+}
